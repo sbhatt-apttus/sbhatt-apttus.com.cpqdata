@@ -14,12 +14,12 @@
         <Create>
             <sObjects xsi:type="Apttus__ComplySystemProperties__c">
                 <Name>System Proporties</Name>
-                <CreatedBy.Id>0052D000000i0phQAA</CreatedBy.Id>
-                <CreatedBy.Name>Mitul Patel</CreatedBy.Name>
-                <CreatedDate>2018-06-23T10:30:04.000+0000</CreatedDate>
-                <LastModifiedBy.Id>0052D000000i0phQAA</LastModifiedBy.Id>
-                <LastModifiedBy.Name>Mitul Patel</LastModifiedBy.Name>
-                <LastModifiedDate>2018-06-23T10:30:04.000+0000</LastModifiedDate>
+                <CreatedBy.Id>0052D000000iRpAQAU</CreatedBy.Id>
+                <CreatedBy.Name>Shubham Bhatt</CreatedBy.Name>
+                <CreatedDate>2018-08-22T18:37:45.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000iRpAQAU</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Shubham Bhatt</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-22T18:37:45.000+0000</LastModifiedDate>
                 <Apttus__AdminUser__c>Shivani Rathod</Apttus__AdminUser__c>
                 <Apttus__AllowPDFSelectionOverride__c>true</Apttus__AllowPDFSelectionOverride__c>
                 <Apttus__AllowPrivateSelectionOverride__c>true</Apttus__AllowPrivateSelectionOverride__c>
@@ -34,22 +34,22 @@
             </sObjects>
             <sObjects xsi:type="Apttus__ComplyCustomProperties__c">
                 <Name>Apttus_Proposal__Proposal__c</Name>
-                <CreatedBy.Id>0052D000000i0phQAA</CreatedBy.Id>
-                <CreatedBy.Name>Mitul Patel</CreatedBy.Name>
-                <CreatedDate>2018-06-23T10:30:04.000+0000</CreatedDate>
-                <LastModifiedBy.Id>0052D000000i0phQAA</LastModifiedBy.Id>
-                <LastModifiedBy.Name>Mitul Patel</LastModifiedBy.Name>
-                <LastModifiedDate>2018-06-23T10:30:04.000+0000</LastModifiedDate>
+                <CreatedBy.Id>0052D000000iRpAQAU</CreatedBy.Id>
+                <CreatedBy.Name>Shubham Bhatt</CreatedBy.Name>
+                <CreatedDate>2018-08-22T18:37:45.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000iRpAQAU</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Shubham Bhatt</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-22T18:37:45.000+0000</LastModifiedDate>
                 <Apttus__DocAssemblyRuleFieldSetName__c>Apttus_Proposal__QuoteDocAssemblyFilterFields</Apttus__DocAssemblyRuleFieldSetName__c>
             </sObjects>
             <sObjects xsi:type="Apttus_Config2__ConfigSmartSearchSettings__c">
                 <Name>1 NGDefault zg7EKH2AYdkHcoA</Name>
-                <CreatedBy.Id>0052D000000i0phQAA</CreatedBy.Id>
-                <CreatedBy.Name>Mitul Patel</CreatedBy.Name>
-                <CreatedDate>2018-06-23T10:30:07.000+0000</CreatedDate>
-                <LastModifiedBy.Id>0052D000000i0phQAA</LastModifiedBy.Id>
-                <LastModifiedBy.Name>Mitul Patel</LastModifiedBy.Name>
-                <LastModifiedDate>2018-06-23T10:30:07.000+0000</LastModifiedDate>
+                <CreatedBy.Id>0052D000000iRpAQAU</CreatedBy.Id>
+                <CreatedBy.Name>Shubham Bhatt</CreatedBy.Name>
+                <CreatedDate>2018-08-22T18:37:45.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000iRpAQAU</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Shubham Bhatt</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-22T18:37:45.000+0000</LastModifiedDate>
                 <Apttus_Config2__FieldName__c>Name</Apttus_Config2__FieldName__c>
                 <Apttus_Config2__Flow__c>NGDefault</Apttus_Config2__Flow__c>
                 <Apttus_Config2__Sequence__c>1</Apttus_Config2__Sequence__c>
@@ -58,12 +58,12 @@
             </sObjects>
             <sObjects xsi:type="Apttus_Config2__InstalledProductsSettings__c">
                 <Name>Primary Settings</Name>
-                <CreatedBy.Id>0052D000000i0phQAA</CreatedBy.Id>
-                <CreatedBy.Name>Mitul Patel</CreatedBy.Name>
-                <CreatedDate>2018-06-23T10:30:08.000+0000</CreatedDate>
-                <LastModifiedBy.Id>0052D000000hMbzQAE</LastModifiedBy.Id>
-                <LastModifiedBy.Name>Shivani Rathod</LastModifiedBy.Name>
-                <LastModifiedDate>2018-07-10T07:35:28.000+0000</LastModifiedDate>
+                <CreatedBy.Id>0052D000000iRpAQAU</CreatedBy.Id>
+                <CreatedBy.Name>Shubham Bhatt</CreatedBy.Name>
+                <CreatedDate>2018-08-22T18:37:45.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000iRpAQAU</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Shubham Bhatt</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-22T18:37:45.000+0000</LastModifiedDate>
                 <Apttus_Config2__AllowMassChange__c>true</Apttus_Config2__AllowMassChange__c>
                 <Apttus_Config2__AmendChangeFields__c>Incremental_Quantity__c,Increment_Adjustment__c,Partner_Gross_Price__c</Apttus_Config2__AmendChangeFields__c>
                 <Apttus_Config2__AssetSource__c>Apttus_Config2__AccountId__c</Apttus_Config2__AssetSource__c>
@@ -78,34 +78,32 @@
             </sObjects>
             <sObjects xsi:type="Apttus_Config2__ConfigSelectBundleOptionsSettings__c">
                 <Name>Primary Settings</Name>
-                <CreatedBy.Id>0052D000000i0phQAA</CreatedBy.Id>
-                <CreatedBy.Name>Mitul Patel</CreatedBy.Name>
-                <CreatedDate>2018-06-23T10:30:07.000+0000</CreatedDate>
-                <LastModifiedBy.Id>0052D000000i0phQAA</LastModifiedBy.Id>
-                <LastModifiedBy.Name>Mitul Patel</LastModifiedBy.Name>
-                <LastModifiedDate>2018-06-23T10:30:07.000+0000</LastModifiedDate>
+                <CreatedBy.Id>0052D000000iRpAQAU</CreatedBy.Id>
+                <CreatedBy.Name>Shubham Bhatt</CreatedBy.Name>
+                <CreatedDate>2018-08-22T18:37:45.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000iRpAQAU</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Shubham Bhatt</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-22T18:37:45.000+0000</LastModifiedDate>
                 <Apttus_Config2__HideDisabledOptions__c>true</Apttus_Config2__HideDisabledOptions__c>
                 <Apttus_Config2__MainSectionRatio__c>0:70:30</Apttus_Config2__MainSectionRatio__c>
                 <Apttus_Config2__MaxInlineOptionAttributes__c>3</Apttus_Config2__MaxInlineOptionAttributes__c>
             </sObjects>
             <sObjects xsi:type="Apttus_Config2__ConfigSystemProperties__c">
                 <Name>System Properties</Name>
-                <CreatedBy.Id>0052D000000i0phQAA</CreatedBy.Id>
-                <CreatedBy.Name>Mitul Patel</CreatedBy.Name>
-                <CreatedDate>2018-06-23T10:30:08.000+0000</CreatedDate>
-                <LastModifiedBy.Id>0052D0000017FoUQAU</LastModifiedBy.Id>
-                <LastModifiedBy.Name>Sreenivasulu Nellore</LastModifiedBy.Name>
-                <LastModifiedDate>2018-08-21T23:02:50.000+0000</LastModifiedDate>
+                <CreatedBy.Id>0052D000000iRpAQAU</CreatedBy.Id>
+                <CreatedBy.Name>Shubham Bhatt</CreatedBy.Name>
+                <CreatedDate>2018-08-22T18:37:45.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000iRpAQAU</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Shubham Bhatt</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-22T18:37:45.000+0000</LastModifiedDate>
                 <Apttus_Config2__AdminUser__c>jef benigno</Apttus_Config2__AdminUser__c>
-                <Apttus_Config2__AlertSelectedExclude__c>true</Apttus_Config2__AlertSelectedExclude__c>
                 <Apttus_Config2__AutoUpdateCategoryView__c>true</Apttus_Config2__AutoUpdateCategoryView__c>
                 <Apttus_Config2__CSSOverride__c>CartCssOverride</Apttus_Config2__CSSOverride__c>
                 <Apttus_Config2__CartTheme__c>Nova</Apttus_Config2__CartTheme__c>
                 <Apttus_Config2__CascadeSharedAttributeUpdates__c>true</Apttus_Config2__CascadeSharedAttributeUpdates__c>
                 <Apttus_Config2__ConstraintRuleExecutionMode__c>Server</Apttus_Config2__ConstraintRuleExecutionMode__c>
-                <Apttus_Config2__CurrencyFieldPrecision__c>2</Apttus_Config2__CurrencyFieldPrecision__c>
                 <Apttus_Config2__CustomDealGuidancePage__c>c__CPQ_DealGuidanceCustomPage</Apttus_Config2__CustomDealGuidancePage__c>
-                <Apttus_Config2__CustomPricingFields__c>Incremental_Quantity__c,Incremental_ARR_NRR__c,Gross_ARR_NRR__c,Partner_Gross_Price__c,Increment_Adjustment__c,Overage_Percentage_LI__c,Overage_Start_Date__c,Overage_End_Date__c,Overage_Type__c,Overage_Quantity__c</Apttus_Config2__CustomPricingFields__c>
+                <Apttus_Config2__CustomPricingFields__c>Incremental_Quantity__c,Incremental_ARR_NRR__c,Gross_ARR_NRR__c,Partner_Gross_Price__c,Increment_Adjustment__c</Apttus_Config2__CustomPricingFields__c>
                 <Apttus_Config2__DefaultAssetPricingIndicator__c>true</Apttus_Config2__DefaultAssetPricingIndicator__c>
                 <Apttus_Config2__DefaultProductsPage__c>Apttus_Config2__SelectConfigProducts</Apttus_Config2__DefaultProductsPage__c>
                 <Apttus_Config2__DeferValidationCheckInBundles__c>true</Apttus_Config2__DeferValidationCheckInBundles__c>
@@ -144,12 +142,12 @@
             </sObjects>
             <sObjects xsi:type="Apttus_Config2__ConfigFlow__c">
                 <Name>SalesOpsDirect</Name>
-                <CreatedBy.Id>0052D000000iyKPQAY</CreatedBy.Id>
-                <CreatedBy.Name>Jai Patel</CreatedBy.Name>
-                <CreatedDate>2018-07-28T09:17:25.000+0000</CreatedDate>
-                <LastModifiedBy.Id>0052D000000iyKPQAY</LastModifiedBy.Id>
-                <LastModifiedBy.Name>Jai Patel</LastModifiedBy.Name>
-                <LastModifiedDate>2018-07-28T09:17:25.000+0000</LastModifiedDate>
+                <CreatedBy.Id>0052D000000iRpAQAU</CreatedBy.Id>
+                <CreatedBy.Name>Shubham Bhatt</CreatedBy.Name>
+                <CreatedDate>2018-08-22T18:37:45.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000iRpAQAU</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Shubham Bhatt</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-22T18:37:45.000+0000</LastModifiedDate>
                 <Apttus_Config2__AssetsPage__c>Apttus_Config2__Cart#assetsgrid</Apttus_Config2__AssetsPage__c>
                 <Apttus_Config2__CartPage__c>Apttus_Config2__Cart</Apttus_Config2__CartPage__c>
                 <Apttus_Config2__CatalogPage__c>Apttus_Config2__Cart</Apttus_Config2__CatalogPage__c>
@@ -158,12 +156,12 @@
             </sObjects>
             <sObjects xsi:type="Apttus_Config2__ConfigFlow__c">
                 <Name>SalesOpsChannel</Name>
-                <CreatedBy.Id>0052D000000iyKPQAY</CreatedBy.Id>
-                <CreatedBy.Name>Jai Patel</CreatedBy.Name>
-                <CreatedDate>2018-07-28T09:33:33.000+0000</CreatedDate>
-                <LastModifiedBy.Id>0052D000000iyKPQAY</LastModifiedBy.Id>
-                <LastModifiedBy.Name>Jai Patel</LastModifiedBy.Name>
-                <LastModifiedDate>2018-07-28T09:33:33.000+0000</LastModifiedDate>
+                <CreatedBy.Id>0052D000000iRpAQAU</CreatedBy.Id>
+                <CreatedBy.Name>Shubham Bhatt</CreatedBy.Name>
+                <CreatedDate>2018-08-22T18:37:45.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000iRpAQAU</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Shubham Bhatt</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-22T18:37:45.000+0000</LastModifiedDate>
                 <Apttus_Config2__AssetsPage__c>Apttus_Config2__Cart#assetsgrid</Apttus_Config2__AssetsPage__c>
                 <Apttus_Config2__CartPage__c>Apttus_Config2__Cart</Apttus_Config2__CartPage__c>
                 <Apttus_Config2__CatalogPage__c>Apttus_Config2__Cart</Apttus_Config2__CatalogPage__c>
@@ -172,12 +170,12 @@
             </sObjects>
             <sObjects xsi:type="Apttus_Config2__ConfigFlow__c">
                 <Name>Default</Name>
-                <CreatedBy.Id>0052D000000i0phQAA</CreatedBy.Id>
-                <CreatedBy.Name>Mitul Patel</CreatedBy.Name>
-                <CreatedDate>2018-06-23T10:30:08.000+0000</CreatedDate>
-                <LastModifiedBy.Id>0052D000000i0phQAA</LastModifiedBy.Id>
-                <LastModifiedBy.Name>Mitul Patel</LastModifiedBy.Name>
-                <LastModifiedDate>2018-06-23T10:30:08.000+0000</LastModifiedDate>
+                <CreatedBy.Id>0052D000000iRpAQAU</CreatedBy.Id>
+                <CreatedBy.Name>Shubham Bhatt</CreatedBy.Name>
+                <CreatedDate>2018-08-22T18:37:45.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000iRpAQAU</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Shubham Bhatt</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-22T18:37:45.000+0000</LastModifiedDate>
                 <Apttus_Config2__AssetsPage__c>SelectInstalledProductsEn</Apttus_Config2__AssetsPage__c>
                 <Apttus_Config2__CartPage__c>Apttus_Config2__CartDetailView</Apttus_Config2__CartPage__c>
                 <Apttus_Config2__CatalogPage__c>Apttus_Config2__SelectConfigProducts</Apttus_Config2__CatalogPage__c>
@@ -186,12 +184,12 @@
             </sObjects>
             <sObjects xsi:type="Apttus_Config2__ConfigFlow__c">
                 <Name>NGDefault</Name>
-                <CreatedBy.Id>0052D000000i0phQAA</CreatedBy.Id>
-                <CreatedBy.Name>Mitul Patel</CreatedBy.Name>
-                <CreatedDate>2018-06-23T10:30:08.000+0000</CreatedDate>
-                <LastModifiedBy.Id>0052D000000i0phQAA</LastModifiedBy.Id>
-                <LastModifiedBy.Name>Mitul Patel</LastModifiedBy.Name>
-                <LastModifiedDate>2018-06-23T10:30:08.000+0000</LastModifiedDate>
+                <CreatedBy.Id>0052D000000iRpAQAU</CreatedBy.Id>
+                <CreatedBy.Name>Shubham Bhatt</CreatedBy.Name>
+                <CreatedDate>2018-08-22T18:37:45.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000iRpAQAU</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Shubham Bhatt</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-22T18:37:45.000+0000</LastModifiedDate>
                 <Apttus_Config2__AssetsPage__c>Apttus_Config2__Cart#assetsgrid</Apttus_Config2__AssetsPage__c>
                 <Apttus_Config2__CartPage__c>Apttus_Config2__Cart</Apttus_Config2__CartPage__c>
                 <Apttus_Config2__CatalogPage__c>Apttus_Config2__Cart</Apttus_Config2__CatalogPage__c>
@@ -200,12 +198,12 @@
             </sObjects>
             <sObjects xsi:type="Apttus_Config2__ConfigFlow__c">
                 <Name>NGDefaultJPY</Name>
-                <CreatedBy.Id>0052D000000i0phQAA</CreatedBy.Id>
-                <CreatedBy.Name>Mitul Patel</CreatedBy.Name>
-                <CreatedDate>2018-06-23T10:30:08.000+0000</CreatedDate>
-                <LastModifiedBy.Id>0052D000000i0phQAA</LastModifiedBy.Id>
-                <LastModifiedBy.Name>Mitul Patel</LastModifiedBy.Name>
-                <LastModifiedDate>2018-06-23T10:30:08.000+0000</LastModifiedDate>
+                <CreatedBy.Id>0052D000000iRpAQAU</CreatedBy.Id>
+                <CreatedBy.Name>Shubham Bhatt</CreatedBy.Name>
+                <CreatedDate>2018-08-22T18:37:45.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000iRpAQAU</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Shubham Bhatt</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-22T18:37:45.000+0000</LastModifiedDate>
                 <Apttus_Config2__AssetsPage__c>Apttus_Config2__Cart#assetsgrid</Apttus_Config2__AssetsPage__c>
                 <Apttus_Config2__CartPage__c>Apttus_Config2__Cart</Apttus_Config2__CartPage__c>
                 <Apttus_Config2__CatalogPage__c>Apttus_Config2__Cart</Apttus_Config2__CatalogPage__c>
@@ -214,12 +212,12 @@
             </sObjects>
             <sObjects xsi:type="Apttus_Config2__ConfigFlow__c">
                 <Name>NGDefaultChannel</Name>
-                <CreatedBy.Id>0052D000000i0phQAA</CreatedBy.Id>
-                <CreatedBy.Name>Mitul Patel</CreatedBy.Name>
-                <CreatedDate>2018-06-23T10:30:08.000+0000</CreatedDate>
-                <LastModifiedBy.Id>0052D000000i0phQAA</LastModifiedBy.Id>
-                <LastModifiedBy.Name>Mitul Patel</LastModifiedBy.Name>
-                <LastModifiedDate>2018-06-23T10:30:08.000+0000</LastModifiedDate>
+                <CreatedBy.Id>0052D000000iRpAQAU</CreatedBy.Id>
+                <CreatedBy.Name>Shubham Bhatt</CreatedBy.Name>
+                <CreatedDate>2018-08-22T18:37:45.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000iRpAQAU</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Shubham Bhatt</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-22T18:37:45.000+0000</LastModifiedDate>
                 <Apttus_Config2__AssetsPage__c>Apttus_Config2__Cart#assetsgrid</Apttus_Config2__AssetsPage__c>
                 <Apttus_Config2__CartPage__c>Apttus_Config2__Cart</Apttus_Config2__CartPage__c>
                 <Apttus_Config2__CatalogPage__c>Apttus_Config2__Cart</Apttus_Config2__CatalogPage__c>
@@ -228,66 +226,53 @@
             </sObjects>
             <sObjects xsi:type="Apttus_Config2__ConfigLineItemCustomFields__c">
                 <Name>Auto Add Consulting products</Name>
-                <CreatedBy.Id>0052D000000i0phQAA</CreatedBy.Id>
-                <CreatedBy.Name>Mitul Patel</CreatedBy.Name>
-                <CreatedDate>2018-06-23T10:30:07.000+0000</CreatedDate>
+                <CreatedBy.Id>0052D000000iRpAQAU</CreatedBy.Id>
+                <CreatedBy.Name>Shubham Bhatt</CreatedBy.Name>
+                <CreatedDate>2018-08-22T18:37:45.000+0000</CreatedDate>
                 <LastModifiedBy.Id>0052D000000iRpAQAU</LastModifiedBy.Id>
                 <LastModifiedBy.Name>Shubham Bhatt</LastModifiedBy.Name>
-                <LastModifiedDate>2018-08-18T20:38:19.000+0000</LastModifiedDate>
+                <LastModifiedDate>2018-08-22T18:37:45.000+0000</LastModifiedDate>
                 <Apttus_Config2__CustomFieldNames2__c>Apttus_Config2__ConfigurationId__r.Quote_Type__c,Apttus_Config2__ProductId__r.productCode</Apttus_Config2__CustomFieldNames2__c>
                 <Apttus_Config2__CustomFieldNames3__c>Apttus_Config2__AttributeValueId__r.Platinum_Services_Decider__c,Apttus_Config2__AttributeValueId__r.Custom_Consulting_Decider__c,Apttus_Config2__AttributeValueId__r.Incremental_Core_ARR_to_USD__c</Apttus_Config2__CustomFieldNames3__c>
                 <Apttus_Config2__CustomFieldNames4__c>CPQ_Parent_Bundle_Core_ARR__c,Apttus_Config2__AttributeValueId__r.Core_ARR__c,CPQ_Parent_Bundle_Line_Status__c,CPQ_Service_Base_Price__c,CPQ_Service_Final_Base_Price__c</Apttus_Config2__CustomFieldNames4__c>
                 <Apttus_Config2__CustomFieldNames5__c>Apttus_Config2__AttributeValueId__r.List_Price__c,Apttus_Config2__PriceType__c,Apttus_Config2__PriceListItemId__r.Apttus_Config2__ListPrice__c,Tiered_Price__c</Apttus_Config2__CustomFieldNames5__c>
-                <Apttus_Config2__CustomFieldNames__c>Apttus_Config2__AttributeValueId__r.Enterprise_Plus_No_of_Seats_User_Input__c</Apttus_Config2__CustomFieldNames__c>
+                <Apttus_Config2__CustomFieldNames__c>Check_Sales_Division_Decider__c,Apttus_Config2__AttributeValueId__r.Enterprise_Plus_No_of_Seats_User_Input__c</Apttus_Config2__CustomFieldNames__c>
             </sObjects>
             <sObjects xsi:type="Apttus_Config2__ConfigLineItemCustomFields__c">
-                <Name>PCB</Name>
-                <CreatedBy.Id>0052D000000i0phQAA</CreatedBy.Id>
-                <CreatedBy.Name>Mitul Patel</CreatedBy.Name>
-                <CreatedDate>2018-06-23T10:30:07.000+0000</CreatedDate>
+                <Name>Total ARR for Box Relay</Name>
+                <CreatedBy.Id>0052D000000iRpAQAU</CreatedBy.Id>
+                <CreatedBy.Name>Shubham Bhatt</CreatedBy.Name>
+                <CreatedDate>2018-08-22T18:37:45.000+0000</CreatedDate>
                 <LastModifiedBy.Id>0052D000000iRpAQAU</LastModifiedBy.Id>
                 <LastModifiedBy.Name>Shubham Bhatt</LastModifiedBy.Name>
-                <LastModifiedDate>2018-07-30T13:55:37.000+0000</LastModifiedDate>
-                <Apttus_Config2__CustomFieldNames2__c>Incremental_BaseExtendedPrice__c,Incremental_NetUnitPrice__c,Apttus_Config2__AssetLineItemId__r.Blended_Unit_Price__c,Apttus_Config2__AssetQuantity__c,Incremental_Net_Price__c,Incremental_Quantity__c</Apttus_Config2__CustomFieldNames2__c>
-                <Apttus_Config2__CustomFieldNames3__c>Apttus_Config2__PriceListItemId__r.Has_Related_Pricing__c,Partner_Gross_Price__c,Delta_Gross_Price__c,Delta_Gross_Price__c,Apttus_Config2__AssetLineItemId__r.Partner_Gross_Price__c,Percentage_ARR_Price_Old__c</Apttus_Config2__CustomFieldNames3__c>
-                <Apttus_Config2__CustomFieldNames4__c>Apttus_Config2__ConfigurationId__r.Apttus_QPConfig__Proposald__r.Apttus_Proposal__Opportunity__r.Is_Channel__c,Apttus_Config2__ListPrice__c,Apttus_Config2__LineNumber__c,Apttus_Config2__ItemSequence__c</Apttus_Config2__CustomFieldNames4__c>
-                <Apttus_Config2__CustomFieldNames5__c>Apttus_Config2__OptionId__r.ProductCode,Incremental_Extended_Price__c,Incremental_Quantity_Old__c,Apttus_Config2__AssetLineItemId__r.Apttus_Config2__SellingTerm__c,Apttus_Config2__SellingTerm__c</Apttus_Config2__CustomFieldNames5__c>
+                <LastModifiedDate>2018-08-22T18:37:45.000+0000</LastModifiedDate>
+                <Apttus_Config2__CustomFieldNames2__c>Apttus_Config2__ConfigurationId__r.Total_ARR__c,Apttus_Config2__ConfigurationId__r.Apttus_QPConfig__Proposald__r.Overage_Type__c,Apttus_Config2__ProductId__r.Family, Apttus_Config2__ProductId__r.Product_Grouping__c, Overage_Start_Date__c</Apttus_Config2__CustomFieldNames2__c>
+                <Apttus_Config2__CustomFieldNames3__c>Delta_Gross_Price__c,Delta_Partner_Margin__c,Apttus_Config2__AssetLineItemId__r.Delta_Gross_Price__c,Apttus_Config2__AssetLineItemId__r.Partner_Margin__c, Apttus_Config2__ConfigurationId__r.Apttus_QPConfig__Proposald__r.Overage_Start_Date__c</Apttus_Config2__CustomFieldNames3__c>
+                <Apttus_Config2__CustomFieldNames4__c>Apttus_Config2__ConfigurationId__r.Apttus_QPConfig__Proposald__r.Overage_End_Date__c, Overage_End_Date__c, Apttus_Config2__OptionId__r.Product_Grouping__c, Partner_Gross_Price_Old__c, Apttus_Config2__OptionId__r.Product_Group__c</Apttus_Config2__CustomFieldNames4__c>
+                <Apttus_Config2__CustomFieldNames5__c>Apttus_Config2__ConfigurationId__r.Apttus_QPConfig__Proposald__r.Overage_Type__c,Apttus_Config2__ConfigurationId__r.Apttus_QPConfig__Proposald__r.Quote_Type__c,Apttus_Config2__OptionId__r.Family,Apttus_Config2__OptionId__r.Product_sub_Family__c</Apttus_Config2__CustomFieldNames5__c>
             </sObjects>
             <sObjects xsi:type="Apttus_Config2__ConfigLineItemCustomFields__c">
                 <Name>ABC</Name>
-                <CreatedBy.Id>0052D000000i0phQAA</CreatedBy.Id>
-                <CreatedBy.Name>Mitul Patel</CreatedBy.Name>
-                <CreatedDate>2018-06-23T10:30:07.000+0000</CreatedDate>
+                <CreatedBy.Id>0052D000000iRpAQAU</CreatedBy.Id>
+                <CreatedBy.Name>Shubham Bhatt</CreatedBy.Name>
+                <CreatedDate>2018-08-22T18:37:45.000+0000</CreatedDate>
                 <LastModifiedBy.Id>0052D000000iRpAQAU</LastModifiedBy.Id>
                 <LastModifiedBy.Name>Shubham Bhatt</LastModifiedBy.Name>
-                <LastModifiedDate>2018-08-17T06:54:37.000+0000</LastModifiedDate>
+                <LastModifiedDate>2018-08-22T18:37:45.000+0000</LastModifiedDate>
                 <Apttus_Config2__CustomFieldNames2__c>Incremental_ARR_NRR__c,Apttus_Config2__ConfigurationId__r.Apttus_QPConfig__Proposald__r.Provisioning_Date__c,Apttus_Config2__ProductID__r.Name,Apttus_Config2__OptionId__r.Name,Apttus_Config2__AssetLineItemId__r.Apttus_Config2__NetUnitPrice__c</Apttus_Config2__CustomFieldNames2__c>
                 <Apttus_Config2__CustomFieldNames3__c>Apttus_Config2__ConfigurationId__r.Apttus_QPConfig__Proposald__r.Deal_Registration_Type__c,Apttus_Config2__ConfigurationId__r.Sold_To_Account_Address__c,Is_Platform_BasePriceOverride__c,Apttus_Config2__Quantity__c</Apttus_Config2__CustomFieldNames3__c>
                 <Apttus_Config2__CustomFieldNames4__c>CPQ_Copied_Has_Related_Pricing__c,CPQ_Copied_Quote_Type__c,CPQ_Copied_Asset_Selling_Term__c,CPQ_Copied_Is_Channel__c,Apttus_Config2__ConfigurationId__r.Apttus_QPConfig__Proposald__c,Apttus_Config2__ProductId__r.Product_Group__c</Apttus_Config2__CustomFieldNames4__c>
                 <Apttus_Config2__CustomFieldNames5__c>Apttus_Config2__ConfigurationId__r.Apttus_QPConfig__Proposald__r.Apttus_QPConfig__IsSystemGenerated__c,Apttus_Config2__ConfigurationId__r.Apttus_Config2__BusinessObjectType__c,Apttus_Config2__OptionId__r.Product_Group__c</Apttus_Config2__CustomFieldNames5__c>
-                <Apttus_Config2__CustomFieldNames__c>Incremental_Quantity_Override_Old__c,Total_Gross_Price__c,Calculated_Estimated_Gross_Price__c,Apttus_Config2__AttributeValueId__r.Enterprise_Plus_No_of_Seats__c,Increment_Adjustment_Old__c,List_Price_Old__c,Net_Price_to_USD__c</Apttus_Config2__CustomFieldNames__c>
-            </sObjects>
-            <sObjects xsi:type="Apttus_Config2__ConfigLineItemCustomFields__c">
-                <Name>Validation Rule Cart ARR</Name>
-                <CreatedBy.Id>0052D000000i0phQAA</CreatedBy.Id>
-                <CreatedBy.Name>Mitul Patel</CreatedBy.Name>
-                <CreatedDate>2018-06-23T10:30:07.000+0000</CreatedDate>
-                <LastModifiedBy.Id>0052D000000i0pIQAQ</LastModifiedBy.Id>
-                <LastModifiedBy.Name>Sunidhar Bonagiri</LastModifiedBy.Name>
-                <LastModifiedDate>2018-08-21T06:48:38.000+0000</LastModifiedDate>
-                <Apttus_Config2__CustomFieldNames2__c>Apttus_Config2__AttributeValueId__r.Cart_ARR__c,Apttus_Config2__PriceListId__r.Name,Apttus_Config2__AttributeValueId__r.Cart_ARR_to_USD__c,Apttus_Config2__AttributeValueId__r.KeySafe_ARR_to_USD__c,Incremental_ARR_NRR_to_USD__c</Apttus_Config2__CustomFieldNames2__c>
-                <Apttus_Config2__CustomFieldNames3__c>Apttus_Config2__ConfigurationId__r.Apttus_QPConfig__Proposald__r.Is_Test_Quote__c,Apttus_Config2__AttributeValueId__r.Platform_ARR_to_USD__c,Apttus_Config2__AttributeValueId__r.Core_ARR_to_USD__c,Apttus_Config2__ConfigurationId__r.Is_Renewed_repriced__c</Apttus_Config2__CustomFieldNames3__c>
-                <Apttus_Config2__CustomFieldNames4__c>Apttus_Config2__AttributeValueId__r.Total_Net_Price_to_USD__c,User_Profile__c,Apttus_Config2__ConfigurationId__r.Sales_Divison_Optty_Owner__c</Apttus_Config2__CustomFieldNames4__c>
-                <Apttus_Config2__CustomFieldNames5__c>Apttus_Config2__AttributeValueId__r.Primary_Zone__c,Total_ARR_NRR_to_USD__c,Apttus_Config2__MinUsageQuantity__c,CPQ_Parent_Bundle_Platform_ARR__c,CPQ_Parent_Bundle_Generic_ARR__c,Apttus_Config2__ProductId__r.Product_sub_Family__c</Apttus_Config2__CustomFieldNames5__c>
+                <Apttus_Config2__CustomFieldNames__c>Incremental_Quantity_Override_Old__c,Total_Gross_Price__c,Calculated_Estimated_Gross_Price__c,Apttus_Config2__AttributeValueId__r.Enterprise_Plus_No_of_Seats__c,Increment_Adjustment_Old__c,List_Price_Old__c</Apttus_Config2__CustomFieldNames__c>
             </sObjects>
             <sObjects xsi:type="Apttus_Config2__ConfigLineItemCustomFields__c">
                 <Name>System Properties</Name>
-                <CreatedBy.Id>0052D000000i0phQAA</CreatedBy.Id>
-                <CreatedBy.Name>Mitul Patel</CreatedBy.Name>
-                <CreatedDate>2018-06-23T10:30:07.000+0000</CreatedDate>
-                <LastModifiedBy.Id>0052D000000i0phQAA</LastModifiedBy.Id>
-                <LastModifiedBy.Name>Mitul Patel</LastModifiedBy.Name>
-                <LastModifiedDate>2018-06-23T10:30:07.000+0000</LastModifiedDate>
+                <CreatedBy.Id>0052D000000iRpAQAU</CreatedBy.Id>
+                <CreatedBy.Name>Shubham Bhatt</CreatedBy.Name>
+                <CreatedDate>2018-08-22T18:37:45.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000iRpAQAU</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Shubham Bhatt</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-22T18:37:45.000+0000</LastModifiedDate>
                 <Apttus_Config2__CustomFieldNames2__c>Apttus_Config2__ConfigurationId__r.Apttus_QPConfig__Proposald__r.Apttus_Proposal__Opportunity__r.Is_Channel__c,Increment_Adjustment__c,Blended_Unit_Price__c,Partner_Gross_Price__c,Apttus_Config2__AdjustmentAmount__c,Apttus_Config2__AdjustmentType__c</Apttus_Config2__CustomFieldNames2__c>
                 <Apttus_Config2__CustomFieldNames3__c>Apttus_Config2__AssetQuantity__c,Apttus_Config2__AssetQuantity__c,Apttus_Config2__SellingTerm__c,Incremental_Quantity__c,Partner_Margin__c,Apttus_Config2__OptionId__r.Defines_Core_Quantity__c,Apttus_Config2__OptionId__r.Cascade_Core_Quantity__c</Apttus_Config2__CustomFieldNames3__c>
                 <Apttus_Config2__CustomFieldNames4__c>Apttus_Config2__AssetLineItemId__r.Apttus_Config2__NetPrice__c,Apttus_Config2__AssetLineItemId__r.Incremental_Quantity__c,Apttus_Config2__AssetLineItemId__r.Blended_Unit_Price__c, Overage_Quantity__c</Apttus_Config2__CustomFieldNames4__c>
@@ -295,26 +280,51 @@
                 <Apttus_Config2__CustomFieldNames__c>Apttus_Config2__ConfigurationId__r.Apttus_QPConfig__Proposald__r.Apttus_QPConfig__LocationId__c, Apttus_Config2__ProductId__r.Apttus_Config2__ConfigurationType__c, Apttus_Config2__ConfigurationId__r.Apttus_QPConfig__Proposald__r.Overage_Quantity__c</Apttus_Config2__CustomFieldNames__c>
             </sObjects>
             <sObjects xsi:type="Apttus_Config2__ConfigLineItemCustomFields__c">
-                <Name>Total ARR for Box Relay</Name>
-                <CreatedBy.Id>0052D000000i0phQAA</CreatedBy.Id>
-                <CreatedBy.Name>Mitul Patel</CreatedBy.Name>
-                <CreatedDate>2018-06-23T10:30:07.000+0000</CreatedDate>
-                <LastModifiedBy.Id>0052D000000i0phQAA</LastModifiedBy.Id>
-                <LastModifiedBy.Name>Mitul Patel</LastModifiedBy.Name>
-                <LastModifiedDate>2018-06-23T10:30:07.000+0000</LastModifiedDate>
-                <Apttus_Config2__CustomFieldNames2__c>Apttus_Config2__ConfigurationId__r.Total_ARR__c,Apttus_Config2__ConfigurationId__r.Apttus_QPConfig__Proposald__r.Overage_Type__c,Apttus_Config2__ProductId__r.Family, Apttus_Config2__ProductId__r.Product_Grouping__c, Overage_Start_Date__c</Apttus_Config2__CustomFieldNames2__c>
-                <Apttus_Config2__CustomFieldNames3__c>Delta_Gross_Price__c,Delta_Partner_Margin__c,Apttus_Config2__AssetLineItemId__r.Delta_Gross_Price__c,Apttus_Config2__AssetLineItemId__r.Partner_Margin__c, Apttus_Config2__ConfigurationId__r.Apttus_QPConfig__Proposald__r.Overage_Start_Date__c</Apttus_Config2__CustomFieldNames3__c>
-                <Apttus_Config2__CustomFieldNames4__c>Apttus_Config2__ConfigurationId__r.Apttus_QPConfig__Proposald__r.Overage_End_Date__c, Overage_End_Date__c, Apttus_Config2__OptionId__r.Product_Grouping__c, Partner_Gross_Price_Old__c, Apttus_Config2__OptionId__r.Product_Group__c</Apttus_Config2__CustomFieldNames4__c>
-                <Apttus_Config2__CustomFieldNames5__c>Apttus_Config2__ConfigurationId__r.Apttus_QPConfig__Proposald__r.Overage_Type__c,Apttus_Config2__ConfigurationId__r.Apttus_QPConfig__Proposald__r.Quote_Type__c,Apttus_Config2__OptionId__r.Family,Apttus_Config2__OptionId__r.Product_sub_Family__c</Apttus_Config2__CustomFieldNames5__c>
+                <Name>Validation Rule Cart ARR</Name>
+                <CreatedBy.Id>0052D000000iRpAQAU</CreatedBy.Id>
+                <CreatedBy.Name>Shubham Bhatt</CreatedBy.Name>
+                <CreatedDate>2018-08-22T18:37:45.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000iRpAQAU</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Shubham Bhatt</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-22T18:37:45.000+0000</LastModifiedDate>
+                <Apttus_Config2__CustomFieldNames2__c>Apttus_Config2__AttributeValueId__r.Cart_ARR__c,Apttus_Config2__PriceListId__r.Name,Apttus_Config2__AttributeValueId__r.Cart_ARR_to_USD__c,Apttus_Config2__AttributeValueId__r.KeySafe_ARR_to_USD__c,Incremental_ARR_NRR_to_USD__c</Apttus_Config2__CustomFieldNames2__c>
+                <Apttus_Config2__CustomFieldNames3__c>Apttus_Config2__ConfigurationId__r.Apttus_QPConfig__Proposald__r.Is_Test_Quote__c,Apttus_Config2__AttributeValueId__r.Platform_ARR_to_USD__c,Apttus_Config2__AttributeValueId__r.Core_ARR_to_USD__c,Apttus_Config2__ConfigurationId__r.Is_Renewed_repriced__c</Apttus_Config2__CustomFieldNames3__c>
+                <Apttus_Config2__CustomFieldNames4__c>Apttus_Config2__AttributeValueId__r.Total_Net_Price_to_USD__c,User_Profile__c,Apttus_Config2__ConfigurationId__r.Sales_Divison_Optty_Owner__c</Apttus_Config2__CustomFieldNames4__c>
+                <Apttus_Config2__CustomFieldNames5__c>Apttus_Config2__AttributeValueId__r.Primary_Zone__c,Total_ARR_NRR_to_USD__c,Apttus_Config2__MinUsageQuantity__c,CPQ_Parent_Bundle_Platform_ARR__c,CPQ_Parent_Bundle_Generic_ARR__c</Apttus_Config2__CustomFieldNames5__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigLineItemCustomFields__c">
+                <Name>PCB</Name>
+                <CreatedBy.Id>0052D000000iRpAQAU</CreatedBy.Id>
+                <CreatedBy.Name>Shubham Bhatt</CreatedBy.Name>
+                <CreatedDate>2018-08-22T18:37:45.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000iRpAQAU</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Shubham Bhatt</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-22T18:37:45.000+0000</LastModifiedDate>
+                <Apttus_Config2__CustomFieldNames2__c>Incremental_BaseExtendedPrice__c,Incremental_NetUnitPrice__c,Apttus_Config2__AssetLineItemId__r.Blended_Unit_Price__c,Apttus_Config2__AssetQuantity__c,Incremental_Net_Price__c,Incremental_Quantity__c</Apttus_Config2__CustomFieldNames2__c>
+                <Apttus_Config2__CustomFieldNames3__c>Apttus_Config2__PriceListItemId__r.Has_Related_Pricing__c,Partner_Gross_Price__c,Delta_Gross_Price__c,Delta_Gross_Price__c,Apttus_Config2__AssetLineItemId__r.Partner_Gross_Price__c,Percentage_ARR_Price_Old__c</Apttus_Config2__CustomFieldNames3__c>
+                <Apttus_Config2__CustomFieldNames4__c>Apttus_Config2__ConfigurationId__r.Apttus_QPConfig__Proposald__r.Apttus_Proposal__Opportunity__r.Is_Channel__c,Apttus_Config2__ListPrice__c,Apttus_Config2__LineNumber__c,Apttus_Config2__ItemSequence__c</Apttus_Config2__CustomFieldNames4__c>
+                <Apttus_Config2__CustomFieldNames5__c>Apttus_Config2__OptionId__r.ProductCode,Incremental_Extended_Price__c,Incremental_Quantity_Old__c,Apttus_Config2__AssetLineItemId__r.Apttus_Config2__SellingTerm__c,Apttus_Config2__SellingTerm__c</Apttus_Config2__CustomFieldNames5__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigLineItemCustomFields__c">
+                <Name>Platform Add-on Quantity</Name>
+                <CreatedBy.Id>0052D000000iRpAQAU</CreatedBy.Id>
+                <CreatedBy.Name>Shubham Bhatt</CreatedBy.Name>
+                <CreatedDate>2018-08-22T18:37:45.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000iRpAQAU</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Shubham Bhatt</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-22T18:37:45.000+0000</LastModifiedDate>
+                <Apttus_Config2__CustomFieldNames2__c>Apttus_Config2__AttributeValueId__r.Platform_Governance_Quantity__c,Apttus_Config2__AttributeValueId__r.Box_Platform_Zones_Multi_Quantity__c,Apttus_Config2__AttributeValueId__r.Platform_GxP_Validation_Quantity__c</Apttus_Config2__CustomFieldNames2__c>
+                <Apttus_Config2__CustomFieldNames3__c>Apttus_Config2__AttributeValueId__r.Platform_KeySafe_Key_Vault_Quantity__c,Apttus_Config2__AttributeValueId__r.Platform_KeySafe_with_AWS_CloudHSM_Qty__c,Apttus_Config2__AttributeValueId__r.Platform_KeySafe_with_AWS_KMS_Quantity__c</Apttus_Config2__CustomFieldNames3__c>
+                <Apttus_Config2__CustomFieldNames4__c>Apttus_Config2__AttributeValueId__r.Platform_Platinum_Services_Quantity__c,Apttus_Config2__AttributeValueId__r.Platform_Premier_Services_Quantity__c,Apttus_Config2__AttributeValueId__r.Platform_Zones_Quantity__c</Apttus_Config2__CustomFieldNames4__c>
             </sObjects>
             <sObjects xsi:type="Apttus_Config2__ConfigLineItemCustomFields__c">
                 <Name>NE PCB</Name>
-                <CreatedBy.Id>0052D000000i0phQAA</CreatedBy.Id>
-                <CreatedBy.Name>Mitul Patel</CreatedBy.Name>
-                <CreatedDate>2018-06-23T10:30:07.000+0000</CreatedDate>
-                <LastModifiedBy.Id>0052D000000i0phQAA</LastModifiedBy.Id>
-                <LastModifiedBy.Name>Mitul Patel</LastModifiedBy.Name>
-                <LastModifiedDate>2018-06-23T10:30:07.000+0000</LastModifiedDate>
+                <CreatedBy.Id>0052D000000iRpAQAU</CreatedBy.Id>
+                <CreatedBy.Name>Shubham Bhatt</CreatedBy.Name>
+                <CreatedDate>2018-08-22T18:37:45.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000iRpAQAU</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Shubham Bhatt</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-22T18:37:45.000+0000</LastModifiedDate>
                 <Apttus_Config2__CustomFieldNames2__c>Apttus_Config2__AttributeValueId__r.Monthly_Active_User_Option__c,Apttus_Config2__AttributeValueId__r.Monthly_Active_Users_Total__c,Apttus_Config2__AttributeValueId__r.Platform_Storage_GB_Total__c,Apttus_Config2__AttributeValueId__r.Suite__c</Apttus_Config2__CustomFieldNames2__c>
                 <Apttus_Config2__CustomFieldNames3__c>Apttus_Config2__AttributeValueId__r.Monthly_Platform_Bandwidth_GB_Total__c,Apttus_Config2__AttributeValueId__r.Monthly_Platform_API_Calls_Total__c,Apttus_Config2__AttributeValueId__r.Monthly_Platform_Bandwidth_GB_Option__c,</Apttus_Config2__CustomFieldNames3__c>
                 <Apttus_Config2__CustomFieldNames4__c>Apttus_Config2__AttributeValueId__r.Monthly_Platform_API_Call_Option__c,Apttus_Config2__AttributeValueId__r.Platform_Storage_GB_Option__c, Apttus_Config2__AttributeValueId__r.Delta_Monthly_Platform_Bandwidth_GB__c</Apttus_Config2__CustomFieldNames4__c>
@@ -325,52 +335,41 @@
                 <Name>GROSS ARR NRR</Name>
                 <CreatedBy.Id>0052D000000iRpAQAU</CreatedBy.Id>
                 <CreatedBy.Name>Shubham Bhatt</CreatedBy.Name>
-                <CreatedDate>2018-07-25T12:43:17.000+0000</CreatedDate>
+                <CreatedDate>2018-08-22T18:37:45.000+0000</CreatedDate>
                 <LastModifiedBy.Id>0052D000000iRpAQAU</LastModifiedBy.Id>
                 <LastModifiedBy.Name>Shubham Bhatt</LastModifiedBy.Name>
-                <LastModifiedDate>2018-07-31T14:00:25.000+0000</LastModifiedDate>
+                <LastModifiedDate>2018-08-22T18:37:45.000+0000</LastModifiedDate>
                 <Apttus_Config2__CustomFieldNames2__c>CPQ_Copied_Upsell_Gross__c,CPQ_Copied_Cancell_Gross__c,CPQ_Copied_New_Gross__c</Apttus_Config2__CustomFieldNames2__c>
                 <Apttus_Config2__CustomFieldNames3__c>Apttus_Config2__ConfigurationId__r.Business_Services_Decider__c,Apttus_Config2__ConfigurationId__r.Premier_Services_Decider__c,Apttus_Config2__ConfigurationId__r.Platinum_Services_Decider__c</Apttus_Config2__CustomFieldNames3__c>
                 <Apttus_Config2__CustomFieldNames4__c>Apttus_Config2__AttributeValueId__r.Quantity__c,Apttus_Config2__AttributeValueId__r.Platform_ARR__c,Apttus_Config2__ConfigurationId__r.Platform_Premier_Services_Decider__c,Apttus_Config2__ConfigurationId__r.Platform_Platinum_Services_Decider__c</Apttus_Config2__CustomFieldNames4__c>
                 <Apttus_Config2__CustomFieldNames5__c>Overage_Percentage_LI__c,Overage_Start_Date__c,Overage_End_Date__c,Overage_Type__c,Overage_Quantity__c,CPQ_Suite_Bundle_Base_Price__c</Apttus_Config2__CustomFieldNames5__c>
             </sObjects>
             <sObjects xsi:type="Apttus_Config2__ConfigLineItemCustomFields__c">
-                <Name>Platform Add-on Quantity</Name>
-                <CreatedBy.Id>0052D000000hMbpQAE</CreatedBy.Id>
-                <CreatedBy.Name>Kushal Shah</CreatedBy.Name>
-                <CreatedDate>2018-07-02T08:31:55.000+0000</CreatedDate>
-                <LastModifiedBy.Id>0052D000000hMbpQAE</LastModifiedBy.Id>
-                <LastModifiedBy.Name>Kushal Shah</LastModifiedBy.Name>
-                <LastModifiedDate>2018-08-21T07:44:56.000+0000</LastModifiedDate>
-                <Apttus_Config2__CustomFieldNames2__c>Apttus_Config2__AttributeValueId__r.Platform_Governance_Quantity__c,Apttus_Config2__AttributeValueId__r.Box_Platform_Zones_Multi_Quantity__c,Apttus_Config2__AttributeValueId__r.Platform_GxP_Validation_Quantity__c</Apttus_Config2__CustomFieldNames2__c>
-                <Apttus_Config2__CustomFieldNames3__c>Apttus_Config2__AttributeValueId__r.Platform_KeySafe_Key_Vault_Quantity__c,Apttus_Config2__AttributeValueId__r.Platform_KeySafe_with_AWS_CloudHSM_Qty__c,Apttus_Config2__AttributeValueId__r.Platform_KeySafe_with_AWS_KMS_Quantity__c</Apttus_Config2__CustomFieldNames3__c>
-                <Apttus_Config2__CustomFieldNames4__c>Apttus_Config2__AttributeValueId__r.Platform_Platinum_Services_Quantity__c,Apttus_Config2__AttributeValueId__r.Platform_Premier_Services_Quantity__c,Apttus_Config2__AttributeValueId__r.Platform_Zones_Quantity__c</Apttus_Config2__CustomFieldNames4__c>
-                <Apttus_Config2__CustomFieldNames5__c>Apttus_Config2__AttributeValueId__r.Total_Platform_ARR__c</Apttus_Config2__CustomFieldNames5__c>
-            </sObjects>
-            <sObjects xsi:type="Apttus_Config2__ConfigLineItemCustomFields__c">
                 <Name>Governance and relay deciders</Name>
-                <CreatedBy.Id>0052D000000hMbpQAE</CreatedBy.Id>
-                <CreatedBy.Name>Kushal Shah</CreatedBy.Name>
-                <CreatedDate>2018-07-26T07:20:46.000+0000</CreatedDate>
-                <LastModifiedBy.Id>0052D000000hMbpQAE</LastModifiedBy.Id>
-                <LastModifiedBy.Name>Kushal Shah</LastModifiedBy.Name>
-                <LastModifiedDate>2018-07-28T10:40:17.000+0000</LastModifiedDate>
+                <CreatedBy.Id>0052D000000iRpAQAU</CreatedBy.Id>
+                <CreatedBy.Name>Shubham Bhatt</CreatedBy.Name>
+                <CreatedDate>2018-08-22T18:37:45.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000iRpAQAU</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Shubham Bhatt</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-22T18:37:45.000+0000</LastModifiedDate>
                 <Apttus_Config2__CustomFieldNames2__c>Apttus_Config2__AttributeValueId__r.Governance_Decider__c,Apttus_Config2__AttributeValueId__r.Relay_Decider__c,Apttus_Config2__AttributeValueId__r.Relay_Elite_Decider__c</Apttus_Config2__CustomFieldNames2__c>
                 <Apttus_Config2__CustomFieldNames3__c>Apttus_Config2__AttributeValueId__r.Platform_Premier_Services_Decider__c</Apttus_Config2__CustomFieldNames3__c>
+                <Apttus_Config2__CustomFieldNames4__c>Net_Price_to_USD__c</Apttus_Config2__CustomFieldNames4__c>
             </sObjects>
             <sObjects xsi:type="Apttus_Config2__ConfigSelectConfigProductsSettings__c">
                 <Name>Primary Settings</Name>
-                <CreatedBy.Id>0052D000000i0phQAA</CreatedBy.Id>
-                <CreatedBy.Name>Mitul Patel</CreatedBy.Name>
-                <CreatedDate>2018-06-23T10:30:08.000+0000</CreatedDate>
-                <LastModifiedBy.Id>0052D000000iyKPQAY</LastModifiedBy.Id>
-                <LastModifiedBy.Name>Jai Patel</LastModifiedBy.Name>
-                <LastModifiedDate>2018-08-16T18:15:18.000+0000</LastModifiedDate>
+                <CreatedBy.Id>0052D000000iRpAQAU</CreatedBy.Id>
+                <CreatedBy.Name>Shubham Bhatt</CreatedBy.Name>
+                <CreatedDate>2018-08-22T18:37:45.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000iRpAQAU</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Shubham Bhatt</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-22T18:37:45.000+0000</LastModifiedDate>
                 <Apttus_Config2__CarouselDefaultIcon__c>00P2D000000GbxJUAS</Apttus_Config2__CarouselDefaultIcon__c>
                 <Apttus_Config2__DisableAddToCartForOptionProducts__c>true</Apttus_Config2__DisableAddToCartForOptionProducts__c>
                 <Apttus_Config2__HideCompareProducts__c>true</Apttus_Config2__HideCompareProducts__c>
                 <Apttus_Config2__HideHelpMeChoose__c>true</Apttus_Config2__HideHelpMeChoose__c>
                 <Apttus_Config2__HideListedProductsPriceColumn__c>true</Apttus_Config2__HideListedProductsPriceColumn__c>
+                <Apttus_Config2__HideOptions__c>true</Apttus_Config2__HideOptions__c>
                 <Apttus_Config2__HideSelectedProductChargeTypes__c>true</Apttus_Config2__HideSelectedProductChargeTypes__c>
                 <Apttus_Config2__MainSectionRatio__c>20:60:20</Apttus_Config2__MainSectionRatio__c>
                 <Apttus_Config2__SearchQueryLimit__c>1000</Apttus_Config2__SearchQueryLimit__c>
@@ -378,12 +377,12 @@
             </sObjects>
             <sObjects xsi:type="Apttus_Config2__OrderSystemProperties__c">
                 <Name>System Properties</Name>
-                <CreatedBy.Id>0052D000000i0phQAA</CreatedBy.Id>
-                <CreatedBy.Name>Mitul Patel</CreatedBy.Name>
-                <CreatedDate>2018-06-23T10:30:08.000+0000</CreatedDate>
-                <LastModifiedBy.Id>0052D000000i0phQAA</LastModifiedBy.Id>
-                <LastModifiedBy.Name>Mitul Patel</LastModifiedBy.Name>
-                <LastModifiedDate>2018-06-23T10:30:08.000+0000</LastModifiedDate>
+                <CreatedBy.Id>0052D000000iRpAQAU</CreatedBy.Id>
+                <CreatedBy.Name>Shubham Bhatt</CreatedBy.Name>
+                <CreatedDate>2018-08-22T18:37:45.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000iRpAQAU</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Shubham Bhatt</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-22T18:37:45.000+0000</LastModifiedDate>
                 <Apttus_Config2__CreateAssetOnOrderActivation__c>true</Apttus_Config2__CreateAssetOnOrderActivation__c>
                 <Apttus_Config2__EnableInflightChangesAndCancellation__c>true</Apttus_Config2__EnableInflightChangesAndCancellation__c>
             </sObjects>
@@ -7166,12 +7165,12 @@
             </sObjects>
             <sObjects xsi:type="Apttus_Proposal__ProposalSystemProperties__c">
                 <Name>System Properties</Name>
-                <CreatedBy.Id>0052D000000i0phQAA</CreatedBy.Id>
-                <CreatedBy.Name>Mitul Patel</CreatedBy.Name>
-                <CreatedDate>2018-06-23T10:30:08.000+0000</CreatedDate>
-                <LastModifiedBy.Id>0052D000000yRuCQAU</LastModifiedBy.Id>
-                <LastModifiedBy.Name>Anay Bhande</LastModifiedBy.Name>
-                <LastModifiedDate>2018-08-20T09:25:15.000+0000</LastModifiedDate>
+                <CreatedBy.Id>0052D000000iRpAQAU</CreatedBy.Id>
+                <CreatedBy.Name>Shubham Bhatt</CreatedBy.Name>
+                <CreatedDate>2018-08-22T18:37:45.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000iRpAQAU</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Shubham Bhatt</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-22T18:37:45.000+0000</LastModifiedDate>
                 <Apttus_Proposal__AdminUser__c>jeff benigno</Apttus_Proposal__AdminUser__c>
                 <Apttus_Proposal__CSSOverride__c>docPageCSS</Apttus_Proposal__CSSOverride__c>
                 <Apttus_Proposal__DefaultOpportunityQuoteOwner__c>Opportunity Owner</Apttus_Proposal__DefaultOpportunityQuoteOwner__c>
@@ -12838,24 +12837,25 @@
             </sObjects>
             <sObjects xsi:type="Apttus_Config2__ConfigCustomClasses__c">
                 <Name>Callback Classes</Name>
-                <CreatedBy.Id>0052D000000i0phQAA</CreatedBy.Id>
-                <CreatedBy.Name>Mitul Patel</CreatedBy.Name>
-                <CreatedDate>2018-06-23T10:30:07.000+0000</CreatedDate>
-                <LastModifiedBy.Id>0052D0000017FoUQAU</LastModifiedBy.Id>
-                <LastModifiedBy.Name>Sreenivasulu Nellore</LastModifiedBy.Name>
-                <LastModifiedDate>2018-08-21T22:49:15.000+0000</LastModifiedDate>
+                <CreatedBy.Id>0052D000000iRpAQAU</CreatedBy.Id>
+                <CreatedBy.Name>Shubham Bhatt</CreatedBy.Name>
+                <CreatedDate>2018-08-22T18:37:45.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000iRpAQAU</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Shubham Bhatt</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-22T18:37:45.000+0000</LastModifiedDate>
                 <Apttus_Config2__DealOptimizerCallbackClass__c>Apttus_CPQOpti.DealMaximizerCallback</Apttus_Config2__DealOptimizerCallbackClass__c>
-                <Apttus_Config2__PricingCallbackClass__c>CPQ_PricingCallBackQA</Apttus_Config2__PricingCallbackClass__c>
+                <Apttus_Config2__DisplayActionCallbackCalss__c>CPQ_DisplayActionCallback</Apttus_Config2__DisplayActionCallbackCalss__c>
+                <Apttus_Config2__PricingCallbackClass__c>CPQ_SB_PricingCallBack</Apttus_Config2__PricingCallbackClass__c>
                 <Apttus_Config2__ValidationCallbackClass__c>CPQ_ValidationCallBack</Apttus_Config2__ValidationCallbackClass__c>
             </sObjects>
             <sObjects xsi:type="Apttus_DocuApi__DocuSignSystemProperties__c">
                 <Name>System Properties</Name>
-                <CreatedBy.Id>0052D000000i0phQAA</CreatedBy.Id>
-                <CreatedBy.Name>Mitul Patel</CreatedBy.Name>
-                <CreatedDate>2018-06-23T10:30:11.000+0000</CreatedDate>
-                <LastModifiedBy.Id>0052D000000i0phQAA</LastModifiedBy.Id>
-                <LastModifiedBy.Name>Mitul Patel</LastModifiedBy.Name>
-                <LastModifiedDate>2018-06-23T10:30:11.000+0000</LastModifiedDate>
+                <CreatedBy.Id>0052D000000iRpAQAU</CreatedBy.Id>
+                <CreatedBy.Name>Shubham Bhatt</CreatedBy.Name>
+                <CreatedDate>2018-08-22T18:37:46.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000iRpAQAU</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Shubham Bhatt</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-22T18:37:46.000+0000</LastModifiedDate>
                 <Apttus_DocuApi__AddAttachmentsEnabled__c>true</Apttus_DocuApi__AddAttachmentsEnabled__c>
                 <Apttus_DocuApi__AddRecipientsEnabled__c>true</Apttus_DocuApi__AddRecipientsEnabled__c>
                 <Apttus_DocuApi__AutoProvisionUserEnabled__c>true</Apttus_DocuApi__AutoProvisionUserEnabled__c>
@@ -12879,12 +12879,12 @@
             </sObjects>
             <sObjects xsi:type="Apttus_DocuApi__DocuSignSystemProperties__c">
                 <Name>System Properties Attachment</Name>
-                <CreatedBy.Id>0052D000000i0phQAA</CreatedBy.Id>
-                <CreatedBy.Name>Mitul Patel</CreatedBy.Name>
-                <CreatedDate>2018-06-23T10:30:11.000+0000</CreatedDate>
-                <LastModifiedBy.Id>0052D000000i0phQAA</LastModifiedBy.Id>
-                <LastModifiedBy.Name>Mitul Patel</LastModifiedBy.Name>
-                <LastModifiedDate>2018-06-23T10:30:11.000+0000</LastModifiedDate>
+                <CreatedBy.Id>0052D000000iRpAQAU</CreatedBy.Id>
+                <CreatedBy.Name>Shubham Bhatt</CreatedBy.Name>
+                <CreatedDate>2018-08-22T18:37:46.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000iRpAQAU</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Shubham Bhatt</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-22T18:37:46.000+0000</LastModifiedDate>
                 <Apttus_DocuApi__AddAttachmentsEnabled__c>true</Apttus_DocuApi__AddAttachmentsEnabled__c>
                 <Apttus_DocuApi__AddRecipientsEnabled__c>true</Apttus_DocuApi__AddRecipientsEnabled__c>
                 <Apttus_DocuApi__AutoProvisionUserEnabled__c>true</Apttus_DocuApi__AutoProvisionUserEnabled__c>
@@ -12909,12 +12909,12 @@
             </sObjects>
             <sObjects xsi:type="Apttus_Approval__ApprovalsSystemProperties__c">
                 <Name>System Properties</Name>
-                <CreatedBy.Id>0052D000000i0phQAA</CreatedBy.Id>
-                <CreatedBy.Name>Mitul Patel</CreatedBy.Name>
-                <CreatedDate>2018-06-23T10:30:11.000+0000</CreatedDate>
-                <LastModifiedBy.Id>0052D000000i0phQAA</LastModifiedBy.Id>
-                <LastModifiedBy.Name>Mitul Patel</LastModifiedBy.Name>
-                <LastModifiedDate>2018-06-23T10:30:11.000+0000</LastModifiedDate>
+                <CreatedBy.Id>0052D000000iRpAQAU</CreatedBy.Id>
+                <CreatedBy.Name>Shubham Bhatt</CreatedBy.Name>
+                <CreatedDate>2018-08-22T18:37:46.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000iRpAQAU</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Shubham Bhatt</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-22T18:37:46.000+0000</LastModifiedDate>
                 <Apttus_Approval__AdminUser__c>jef benigno</Apttus_Approval__AdminUser__c>
                 <Apttus_Approval__BackupAdminProfile__c>Box: Developer</Apttus_Approval__BackupAdminProfile__c>
                 <Apttus_Approval__BackupAdminUser__c>jef benigno</Apttus_Approval__BackupAdminUser__c>
@@ -12927,12 +12927,12 @@
             </sObjects>
             <sObjects xsi:type="Apttus_Approval__ApprovalsCustomConfig__c">
                 <Name>Apttus_Proposal__Proposal__c</Name>
-                <CreatedBy.Id>0052D000000i0phQAA</CreatedBy.Id>
-                <CreatedBy.Name>Mitul Patel</CreatedBy.Name>
-                <CreatedDate>2018-06-23T10:30:11.000+0000</CreatedDate>
-                <LastModifiedBy.Id>0052D000000i0phQAA</LastModifiedBy.Id>
-                <LastModifiedBy.Name>Mitul Patel</LastModifiedBy.Name>
-                <LastModifiedDate>2018-06-23T10:30:11.000+0000</LastModifiedDate>
+                <CreatedBy.Id>0052D000000iRpAQAU</CreatedBy.Id>
+                <CreatedBy.Name>Shubham Bhatt</CreatedBy.Name>
+                <CreatedDate>2018-08-22T18:37:46.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000iRpAQAU</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Shubham Bhatt</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-22T18:37:46.000+0000</LastModifiedDate>
                 <Apttus_Approval__ApprovalContextType__c>Multiple</Apttus_Approval__ApprovalContextType__c>
                 <Apttus_Approval__ApprovalStatusField__c>Apttus_QPApprov__Approval_Status__c</Apttus_Approval__ApprovalStatusField__c>
                 <Apttus_Approval__AssignmentEmailTemplate__c>Apttus Quote Approval Notification (Assignment)</Apttus_Approval__AssignmentEmailTemplate__c>
@@ -12944,12 +12944,12 @@
             </sObjects>
             <sObjects xsi:type="Apttus_XApps__XAuthorForExcelSystemProperties__c">
                 <Name>System Properties</Name>
-                <CreatedBy.Id>0052D000000i0phQAA</CreatedBy.Id>
-                <CreatedBy.Name>Mitul Patel</CreatedBy.Name>
-                <CreatedDate>2018-06-23T10:30:11.000+0000</CreatedDate>
-                <LastModifiedBy.Id>0052D000000i0phQAA</LastModifiedBy.Id>
-                <LastModifiedBy.Name>Mitul Patel</LastModifiedBy.Name>
-                <LastModifiedDate>2018-06-23T10:30:11.000+0000</LastModifiedDate>
+                <CreatedBy.Id>0052D000000iRpAQAU</CreatedBy.Id>
+                <CreatedBy.Name>Shubham Bhatt</CreatedBy.Name>
+                <CreatedDate>2018-08-22T18:37:46.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000iRpAQAU</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Shubham Bhatt</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-22T18:37:46.000+0000</LastModifiedDate>
                 <Apttus_XApps__LicenseWebserviceEndpoint__c>https://ls.apttus.net:8443/cgi-bin/LicenseServer/Bin/LSCGI.exe</Apttus_XApps__LicenseWebserviceEndpoint__c>
                 <Apttus_XApps__MergeCallTimeoutMillis__c>50000</Apttus_XApps__MergeCallTimeoutMillis__c>
             </sObjects>
