@@ -12840,12 +12840,12 @@
                 <CreatedBy.Id>0052D000000iRpAQAU</CreatedBy.Id>
                 <CreatedBy.Name>Shubham Bhatt</CreatedBy.Name>
                 <CreatedDate>2018-08-22T18:37:45.000+0000</CreatedDate>
-                <LastModifiedBy.Id>0052D0000017FoUQAU</LastModifiedBy.Id>
-                <LastModifiedBy.Name>Sreenivasulu Nellore</LastModifiedBy.Name>
-                <LastModifiedDate>2018-08-22T21:19:07.000+0000</LastModifiedDate>
+                <LastModifiedBy.Id>0050e0000064QUrAAM</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Rajiv Bhatt</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-23T00:10:59.000+0000</LastModifiedDate>
                 <Apttus_Config2__DealOptimizerCallbackClass__c>Apttus_CPQOpti.DealMaximizerCallback</Apttus_Config2__DealOptimizerCallbackClass__c>
                 <Apttus_Config2__DisplayActionCallbackCalss__c>CPQ_DisplayActionCallback</Apttus_Config2__DisplayActionCallbackCalss__c>
-                <Apttus_Config2__PricingCallbackClass__c>CPQ_SB_PricingCallBack</Apttus_Config2__PricingCallbackClass__c>
+                <Apttus_Config2__PricingCallbackClass__c>CPQ_PricingCallBack</Apttus_Config2__PricingCallbackClass__c>
                 <Apttus_Config2__ValidationCallbackClass__c>CPQ_ValidationCallBack</Apttus_Config2__ValidationCallbackClass__c>
             </sObjects>
             <sObjects xsi:type="Apttus_DocuApi__DocuSignSystemProperties__c">
