@@ -95,7 +95,7 @@
                 <CreatedDate>2018-08-22T18:37:45.000+0000</CreatedDate>
                 <LastModifiedBy.Id>0052D0000017FoUQAU</LastModifiedBy.Id>
                 <LastModifiedBy.Name>Sreenivasulu Nellore</LastModifiedBy.Name>
-                <LastModifiedDate>2018-08-25T03:36:56.000+0000</LastModifiedDate>
+                <LastModifiedDate>2018-08-25T03:55:37.000+0000</LastModifiedDate>
                 <Apttus_Config2__AdminUser__c>jef benigno</Apttus_Config2__AdminUser__c>
                 <Apttus_Config2__AutoUpdateCategoryView__c>true</Apttus_Config2__AutoUpdateCategoryView__c>
                 <Apttus_Config2__CSSOverride__c>CartCssOverride</Apttus_Config2__CSSOverride__c>
@@ -125,7 +125,7 @@
                 <Apttus_Config2__MultiCurrencyManagement__c>Platform</Apttus_Config2__MultiCurrencyManagement__c>
                 <Apttus_Config2__OptionPricingChunkSize__c>100</Apttus_Config2__OptionPricingChunkSize__c>
                 <Apttus_Config2__OptionsPageDefault__c>Apttus_Config2__ConfigureBundle</Apttus_Config2__OptionsPageDefault__c>
-                <Apttus_Config2__PricingBatchSize__c>3</Apttus_Config2__PricingBatchSize__c>
+                <Apttus_Config2__PricingBatchSize__c>1</Apttus_Config2__PricingBatchSize__c>
                 <Apttus_Config2__PricingProfile__c>Advanced</Apttus_Config2__PricingProfile__c>
                 <Apttus_Config2__ProductAttributeDetailPage__c>Apttus_Config2__ProductAttributeDetail3</Apttus_Config2__ProductAttributeDetailPage__c>
                 <Apttus_Config2__ProductDisplayMaxLength__c>1000</Apttus_Config2__ProductDisplayMaxLength__c>
