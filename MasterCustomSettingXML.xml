@@ -215,9 +215,23 @@
                 <CreatedBy.Id>0052D000000iRpAQAU</CreatedBy.Id>
                 <CreatedBy.Name>Shubham Bhatt</CreatedBy.Name>
                 <CreatedDate>2018-08-22T18:37:45.000+0000</CreatedDate>
-                <LastModifiedBy.Id>0052D000000iRpAQAU</LastModifiedBy.Id>
-                <LastModifiedBy.Name>Shubham Bhatt</LastModifiedBy.Name>
-                <LastModifiedDate>2018-08-22T18:37:45.000+0000</LastModifiedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T22:33:59.000+0000</LastModifiedDate>
+                <Apttus_Config2__AssetsPage__c>Apttus_Config2__Cart#assetsgrid</Apttus_Config2__AssetsPage__c>
+                <Apttus_Config2__CartPage__c>Apttus_Config2__Cart</Apttus_Config2__CartPage__c>
+                <Apttus_Config2__CatalogPage__c>Apttus_Config2__Cart</Apttus_Config2__CatalogPage__c>
+                <Apttus_Config2__OptionsPage__c>Apttus_Config2__Cart</Apttus_Config2__OptionsPage__c>
+                <Apttus_Config2__ProductAttributeDetailPage__c>Apttus_Config2__Cart</Apttus_Config2__ProductAttributeDetailPage__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigFlow__c">
+                <Name>NGDefaultCarahsoft</Name>
+                <CreatedBy.Id>0052D000000gsvpQAA</CreatedBy.Id>
+                <CreatedBy.Name>Jef Benigno</CreatedBy.Name>
+                <CreatedDate>2018-08-30T22:34:31.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T22:34:31.000+0000</LastModifiedDate>
                 <Apttus_Config2__AssetsPage__c>Apttus_Config2__Cart#assetsgrid</Apttus_Config2__AssetsPage__c>
                 <Apttus_Config2__CartPage__c>Apttus_Config2__Cart</Apttus_Config2__CartPage__c>
                 <Apttus_Config2__CatalogPage__c>Apttus_Config2__Cart</Apttus_Config2__CatalogPage__c>
@@ -4058,6 +4072,1178 @@
                 <Apttus_Config2__Sequence__c>2</Apttus_Config2__Sequence__c>
             </sObjects>
             <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayActions__c">
+                <Name>Bundle Line Item 6 puQJm4UEczXoR1Q</Name>
+                <CreatedBy.Id>0052D000000gsvpQAA</CreatedBy.Id>
+                <CreatedBy.Name>Jef Benigno</CreatedBy.Name>
+                <CreatedDate>2018-08-30T22:34:33.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T22:34:33.000+0000</LastModifiedDate>
+                <Apttus_Config2__ActionArea__c>Center</Apttus_Config2__ActionArea__c>
+                <Apttus_Config2__ActionLabelName__c>UpdatePrice</Apttus_Config2__ActionLabelName__c>
+                <Apttus_Config2__ActionName__c>UpdatePrice</Apttus_Config2__ActionName__c>
+                <Apttus_Config2__DisplayAs__c>Action</Apttus_Config2__DisplayAs__c>
+                <Apttus_Config2__DisplayType__c>Bundle Line Item</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__Flow__c>NGDefaultCarahsoft</Apttus_Config2__Flow__c>
+                <Apttus_Config2__Sequence__c>6</Apttus_Config2__Sequence__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayActions__c">
+                <Name>Bundle Line Item 7 BpVSTN2j7zI53ET</Name>
+                <CreatedBy.Id>0052D000000gsvpQAA</CreatedBy.Id>
+                <CreatedBy.Name>Jef Benigno</CreatedBy.Name>
+                <CreatedDate>2018-08-30T22:34:33.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T22:34:33.000+0000</LastModifiedDate>
+                <Apttus_Config2__ActionArea__c>Center</Apttus_Config2__ActionArea__c>
+                <Apttus_Config2__ActionLabelName__c>More</Apttus_Config2__ActionLabelName__c>
+                <Apttus_Config2__ActionName__c>More</Apttus_Config2__ActionName__c>
+                <Apttus_Config2__DisplayAs__c>Action</Apttus_Config2__DisplayAs__c>
+                <Apttus_Config2__DisplayType__c>Bundle Line Item</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__Flow__c>NGDefaultCarahsoft</Apttus_Config2__Flow__c>
+                <Apttus_Config2__Sequence__c>7</Apttus_Config2__Sequence__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayActions__c">
+                <Name>Catalog Item 7 hhbOwH8rv69HSlu</Name>
+                <CreatedBy.Id>0052D000000gsvpQAA</CreatedBy.Id>
+                <CreatedBy.Name>Jef Benigno</CreatedBy.Name>
+                <CreatedDate>2018-08-30T22:34:34.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T22:34:34.000+0000</LastModifiedDate>
+                <Apttus_Config2__ActionArea__c>Center</Apttus_Config2__ActionArea__c>
+                <Apttus_Config2__ActionLabelName__c>CloseCart</Apttus_Config2__ActionLabelName__c>
+                <Apttus_Config2__ActionName__c>CloseCart</Apttus_Config2__ActionName__c>
+                <Apttus_Config2__AlwaysDisplay__c>true</Apttus_Config2__AlwaysDisplay__c>
+                <Apttus_Config2__DisplayAs__c>Action</Apttus_Config2__DisplayAs__c>
+                <Apttus_Config2__DisplayType__c>Catalog Item</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__Flow__c>NGDefaultCarahsoft</Apttus_Config2__Flow__c>
+                <Apttus_Config2__IsEnabled__c>true</Apttus_Config2__IsEnabled__c>
+                <Apttus_Config2__Sequence__c>7</Apttus_Config2__Sequence__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayActions__c">
+                <Name>Catalog Item 8 VIl3JcnJhuVuaAn</Name>
+                <CreatedBy.Id>0052D000000gsvpQAA</CreatedBy.Id>
+                <CreatedBy.Name>Jef Benigno</CreatedBy.Name>
+                <CreatedDate>2018-08-30T22:34:34.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T22:34:34.000+0000</LastModifiedDate>
+                <Apttus_Config2__ActionArea__c>Center</Apttus_Config2__ActionArea__c>
+                <Apttus_Config2__ActionLabelName__c>Abandon</Apttus_Config2__ActionLabelName__c>
+                <Apttus_Config2__ActionName__c>Abandon</Apttus_Config2__ActionName__c>
+                <Apttus_Config2__DisplayAs__c>Action</Apttus_Config2__DisplayAs__c>
+                <Apttus_Config2__DisplayType__c>Catalog Item</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__Flow__c>NGDefaultCarahsoft</Apttus_Config2__Flow__c>
+                <Apttus_Config2__Sequence__c>8</Apttus_Config2__Sequence__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayActions__c">
+                <Name>Catalog Item 9 V8YFBEO8TIvDy1x</Name>
+                <CreatedBy.Id>0052D000000gsvpQAA</CreatedBy.Id>
+                <CreatedBy.Name>Jef Benigno</CreatedBy.Name>
+                <CreatedDate>2018-08-30T22:34:34.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T22:34:34.000+0000</LastModifiedDate>
+                <Apttus_Config2__ActionArea__c>Center</Apttus_Config2__ActionArea__c>
+                <Apttus_Config2__ActionLabelName__c>Save</Apttus_Config2__ActionLabelName__c>
+                <Apttus_Config2__ActionName__c>Save</Apttus_Config2__ActionName__c>
+                <Apttus_Config2__AlwaysDisplay__c>true</Apttus_Config2__AlwaysDisplay__c>
+                <Apttus_Config2__DisplayAs__c>Action</Apttus_Config2__DisplayAs__c>
+                <Apttus_Config2__DisplayType__c>Catalog Item</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__Flow__c>NGDefaultCarahsoft</Apttus_Config2__Flow__c>
+                <Apttus_Config2__IsEnabled__c>true</Apttus_Config2__IsEnabled__c>
+                <Apttus_Config2__Sequence__c>9</Apttus_Config2__Sequence__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayActions__c">
+                <Name>Attribute Item 4 5YhyqqIeZEo5fsM</Name>
+                <CreatedBy.Id>0052D000000gsvpQAA</CreatedBy.Id>
+                <CreatedBy.Name>Jef Benigno</CreatedBy.Name>
+                <CreatedDate>2018-08-30T22:34:34.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T22:34:34.000+0000</LastModifiedDate>
+                <Apttus_Config2__ActionArea__c>Center</Apttus_Config2__ActionArea__c>
+                <Apttus_Config2__ActionLabelName__c>BackToPricing</Apttus_Config2__ActionLabelName__c>
+                <Apttus_Config2__ActionName__c>BackToPricing</Apttus_Config2__ActionName__c>
+                <Apttus_Config2__DisplayAs__c>Action</Apttus_Config2__DisplayAs__c>
+                <Apttus_Config2__DisplayType__c>Attribute Item</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__Flow__c>NGDefaultCarahsoft</Apttus_Config2__Flow__c>
+                <Apttus_Config2__Sequence__c>4</Apttus_Config2__Sequence__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayActions__c">
+                <Name>Attribute Item 5 fUegNnWg6yREhQQ</Name>
+                <CreatedBy.Id>0052D000000gsvpQAA</CreatedBy.Id>
+                <CreatedBy.Name>Jef Benigno</CreatedBy.Name>
+                <CreatedDate>2018-08-30T22:34:34.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T22:34:34.000+0000</LastModifiedDate>
+                <Apttus_Config2__ActionArea__c>Center</Apttus_Config2__ActionArea__c>
+                <Apttus_Config2__ActionLabelName__c>Next</Apttus_Config2__ActionLabelName__c>
+                <Apttus_Config2__ActionName__c>Next</Apttus_Config2__ActionName__c>
+                <Apttus_Config2__DisplayAs__c>Action</Apttus_Config2__DisplayAs__c>
+                <Apttus_Config2__DisplayType__c>Attribute Item</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__Flow__c>NGDefaultCarahsoft</Apttus_Config2__Flow__c>
+                <Apttus_Config2__Sequence__c>5</Apttus_Config2__Sequence__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayActions__c">
+                <Name>Attribute Item 6 KaqiaH5YoI9uCPa</Name>
+                <CreatedBy.Id>0052D000000gsvpQAA</CreatedBy.Id>
+                <CreatedBy.Name>Jef Benigno</CreatedBy.Name>
+                <CreatedDate>2018-08-30T22:34:34.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T22:34:34.000+0000</LastModifiedDate>
+                <Apttus_Config2__ActionArea__c>Center</Apttus_Config2__ActionArea__c>
+                <Apttus_Config2__ActionLabelName__c>GoToPricing</Apttus_Config2__ActionLabelName__c>
+                <Apttus_Config2__ActionName__c>GoToPricing</Apttus_Config2__ActionName__c>
+                <Apttus_Config2__DisplayAs__c>Action</Apttus_Config2__DisplayAs__c>
+                <Apttus_Config2__DisplayType__c>Attribute Item</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__Flow__c>NGDefaultCarahsoft</Apttus_Config2__Flow__c>
+                <Apttus_Config2__Sequence__c>6</Apttus_Config2__Sequence__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayActions__c">
+                <Name>Catalog Item 2 BJ1GHsTpLlYHRlY</Name>
+                <CreatedBy.Id>0052D000000gsvpQAA</CreatedBy.Id>
+                <CreatedBy.Name>Jef Benigno</CreatedBy.Name>
+                <CreatedDate>2018-08-30T22:34:34.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T22:34:34.000+0000</LastModifiedDate>
+                <Apttus_Config2__ActionArea__c>Center</Apttus_Config2__ActionArea__c>
+                <Apttus_Config2__ActionLabelName__c>CompareProducts</Apttus_Config2__ActionLabelName__c>
+                <Apttus_Config2__ActionName__c>CompareProducts</Apttus_Config2__ActionName__c>
+                <Apttus_Config2__DisplayAs__c>Action</Apttus_Config2__DisplayAs__c>
+                <Apttus_Config2__DisplayType__c>Catalog Item</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__Flow__c>NGDefaultCarahsoft</Apttus_Config2__Flow__c>
+                <Apttus_Config2__Sequence__c>2</Apttus_Config2__Sequence__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayActions__c">
+                <Name>Catalog Item 3 R2CLf5CT6AOquug</Name>
+                <CreatedBy.Id>0052D000000gsvpQAA</CreatedBy.Id>
+                <CreatedBy.Name>Jef Benigno</CreatedBy.Name>
+                <CreatedDate>2018-08-30T22:34:34.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T22:34:34.000+0000</LastModifiedDate>
+                <Apttus_Config2__ActionArea__c>Left</Apttus_Config2__ActionArea__c>
+                <Apttus_Config2__ActionLabelName__c>GoToPricing</Apttus_Config2__ActionLabelName__c>
+                <Apttus_Config2__ActionName__c>GoToPricing</Apttus_Config2__ActionName__c>
+                <Apttus_Config2__AlwaysDisplay__c>true</Apttus_Config2__AlwaysDisplay__c>
+                <Apttus_Config2__DisplayAs__c>Task</Apttus_Config2__DisplayAs__c>
+                <Apttus_Config2__DisplayType__c>Catalog Item</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__Flow__c>NGDefaultCarahsoft</Apttus_Config2__Flow__c>
+                <Apttus_Config2__IsEnabled__c>true</Apttus_Config2__IsEnabled__c>
+                <Apttus_Config2__Sequence__c>3</Apttus_Config2__Sequence__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayActions__c">
+                <Name>Catalog Item 4 6njeoxuuzSz4HFN</Name>
+                <CreatedBy.Id>0052D000000gsvpQAA</CreatedBy.Id>
+                <CreatedBy.Name>Jef Benigno</CreatedBy.Name>
+                <CreatedDate>2018-08-30T22:34:34.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T22:34:34.000+0000</LastModifiedDate>
+                <Apttus_Config2__ActionArea__c>Center</Apttus_Config2__ActionArea__c>
+                <Apttus_Config2__ActionLabelName__c>UpdatePrice</Apttus_Config2__ActionLabelName__c>
+                <Apttus_Config2__ActionName__c>UpdatePrice</Apttus_Config2__ActionName__c>
+                <Apttus_Config2__DisplayAs__c>Action</Apttus_Config2__DisplayAs__c>
+                <Apttus_Config2__DisplayType__c>Catalog Item</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__Flow__c>NGDefaultCarahsoft</Apttus_Config2__Flow__c>
+                <Apttus_Config2__Sequence__c>4</Apttus_Config2__Sequence__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayActions__c">
+                <Name>Catalog Item 10 qPcUWr47lZRpvu8</Name>
+                <CreatedBy.Id>0052D000000gsvpQAA</CreatedBy.Id>
+                <CreatedBy.Name>Jef Benigno</CreatedBy.Name>
+                <CreatedDate>2018-08-30T22:34:34.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T22:34:34.000+0000</LastModifiedDate>
+                <Apttus_Config2__ActionArea__c>Center</Apttus_Config2__ActionArea__c>
+                <Apttus_Config2__ActionLabelName__c>QuickSave</Apttus_Config2__ActionLabelName__c>
+                <Apttus_Config2__ActionName__c>QuickSave</Apttus_Config2__ActionName__c>
+                <Apttus_Config2__DisplayAs__c>Action</Apttus_Config2__DisplayAs__c>
+                <Apttus_Config2__DisplayType__c>Catalog Item</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__Flow__c>NGDefaultCarahsoft</Apttus_Config2__Flow__c>
+                <Apttus_Config2__Sequence__c>10</Apttus_Config2__Sequence__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayActions__c">
+                <Name>Attribute Item 7 VnZCPrdMvAgZP2J</Name>
+                <CreatedBy.Id>0052D000000gsvpQAA</CreatedBy.Id>
+                <CreatedBy.Name>Jef Benigno</CreatedBy.Name>
+                <CreatedDate>2018-08-30T22:34:34.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T22:34:34.000+0000</LastModifiedDate>
+                <Apttus_Config2__ActionArea__c>Center</Apttus_Config2__ActionArea__c>
+                <Apttus_Config2__ActionLabelName__c>UpdatePrice</Apttus_Config2__ActionLabelName__c>
+                <Apttus_Config2__ActionName__c>UpdatePrice</Apttus_Config2__ActionName__c>
+                <Apttus_Config2__DisplayAs__c>Action</Apttus_Config2__DisplayAs__c>
+                <Apttus_Config2__DisplayType__c>Attribute Item</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__Flow__c>NGDefaultCarahsoft</Apttus_Config2__Flow__c>
+                <Apttus_Config2__Sequence__c>7</Apttus_Config2__Sequence__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayActions__c">
+                <Name>Attribute Item 8 6Th3X82lKgt32rK</Name>
+                <CreatedBy.Id>0052D000000gsvpQAA</CreatedBy.Id>
+                <CreatedBy.Name>Jef Benigno</CreatedBy.Name>
+                <CreatedDate>2018-08-30T22:34:34.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T22:34:34.000+0000</LastModifiedDate>
+                <Apttus_Config2__ActionArea__c>Center</Apttus_Config2__ActionArea__c>
+                <Apttus_Config2__ActionLabelName__c>CloseCart</Apttus_Config2__ActionLabelName__c>
+                <Apttus_Config2__ActionName__c>CloseCart</Apttus_Config2__ActionName__c>
+                <Apttus_Config2__AlwaysDisplay__c>true</Apttus_Config2__AlwaysDisplay__c>
+                <Apttus_Config2__DisplayAs__c>Action</Apttus_Config2__DisplayAs__c>
+                <Apttus_Config2__DisplayType__c>Attribute Item</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__Flow__c>NGDefaultCarahsoft</Apttus_Config2__Flow__c>
+                <Apttus_Config2__IsEnabled__c>true</Apttus_Config2__IsEnabled__c>
+                <Apttus_Config2__Sequence__c>8</Apttus_Config2__Sequence__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayActions__c">
+                <Name>Attribute Item 9 HyI7hAv1zJACjpM</Name>
+                <CreatedBy.Id>0052D000000gsvpQAA</CreatedBy.Id>
+                <CreatedBy.Name>Jef Benigno</CreatedBy.Name>
+                <CreatedDate>2018-08-30T22:34:34.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T22:34:34.000+0000</LastModifiedDate>
+                <Apttus_Config2__ActionArea__c>Center</Apttus_Config2__ActionArea__c>
+                <Apttus_Config2__ActionLabelName__c>Abandon</Apttus_Config2__ActionLabelName__c>
+                <Apttus_Config2__ActionName__c>Abandon</Apttus_Config2__ActionName__c>
+                <Apttus_Config2__DisplayAs__c>Action</Apttus_Config2__DisplayAs__c>
+                <Apttus_Config2__DisplayType__c>Attribute Item</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__Flow__c>NGDefaultCarahsoft</Apttus_Config2__Flow__c>
+                <Apttus_Config2__Sequence__c>9</Apttus_Config2__Sequence__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayActions__c">
+                <Name>Bundle Line Item 8 9VcEjcfHllTgYRu</Name>
+                <CreatedBy.Id>0052D000000gsvpQAA</CreatedBy.Id>
+                <CreatedBy.Name>Jef Benigno</CreatedBy.Name>
+                <CreatedDate>2018-08-30T22:34:33.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T22:34:33.000+0000</LastModifiedDate>
+                <Apttus_Config2__ActionArea__c>Center</Apttus_Config2__ActionArea__c>
+                <Apttus_Config2__ActionLabelName__c>Finalize</Apttus_Config2__ActionLabelName__c>
+                <Apttus_Config2__ActionName__c>Finalize</Apttus_Config2__ActionName__c>
+                <Apttus_Config2__DisplayAs__c>Action</Apttus_Config2__DisplayAs__c>
+                <Apttus_Config2__DisplayType__c>Bundle Line Item</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__Flow__c>NGDefaultCarahsoft</Apttus_Config2__Flow__c>
+                <Apttus_Config2__Sequence__c>8</Apttus_Config2__Sequence__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayActions__c">
+                <Name>Bundle Line Item 9 IfzoGoeI73a2nNK</Name>
+                <CreatedBy.Id>0052D000000gsvpQAA</CreatedBy.Id>
+                <CreatedBy.Name>Jef Benigno</CreatedBy.Name>
+                <CreatedDate>2018-08-30T22:34:33.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T22:34:33.000+0000</LastModifiedDate>
+                <Apttus_Config2__ActionArea__c>Center</Apttus_Config2__ActionArea__c>
+                <Apttus_Config2__ActionLabelName__c>CloseCart</Apttus_Config2__ActionLabelName__c>
+                <Apttus_Config2__ActionName__c>CloseCart</Apttus_Config2__ActionName__c>
+                <Apttus_Config2__AlwaysDisplay__c>true</Apttus_Config2__AlwaysDisplay__c>
+                <Apttus_Config2__DisplayAs__c>Action</Apttus_Config2__DisplayAs__c>
+                <Apttus_Config2__DisplayType__c>Bundle Line Item</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__Flow__c>NGDefaultCarahsoft</Apttus_Config2__Flow__c>
+                <Apttus_Config2__IsEnabled__c>true</Apttus_Config2__IsEnabled__c>
+                <Apttus_Config2__Sequence__c>9</Apttus_Config2__Sequence__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayActions__c">
+                <Name>Cart Line Item 3 9wNR891FQub9JHA</Name>
+                <CreatedBy.Id>0052D000000gsvpQAA</CreatedBy.Id>
+                <CreatedBy.Name>Jef Benigno</CreatedBy.Name>
+                <CreatedDate>2018-08-30T22:34:33.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T22:34:33.000+0000</LastModifiedDate>
+                <Apttus_Config2__ActionArea__c>Center</Apttus_Config2__ActionArea__c>
+                <Apttus_Config2__ActionLabelName__c>AddMiscellaneousItem</Apttus_Config2__ActionLabelName__c>
+                <Apttus_Config2__ActionName__c>AddMiscellaneousItem</Apttus_Config2__ActionName__c>
+                <Apttus_Config2__DisplayAs__c>Action</Apttus_Config2__DisplayAs__c>
+                <Apttus_Config2__DisplayType__c>Cart Line Item</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__Flow__c>NGDefaultCarahsoft</Apttus_Config2__Flow__c>
+                <Apttus_Config2__Sequence__c>3</Apttus_Config2__Sequence__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayActions__c">
+                <Name>Cart Line Item 4 oqphmbB5ZnYzlL2</Name>
+                <CreatedBy.Id>0052D000000gsvpQAA</CreatedBy.Id>
+                <CreatedBy.Name>Jef Benigno</CreatedBy.Name>
+                <CreatedDate>2018-08-30T22:34:33.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T22:34:33.000+0000</LastModifiedDate>
+                <Apttus_Config2__ActionArea__c>Center</Apttus_Config2__ActionArea__c>
+                <Apttus_Config2__ActionLabelName__c>BackToPricing</Apttus_Config2__ActionLabelName__c>
+                <Apttus_Config2__ActionName__c>BackToPricing</Apttus_Config2__ActionName__c>
+                <Apttus_Config2__DisplayAs__c>Action</Apttus_Config2__DisplayAs__c>
+                <Apttus_Config2__DisplayType__c>Cart Line Item</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__Flow__c>NGDefaultCarahsoft</Apttus_Config2__Flow__c>
+                <Apttus_Config2__Sequence__c>4</Apttus_Config2__Sequence__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayActions__c">
+                <Name>Cart Line Item 5 PJ4AfHyQkt6oVh6</Name>
+                <CreatedBy.Id>0052D000000gsvpQAA</CreatedBy.Id>
+                <CreatedBy.Name>Jef Benigno</CreatedBy.Name>
+                <CreatedDate>2018-08-30T22:34:33.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T22:34:33.000+0000</LastModifiedDate>
+                <Apttus_Config2__ActionArea__c>Center</Apttus_Config2__ActionArea__c>
+                <Apttus_Config2__ActionLabelName__c>Reprice</Apttus_Config2__ActionLabelName__c>
+                <Apttus_Config2__ActionName__c>Reprice</Apttus_Config2__ActionName__c>
+                <Apttus_Config2__AlwaysDisplay__c>true</Apttus_Config2__AlwaysDisplay__c>
+                <Apttus_Config2__DisplayAs__c>Action</Apttus_Config2__DisplayAs__c>
+                <Apttus_Config2__DisplayType__c>Cart Line Item</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__Flow__c>NGDefaultCarahsoft</Apttus_Config2__Flow__c>
+                <Apttus_Config2__IsEnabled__c>true</Apttus_Config2__IsEnabled__c>
+                <Apttus_Config2__Sequence__c>5</Apttus_Config2__Sequence__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayActions__c">
+                <Name>Cart Line Item 21 p6id1p58stvCr1C</Name>
+                <CreatedBy.Id>0052D000000gsvpQAA</CreatedBy.Id>
+                <CreatedBy.Name>Jef Benigno</CreatedBy.Name>
+                <CreatedDate>2018-08-30T22:34:33.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T22:34:33.000+0000</LastModifiedDate>
+                <Apttus_Config2__ActionArea__c>Left</Apttus_Config2__ActionArea__c>
+                <Apttus_Config2__ActionLabelName__c>SendProposal</Apttus_Config2__ActionLabelName__c>
+                <Apttus_Config2__ActionName__c>CustomAction21</Apttus_Config2__ActionName__c>
+                <Apttus_Config2__ActionPage__c>Apttus_Proposal__DocGen</Apttus_Config2__ActionPage__c>
+                <Apttus_Config2__ActionParams__c>context=cart</Apttus_Config2__ActionParams__c>
+                <Apttus_Config2__AlwaysDisplay__c>true</Apttus_Config2__AlwaysDisplay__c>
+                <Apttus_Config2__Behavior__c>Self</Apttus_Config2__Behavior__c>
+                <Apttus_Config2__DisplayAs__c>Action</Apttus_Config2__DisplayAs__c>
+                <Apttus_Config2__DisplayType__c>Cart Line Item</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__Flow__c>NGDefaultCarahsoft</Apttus_Config2__Flow__c>
+                <Apttus_Config2__IsEnabled__c>true</Apttus_Config2__IsEnabled__c>
+                <Apttus_Config2__Sequence__c>21</Apttus_Config2__Sequence__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayActions__c">
+                <Name>Cart Line Item 11 6qzX1vSnv4Gb6ku</Name>
+                <CreatedBy.Id>0052D000000gsvpQAA</CreatedBy.Id>
+                <CreatedBy.Name>Jef Benigno</CreatedBy.Name>
+                <CreatedDate>2018-08-30T22:34:33.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T22:34:33.000+0000</LastModifiedDate>
+                <Apttus_Config2__ActionArea__c>Center</Apttus_Config2__ActionArea__c>
+                <Apttus_Config2__ActionLabelName__c>EditPriceAgreement</Apttus_Config2__ActionLabelName__c>
+                <Apttus_Config2__ActionName__c>EditPriceAgreement</Apttus_Config2__ActionName__c>
+                <Apttus_Config2__DisplayAs__c>Action</Apttus_Config2__DisplayAs__c>
+                <Apttus_Config2__DisplayType__c>Cart Line Item</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__Flow__c>NGDefaultCarahsoft</Apttus_Config2__Flow__c>
+                <Apttus_Config2__Sequence__c>11</Apttus_Config2__Sequence__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayActions__c">
+                <Name>Cart Line Item 12 B6ji3HjGjdrO876</Name>
+                <CreatedBy.Id>0052D000000gsvpQAA</CreatedBy.Id>
+                <CreatedBy.Name>Jef Benigno</CreatedBy.Name>
+                <CreatedDate>2018-08-30T22:34:33.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T22:34:33.000+0000</LastModifiedDate>
+                <Apttus_Config2__ActionArea__c>Center</Apttus_Config2__ActionArea__c>
+                <Apttus_Config2__ActionLabelName__c>AnalyzeDeal</Apttus_Config2__ActionLabelName__c>
+                <Apttus_Config2__ActionName__c>AnalyzeDeal</Apttus_Config2__ActionName__c>
+                <Apttus_Config2__DisplayAs__c>Action</Apttus_Config2__DisplayAs__c>
+                <Apttus_Config2__DisplayType__c>Cart Line Item</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__Flow__c>NGDefaultCarahsoft</Apttus_Config2__Flow__c>
+                <Apttus_Config2__Sequence__c>12</Apttus_Config2__Sequence__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayActions__c">
+                <Name>Cart Line Item 13 ljgR2jvMPks7j5v</Name>
+                <CreatedBy.Id>0052D000000gsvpQAA</CreatedBy.Id>
+                <CreatedBy.Name>Jef Benigno</CreatedBy.Name>
+                <CreatedDate>2018-08-30T22:34:33.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T22:34:33.000+0000</LastModifiedDate>
+                <Apttus_Config2__ActionArea__c>Center</Apttus_Config2__ActionArea__c>
+                <Apttus_Config2__ActionLabelName__c>ReviewAndFinalize</Apttus_Config2__ActionLabelName__c>
+                <Apttus_Config2__ActionName__c>ReviewAndFinalize</Apttus_Config2__ActionName__c>
+                <Apttus_Config2__DisplayAs__c>Action</Apttus_Config2__DisplayAs__c>
+                <Apttus_Config2__DisplayType__c>Cart Line Item</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__Flow__c>NGDefaultCarahsoft</Apttus_Config2__Flow__c>
+                <Apttus_Config2__Sequence__c>13</Apttus_Config2__Sequence__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayActions__c">
+                <Name>Asset Line Item 1 SvzdtoWQZL7dRuR</Name>
+                <CreatedBy.Id>0052D000000gsvpQAA</CreatedBy.Id>
+                <CreatedBy.Name>Jef Benigno</CreatedBy.Name>
+                <CreatedDate>2018-08-30T22:34:33.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T22:34:33.000+0000</LastModifiedDate>
+                <Apttus_Config2__ActionArea__c>Left</Apttus_Config2__ActionArea__c>
+                <Apttus_Config2__ActionLabelName__c>CatalogProducts</Apttus_Config2__ActionLabelName__c>
+                <Apttus_Config2__ActionName__c>CatalogProducts</Apttus_Config2__ActionName__c>
+                <Apttus_Config2__AlwaysDisplay__c>true</Apttus_Config2__AlwaysDisplay__c>
+                <Apttus_Config2__DisplayAs__c>Task</Apttus_Config2__DisplayAs__c>
+                <Apttus_Config2__DisplayType__c>Asset Line Item</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__Flow__c>NGDefaultCarahsoft</Apttus_Config2__Flow__c>
+                <Apttus_Config2__IsEnabled__c>true</Apttus_Config2__IsEnabled__c>
+                <Apttus_Config2__Sequence__c>1</Apttus_Config2__Sequence__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayActions__c">
+                <Name>Asset Line Item 2 GzRNUnPWrHEMcjM</Name>
+                <CreatedBy.Id>0052D000000gsvpQAA</CreatedBy.Id>
+                <CreatedBy.Name>Jef Benigno</CreatedBy.Name>
+                <CreatedDate>2018-08-30T22:34:33.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T22:34:33.000+0000</LastModifiedDate>
+                <Apttus_Config2__ActionArea__c>Left</Apttus_Config2__ActionArea__c>
+                <Apttus_Config2__ActionLabelName__c>GoToPricing</Apttus_Config2__ActionLabelName__c>
+                <Apttus_Config2__ActionName__c>GoToPricing</Apttus_Config2__ActionName__c>
+                <Apttus_Config2__AlwaysDisplay__c>true</Apttus_Config2__AlwaysDisplay__c>
+                <Apttus_Config2__DisplayAs__c>Task</Apttus_Config2__DisplayAs__c>
+                <Apttus_Config2__DisplayType__c>Asset Line Item</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__Flow__c>NGDefaultCarahsoft</Apttus_Config2__Flow__c>
+                <Apttus_Config2__IsEnabled__c>true</Apttus_Config2__IsEnabled__c>
+                <Apttus_Config2__Sequence__c>2</Apttus_Config2__Sequence__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayActions__c">
+                <Name>Asset Line Item 8 slLFRiTsp6GalIy</Name>
+                <CreatedBy.Id>0052D000000gsvpQAA</CreatedBy.Id>
+                <CreatedBy.Name>Jef Benigno</CreatedBy.Name>
+                <CreatedDate>2018-08-30T22:34:33.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T22:34:33.000+0000</LastModifiedDate>
+                <Apttus_Config2__ActionArea__c>Center</Apttus_Config2__ActionArea__c>
+                <Apttus_Config2__ActionLabelName__c>UpdatePrice</Apttus_Config2__ActionLabelName__c>
+                <Apttus_Config2__ActionName__c>UpdatePrice</Apttus_Config2__ActionName__c>
+                <Apttus_Config2__DisplayAs__c>Action</Apttus_Config2__DisplayAs__c>
+                <Apttus_Config2__DisplayType__c>Asset Line Item</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__Flow__c>NGDefaultCarahsoft</Apttus_Config2__Flow__c>
+                <Apttus_Config2__Sequence__c>8</Apttus_Config2__Sequence__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayActions__c">
+                <Name>Asset Line Item 9 oVFqsT4SeUZfFua</Name>
+                <CreatedBy.Id>0052D000000gsvpQAA</CreatedBy.Id>
+                <CreatedBy.Name>Jef Benigno</CreatedBy.Name>
+                <CreatedDate>2018-08-30T22:34:33.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T22:34:33.000+0000</LastModifiedDate>
+                <Apttus_Config2__ActionArea__c>Center</Apttus_Config2__ActionArea__c>
+                <Apttus_Config2__ActionLabelName__c>More</Apttus_Config2__ActionLabelName__c>
+                <Apttus_Config2__ActionName__c>More</Apttus_Config2__ActionName__c>
+                <Apttus_Config2__DisplayAs__c>Action</Apttus_Config2__DisplayAs__c>
+                <Apttus_Config2__DisplayType__c>Asset Line Item</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__Flow__c>NGDefaultCarahsoft</Apttus_Config2__Flow__c>
+                <Apttus_Config2__Sequence__c>9</Apttus_Config2__Sequence__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayActions__c">
+                <Name>Bundle Line Item 2 ltD8Y1zRIqtxi8z</Name>
+                <CreatedBy.Id>0052D000000gsvpQAA</CreatedBy.Id>
+                <CreatedBy.Name>Jef Benigno</CreatedBy.Name>
+                <CreatedDate>2018-08-30T22:34:33.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T22:34:33.000+0000</LastModifiedDate>
+                <Apttus_Config2__ActionArea__c>Left</Apttus_Config2__ActionArea__c>
+                <Apttus_Config2__ActionLabelName__c>InstalledProducts</Apttus_Config2__ActionLabelName__c>
+                <Apttus_Config2__ActionName__c>InstalledProducts</Apttus_Config2__ActionName__c>
+                <Apttus_Config2__AlwaysDisplay__c>true</Apttus_Config2__AlwaysDisplay__c>
+                <Apttus_Config2__DisplayAs__c>Task</Apttus_Config2__DisplayAs__c>
+                <Apttus_Config2__DisplayType__c>Bundle Line Item</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__Flow__c>NGDefaultCarahsoft</Apttus_Config2__Flow__c>
+                <Apttus_Config2__IsEnabled__c>true</Apttus_Config2__IsEnabled__c>
+                <Apttus_Config2__Sequence__c>2</Apttus_Config2__Sequence__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayActions__c">
+                <Name>Bundle Line Item 3 Ayj4ZhWNisgiJpJ</Name>
+                <CreatedBy.Id>0052D000000gsvpQAA</CreatedBy.Id>
+                <CreatedBy.Name>Jef Benigno</CreatedBy.Name>
+                <CreatedDate>2018-08-30T22:34:33.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T22:34:33.000+0000</LastModifiedDate>
+                <Apttus_Config2__ActionArea__c>Left</Apttus_Config2__ActionArea__c>
+                <Apttus_Config2__ActionLabelName__c>GoToPricing</Apttus_Config2__ActionLabelName__c>
+                <Apttus_Config2__ActionName__c>GoToPricing</Apttus_Config2__ActionName__c>
+                <Apttus_Config2__DisplayAs__c>Task</Apttus_Config2__DisplayAs__c>
+                <Apttus_Config2__DisplayType__c>Bundle Line Item</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__Flow__c>NGDefaultCarahsoft</Apttus_Config2__Flow__c>
+                <Apttus_Config2__Sequence__c>3</Apttus_Config2__Sequence__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayActions__c">
+                <Name>Cart Line Item 6 qU5hHvqloivLyqM</Name>
+                <CreatedBy.Id>0052D000000gsvpQAA</CreatedBy.Id>
+                <CreatedBy.Name>Jef Benigno</CreatedBy.Name>
+                <CreatedDate>2018-08-30T22:34:33.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T22:34:33.000+0000</LastModifiedDate>
+                <Apttus_Config2__ActionArea__c>Left</Apttus_Config2__ActionArea__c>
+                <Apttus_Config2__ActionLabelName__c>Save</Apttus_Config2__ActionLabelName__c>
+                <Apttus_Config2__ActionName__c>Save</Apttus_Config2__ActionName__c>
+                <Apttus_Config2__AlwaysDisplay__c>true</Apttus_Config2__AlwaysDisplay__c>
+                <Apttus_Config2__DisplayAs__c>Action</Apttus_Config2__DisplayAs__c>
+                <Apttus_Config2__DisplayType__c>Cart Line Item</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__Flow__c>NGDefaultCarahsoft</Apttus_Config2__Flow__c>
+                <Apttus_Config2__IsEnabled__c>true</Apttus_Config2__IsEnabled__c>
+                <Apttus_Config2__Sequence__c>6</Apttus_Config2__Sequence__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayActions__c">
+                <Name>Cart Line Item 7 SUfaYNtQrpBHPXz</Name>
+                <CreatedBy.Id>0052D000000gsvpQAA</CreatedBy.Id>
+                <CreatedBy.Name>Jef Benigno</CreatedBy.Name>
+                <CreatedDate>2018-08-30T22:34:33.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T22:34:33.000+0000</LastModifiedDate>
+                <Apttus_Config2__ActionArea__c>Center</Apttus_Config2__ActionArea__c>
+                <Apttus_Config2__ActionLabelName__c>QuickSave</Apttus_Config2__ActionLabelName__c>
+                <Apttus_Config2__ActionName__c>QuickSave</Apttus_Config2__ActionName__c>
+                <Apttus_Config2__DisplayAs__c>Action</Apttus_Config2__DisplayAs__c>
+                <Apttus_Config2__DisplayType__c>Cart Line Item</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__Flow__c>NGDefaultCarahsoft</Apttus_Config2__Flow__c>
+                <Apttus_Config2__Sequence__c>7</Apttus_Config2__Sequence__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayActions__c">
+                <Name>Cart Line Item 14 w4UEy5HJpAe4kSi</Name>
+                <CreatedBy.Id>0052D000000gsvpQAA</CreatedBy.Id>
+                <CreatedBy.Name>Jef Benigno</CreatedBy.Name>
+                <CreatedDate>2018-08-30T22:34:33.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T22:34:33.000+0000</LastModifiedDate>
+                <Apttus_Config2__ActionArea__c>Center</Apttus_Config2__ActionArea__c>
+                <Apttus_Config2__ActionLabelName__c>More</Apttus_Config2__ActionLabelName__c>
+                <Apttus_Config2__ActionName__c>More</Apttus_Config2__ActionName__c>
+                <Apttus_Config2__DisplayAs__c>Action</Apttus_Config2__DisplayAs__c>
+                <Apttus_Config2__DisplayType__c>Cart Line Item</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__Flow__c>NGDefaultCarahsoft</Apttus_Config2__Flow__c>
+                <Apttus_Config2__Sequence__c>14</Apttus_Config2__Sequence__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayActions__c">
+                <Name>Cart Line Item 15 dvUR2mbjkzQ9rMc</Name>
+                <CreatedBy.Id>0052D000000gsvpQAA</CreatedBy.Id>
+                <CreatedBy.Name>Jef Benigno</CreatedBy.Name>
+                <CreatedDate>2018-08-30T22:34:33.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T22:34:33.000+0000</LastModifiedDate>
+                <Apttus_Config2__ActionArea__c>Right</Apttus_Config2__ActionArea__c>
+                <Apttus_Config2__ActionLabelName__c>Finalize</Apttus_Config2__ActionLabelName__c>
+                <Apttus_Config2__ActionName__c>Finalize</Apttus_Config2__ActionName__c>
+                <Apttus_Config2__AlwaysDisplay__c>true</Apttus_Config2__AlwaysDisplay__c>
+                <Apttus_Config2__DisplayAs__c>Action</Apttus_Config2__DisplayAs__c>
+                <Apttus_Config2__DisplayType__c>Cart Line Item</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__Flow__c>NGDefaultCarahsoft</Apttus_Config2__Flow__c>
+                <Apttus_Config2__IsEnabled__c>true</Apttus_Config2__IsEnabled__c>
+                <Apttus_Config2__Sequence__c>15</Apttus_Config2__Sequence__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayActions__c">
+                <Name>Asset Line Item 3 Ya364GAcgldiaJ4</Name>
+                <CreatedBy.Id>0052D000000gsvpQAA</CreatedBy.Id>
+                <CreatedBy.Name>Jef Benigno</CreatedBy.Name>
+                <CreatedDate>2018-08-30T22:34:33.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T22:34:33.000+0000</LastModifiedDate>
+                <Apttus_Config2__ActionArea__c>Center</Apttus_Config2__ActionArea__c>
+                <Apttus_Config2__ActionLabelName__c>Increment</Apttus_Config2__ActionLabelName__c>
+                <Apttus_Config2__ActionName__c>Increment</Apttus_Config2__ActionName__c>
+                <Apttus_Config2__DisplayAs__c>Action</Apttus_Config2__DisplayAs__c>
+                <Apttus_Config2__DisplayType__c>Asset Line Item</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__Flow__c>NGDefaultCarahsoft</Apttus_Config2__Flow__c>
+                <Apttus_Config2__Sequence__c>3</Apttus_Config2__Sequence__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayActions__c">
+                <Name>Bundle Line Item 10 Uanu8x7sHQDTPwJ</Name>
+                <CreatedBy.Id>0052D000000gsvpQAA</CreatedBy.Id>
+                <CreatedBy.Name>Jef Benigno</CreatedBy.Name>
+                <CreatedDate>2018-08-30T22:34:33.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T22:34:33.000+0000</LastModifiedDate>
+                <Apttus_Config2__ActionArea__c>Center</Apttus_Config2__ActionArea__c>
+                <Apttus_Config2__ActionLabelName__c>Abandon</Apttus_Config2__ActionLabelName__c>
+                <Apttus_Config2__ActionName__c>Abandon</Apttus_Config2__ActionName__c>
+                <Apttus_Config2__DisplayAs__c>Action</Apttus_Config2__DisplayAs__c>
+                <Apttus_Config2__DisplayType__c>Bundle Line Item</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__Flow__c>NGDefaultCarahsoft</Apttus_Config2__Flow__c>
+                <Apttus_Config2__Sequence__c>10</Apttus_Config2__Sequence__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayActions__c">
+                <Name>Bundle Line Item 11 laW3WxJGAX6ytoi</Name>
+                <CreatedBy.Id>0052D000000gsvpQAA</CreatedBy.Id>
+                <CreatedBy.Name>Jef Benigno</CreatedBy.Name>
+                <CreatedDate>2018-08-30T22:34:33.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T22:34:33.000+0000</LastModifiedDate>
+                <Apttus_Config2__ActionArea__c>Center</Apttus_Config2__ActionArea__c>
+                <Apttus_Config2__ActionLabelName__c>ValidateBundle</Apttus_Config2__ActionLabelName__c>
+                <Apttus_Config2__ActionName__c>ValidateBundle</Apttus_Config2__ActionName__c>
+                <Apttus_Config2__DisplayAs__c>Action</Apttus_Config2__DisplayAs__c>
+                <Apttus_Config2__DisplayType__c>Bundle Line Item</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__Flow__c>NGDefaultCarahsoft</Apttus_Config2__Flow__c>
+                <Apttus_Config2__Sequence__c>11</Apttus_Config2__Sequence__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayActions__c">
+                <Name>Cart Line Item 8 QmnLZi67E5ET26u</Name>
+                <CreatedBy.Id>0052D000000gsvpQAA</CreatedBy.Id>
+                <CreatedBy.Name>Jef Benigno</CreatedBy.Name>
+                <CreatedDate>2018-08-30T22:34:33.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T22:34:33.000+0000</LastModifiedDate>
+                <Apttus_Config2__ActionArea__c>Center</Apttus_Config2__ActionArea__c>
+                <Apttus_Config2__ActionLabelName__c>SaveAndReload</Apttus_Config2__ActionLabelName__c>
+                <Apttus_Config2__ActionName__c>SaveAndReload</Apttus_Config2__ActionName__c>
+                <Apttus_Config2__DisplayAs__c>Action</Apttus_Config2__DisplayAs__c>
+                <Apttus_Config2__DisplayType__c>Cart Line Item</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__Flow__c>NGDefaultCarahsoft</Apttus_Config2__Flow__c>
+                <Apttus_Config2__Sequence__c>8</Apttus_Config2__Sequence__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayActions__c">
+                <Name>Asset Line Item 4 h1lIyiUtegD4f3I</Name>
+                <CreatedBy.Id>0052D000000gsvpQAA</CreatedBy.Id>
+                <CreatedBy.Name>Jef Benigno</CreatedBy.Name>
+                <CreatedDate>2018-08-30T22:34:33.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T22:34:33.000+0000</LastModifiedDate>
+                <Apttus_Config2__ActionArea__c>Center</Apttus_Config2__ActionArea__c>
+                <Apttus_Config2__ActionLabelName__c>Amend</Apttus_Config2__ActionLabelName__c>
+                <Apttus_Config2__ActionName__c>Amend</Apttus_Config2__ActionName__c>
+                <Apttus_Config2__DisplayAs__c>Action</Apttus_Config2__DisplayAs__c>
+                <Apttus_Config2__DisplayType__c>Asset Line Item</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__Flow__c>NGDefaultCarahsoft</Apttus_Config2__Flow__c>
+                <Apttus_Config2__Sequence__c>4</Apttus_Config2__Sequence__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayActions__c">
+                <Name>Asset Line Item 10 OPWHACiAxOIbB2e</Name>
+                <CreatedBy.Id>0052D000000gsvpQAA</CreatedBy.Id>
+                <CreatedBy.Name>Jef Benigno</CreatedBy.Name>
+                <CreatedDate>2018-08-30T22:34:33.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T22:34:33.000+0000</LastModifiedDate>
+                <Apttus_Config2__ActionArea__c>Center</Apttus_Config2__ActionArea__c>
+                <Apttus_Config2__ActionLabelName__c>Finalize</Apttus_Config2__ActionLabelName__c>
+                <Apttus_Config2__ActionName__c>Finalize</Apttus_Config2__ActionName__c>
+                <Apttus_Config2__DisplayAs__c>Action</Apttus_Config2__DisplayAs__c>
+                <Apttus_Config2__DisplayType__c>Asset Line Item</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__Flow__c>NGDefaultCarahsoft</Apttus_Config2__Flow__c>
+                <Apttus_Config2__Sequence__c>10</Apttus_Config2__Sequence__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayActions__c">
+                <Name>Asset Line Item 11 dwMWJPRnjIbivwL</Name>
+                <CreatedBy.Id>0052D000000gsvpQAA</CreatedBy.Id>
+                <CreatedBy.Name>Jef Benigno</CreatedBy.Name>
+                <CreatedDate>2018-08-30T22:34:33.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T22:34:33.000+0000</LastModifiedDate>
+                <Apttus_Config2__ActionArea__c>Center</Apttus_Config2__ActionArea__c>
+                <Apttus_Config2__ActionLabelName__c>CloseCart</Apttus_Config2__ActionLabelName__c>
+                <Apttus_Config2__ActionName__c>CloseCart</Apttus_Config2__ActionName__c>
+                <Apttus_Config2__DisplayAs__c>Action</Apttus_Config2__DisplayAs__c>
+                <Apttus_Config2__DisplayType__c>Asset Line Item</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__Flow__c>NGDefaultCarahsoft</Apttus_Config2__Flow__c>
+                <Apttus_Config2__Sequence__c>11</Apttus_Config2__Sequence__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayActions__c">
+                <Name>Asset Line Item 12 6XgaekFHxxeFmEN</Name>
+                <CreatedBy.Id>0052D000000gsvpQAA</CreatedBy.Id>
+                <CreatedBy.Name>Jef Benigno</CreatedBy.Name>
+                <CreatedDate>2018-08-30T22:34:33.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T22:34:33.000+0000</LastModifiedDate>
+                <Apttus_Config2__ActionArea__c>Center</Apttus_Config2__ActionArea__c>
+                <Apttus_Config2__ActionLabelName__c>Abandon</Apttus_Config2__ActionLabelName__c>
+                <Apttus_Config2__ActionName__c>Abandon</Apttus_Config2__ActionName__c>
+                <Apttus_Config2__DisplayAs__c>Action</Apttus_Config2__DisplayAs__c>
+                <Apttus_Config2__DisplayType__c>Asset Line Item</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__Flow__c>NGDefaultCarahsoft</Apttus_Config2__Flow__c>
+                <Apttus_Config2__Sequence__c>12</Apttus_Config2__Sequence__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayActions__c">
+                <Name>Bundle Line Item 4 9PmrLxp7sZxt3Pz</Name>
+                <CreatedBy.Id>0052D000000gsvpQAA</CreatedBy.Id>
+                <CreatedBy.Name>Jef Benigno</CreatedBy.Name>
+                <CreatedDate>2018-08-30T22:34:33.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T22:34:33.000+0000</LastModifiedDate>
+                <Apttus_Config2__ActionArea__c>Center</Apttus_Config2__ActionArea__c>
+                <Apttus_Config2__ActionLabelName__c>RemoveItem</Apttus_Config2__ActionLabelName__c>
+                <Apttus_Config2__ActionName__c>RemoveItem</Apttus_Config2__ActionName__c>
+                <Apttus_Config2__AlwaysDisplay__c>true</Apttus_Config2__AlwaysDisplay__c>
+                <Apttus_Config2__DisplayAs__c>Action</Apttus_Config2__DisplayAs__c>
+                <Apttus_Config2__DisplayType__c>Bundle Line Item</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__Flow__c>NGDefaultCarahsoft</Apttus_Config2__Flow__c>
+                <Apttus_Config2__IsEnabled__c>true</Apttus_Config2__IsEnabled__c>
+                <Apttus_Config2__Sequence__c>4</Apttus_Config2__Sequence__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayActions__c">
+                <Name>Bundle Line Item 5 p3usOfiNIgqAUXc</Name>
+                <CreatedBy.Id>0052D000000gsvpQAA</CreatedBy.Id>
+                <CreatedBy.Name>Jef Benigno</CreatedBy.Name>
+                <CreatedDate>2018-08-30T22:34:33.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T22:34:33.000+0000</LastModifiedDate>
+                <Apttus_Config2__ActionArea__c>Center</Apttus_Config2__ActionArea__c>
+                <Apttus_Config2__ActionLabelName__c>BackToDetail</Apttus_Config2__ActionLabelName__c>
+                <Apttus_Config2__ActionName__c>BackToDetail</Apttus_Config2__ActionName__c>
+                <Apttus_Config2__DisplayAs__c>Action</Apttus_Config2__DisplayAs__c>
+                <Apttus_Config2__DisplayType__c>Bundle Line Item</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__Flow__c>NGDefaultCarahsoft</Apttus_Config2__Flow__c>
+                <Apttus_Config2__Sequence__c>5</Apttus_Config2__Sequence__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayActions__c">
+                <Name>Cart Line Item 9 42E2qAcjHIGq325</Name>
+                <CreatedBy.Id>0052D000000gsvpQAA</CreatedBy.Id>
+                <CreatedBy.Name>Jef Benigno</CreatedBy.Name>
+                <CreatedDate>2018-08-30T22:34:33.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T22:34:33.000+0000</LastModifiedDate>
+                <Apttus_Config2__ActionArea__c>Right</Apttus_Config2__ActionArea__c>
+                <Apttus_Config2__ActionLabelName__c>SubmitForApproval</Apttus_Config2__ActionLabelName__c>
+                <Apttus_Config2__ActionName__c>SubmitForApproval</Apttus_Config2__ActionName__c>
+                <Apttus_Config2__AlwaysDisplay__c>true</Apttus_Config2__AlwaysDisplay__c>
+                <Apttus_Config2__DisplayAs__c>Action</Apttus_Config2__DisplayAs__c>
+                <Apttus_Config2__DisplayType__c>Cart Line Item</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__Flow__c>NGDefaultCarahsoft</Apttus_Config2__Flow__c>
+                <Apttus_Config2__IsEnabled__c>true</Apttus_Config2__IsEnabled__c>
+                <Apttus_Config2__Sequence__c>9</Apttus_Config2__Sequence__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayActions__c">
+                <Name>Cart Line Item 1 bhYGzOfaiu1bjZl</Name>
+                <CreatedBy.Id>0052D000000gsvpQAA</CreatedBy.Id>
+                <CreatedBy.Name>Jef Benigno</CreatedBy.Name>
+                <CreatedDate>2018-08-30T22:34:33.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T22:34:33.000+0000</LastModifiedDate>
+                <Apttus_Config2__ActionArea__c>Left</Apttus_Config2__ActionArea__c>
+                <Apttus_Config2__ActionLabelName__c>AddMoreProducts</Apttus_Config2__ActionLabelName__c>
+                <Apttus_Config2__ActionName__c>AddMoreProducts</Apttus_Config2__ActionName__c>
+                <Apttus_Config2__AlwaysDisplay__c>true</Apttus_Config2__AlwaysDisplay__c>
+                <Apttus_Config2__DisplayAs__c>Task</Apttus_Config2__DisplayAs__c>
+                <Apttus_Config2__DisplayType__c>Cart Line Item</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__Flow__c>NGDefaultCarahsoft</Apttus_Config2__Flow__c>
+                <Apttus_Config2__IsEnabled__c>true</Apttus_Config2__IsEnabled__c>
+                <Apttus_Config2__Sequence__c>1</Apttus_Config2__Sequence__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayActions__c">
+                <Name>Cart Line Item 2 9uuzIzMyR5ao3tY</Name>
+                <CreatedBy.Id>0052D000000gsvpQAA</CreatedBy.Id>
+                <CreatedBy.Name>Jef Benigno</CreatedBy.Name>
+                <CreatedDate>2018-08-30T22:34:33.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T22:34:33.000+0000</LastModifiedDate>
+                <Apttus_Config2__ActionArea__c>Left</Apttus_Config2__ActionArea__c>
+                <Apttus_Config2__ActionLabelName__c>InstalledProducts</Apttus_Config2__ActionLabelName__c>
+                <Apttus_Config2__ActionName__c>InstalledProducts</Apttus_Config2__ActionName__c>
+                <Apttus_Config2__AlwaysDisplay__c>true</Apttus_Config2__AlwaysDisplay__c>
+                <Apttus_Config2__DisplayAs__c>Task</Apttus_Config2__DisplayAs__c>
+                <Apttus_Config2__DisplayType__c>Cart Line Item</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__Flow__c>NGDefaultCarahsoft</Apttus_Config2__Flow__c>
+                <Apttus_Config2__IsEnabled__c>true</Apttus_Config2__IsEnabled__c>
+                <Apttus_Config2__Sequence__c>2</Apttus_Config2__Sequence__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayActions__c">
+                <Name>Asset Line Item 5 c9Fh6KoQ18WBcIV</Name>
+                <CreatedBy.Id>0052D000000gsvpQAA</CreatedBy.Id>
+                <CreatedBy.Name>Jef Benigno</CreatedBy.Name>
+                <CreatedDate>2018-08-30T22:34:33.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T22:34:33.000+0000</LastModifiedDate>
+                <Apttus_Config2__ActionArea__c>Center</Apttus_Config2__ActionArea__c>
+                <Apttus_Config2__ActionLabelName__c>Renew</Apttus_Config2__ActionLabelName__c>
+                <Apttus_Config2__ActionName__c>Renew</Apttus_Config2__ActionName__c>
+                <Apttus_Config2__DisplayAs__c>Action</Apttus_Config2__DisplayAs__c>
+                <Apttus_Config2__DisplayType__c>Asset Line Item</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__Flow__c>NGDefaultCarahsoft</Apttus_Config2__Flow__c>
+                <Apttus_Config2__Sequence__c>5</Apttus_Config2__Sequence__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayActions__c">
+                <Name>Asset Line Item 6 oH6OfB2BCkNDve5</Name>
+                <CreatedBy.Id>0052D000000gsvpQAA</CreatedBy.Id>
+                <CreatedBy.Name>Jef Benigno</CreatedBy.Name>
+                <CreatedDate>2018-08-30T22:34:33.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T22:34:33.000+0000</LastModifiedDate>
+                <Apttus_Config2__ActionArea__c>Center</Apttus_Config2__ActionArea__c>
+                <Apttus_Config2__ActionLabelName__c>Terminate</Apttus_Config2__ActionLabelName__c>
+                <Apttus_Config2__ActionName__c>Terminate</Apttus_Config2__ActionName__c>
+                <Apttus_Config2__DisplayAs__c>Action</Apttus_Config2__DisplayAs__c>
+                <Apttus_Config2__DisplayType__c>Asset Line Item</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__Flow__c>NGDefaultCarahsoft</Apttus_Config2__Flow__c>
+                <Apttus_Config2__Sequence__c>6</Apttus_Config2__Sequence__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayActions__c">
+                <Name>Bundle Line Item 12 PlYncQE4uEhyGSu</Name>
+                <CreatedBy.Id>0052D000000gsvpQAA</CreatedBy.Id>
+                <CreatedBy.Name>Jef Benigno</CreatedBy.Name>
+                <CreatedDate>2018-08-30T22:34:33.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T22:34:33.000+0000</LastModifiedDate>
+                <Apttus_Config2__ActionArea__c>Center</Apttus_Config2__ActionArea__c>
+                <Apttus_Config2__ActionLabelName__c>Save</Apttus_Config2__ActionLabelName__c>
+                <Apttus_Config2__ActionName__c>Save</Apttus_Config2__ActionName__c>
+                <Apttus_Config2__DisplayAs__c>Action</Apttus_Config2__DisplayAs__c>
+                <Apttus_Config2__DisplayType__c>Bundle Line Item</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__Flow__c>NGDefaultCarahsoft</Apttus_Config2__Flow__c>
+                <Apttus_Config2__Sequence__c>12</Apttus_Config2__Sequence__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayActions__c">
+                <Name>Resolve Config Item 1 4BCIEzPRR7pInaY</Name>
+                <CreatedBy.Id>0052D000000gsvpQAA</CreatedBy.Id>
+                <CreatedBy.Name>Jef Benigno</CreatedBy.Name>
+                <CreatedDate>2018-08-30T22:34:34.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T22:34:34.000+0000</LastModifiedDate>
+                <Apttus_Config2__ActionArea__c>Left</Apttus_Config2__ActionArea__c>
+                <Apttus_Config2__ActionLabelName__c>CatalogProducts</Apttus_Config2__ActionLabelName__c>
+                <Apttus_Config2__ActionName__c>CatalogProducts</Apttus_Config2__ActionName__c>
+                <Apttus_Config2__AlwaysDisplay__c>true</Apttus_Config2__AlwaysDisplay__c>
+                <Apttus_Config2__DisplayAs__c>Task</Apttus_Config2__DisplayAs__c>
+                <Apttus_Config2__DisplayType__c>Resolve Config Item</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__Flow__c>NGDefaultCarahsoft</Apttus_Config2__Flow__c>
+                <Apttus_Config2__IsEnabled__c>true</Apttus_Config2__IsEnabled__c>
+                <Apttus_Config2__Sequence__c>1</Apttus_Config2__Sequence__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayActions__c">
+                <Name>Resolve Config Item 2 uk7S8HCbLcvW45E</Name>
+                <CreatedBy.Id>0052D000000gsvpQAA</CreatedBy.Id>
+                <CreatedBy.Name>Jef Benigno</CreatedBy.Name>
+                <CreatedDate>2018-08-30T22:34:34.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T22:34:34.000+0000</LastModifiedDate>
+                <Apttus_Config2__ActionArea__c>Left</Apttus_Config2__ActionArea__c>
+                <Apttus_Config2__ActionLabelName__c>GoToPricing</Apttus_Config2__ActionLabelName__c>
+                <Apttus_Config2__ActionName__c>GoToPricing</Apttus_Config2__ActionName__c>
+                <Apttus_Config2__AlwaysDisplay__c>true</Apttus_Config2__AlwaysDisplay__c>
+                <Apttus_Config2__DisplayAs__c>Task</Apttus_Config2__DisplayAs__c>
+                <Apttus_Config2__DisplayType__c>Resolve Config Item</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__Flow__c>NGDefaultCarahsoft</Apttus_Config2__Flow__c>
+                <Apttus_Config2__IsEnabled__c>true</Apttus_Config2__IsEnabled__c>
+                <Apttus_Config2__Sequence__c>2</Apttus_Config2__Sequence__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayActions__c">
+                <Name>Cart Line Item 10 5uBz6uMipfELkYz</Name>
+                <CreatedBy.Id>0052D000000gsvpQAA</CreatedBy.Id>
+                <CreatedBy.Name>Jef Benigno</CreatedBy.Name>
+                <CreatedDate>2018-08-30T22:34:33.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T22:34:33.000+0000</LastModifiedDate>
+                <Apttus_Config2__ActionArea__c>Center</Apttus_Config2__ActionArea__c>
+                <Apttus_Config2__ActionLabelName__c>GenerateDocument</Apttus_Config2__ActionLabelName__c>
+                <Apttus_Config2__ActionName__c>GenerateDocument</Apttus_Config2__ActionName__c>
+                <Apttus_Config2__DisplayAs__c>Action</Apttus_Config2__DisplayAs__c>
+                <Apttus_Config2__DisplayType__c>Cart Line Item</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__Flow__c>NGDefaultCarahsoft</Apttus_Config2__Flow__c>
+                <Apttus_Config2__Sequence__c>10</Apttus_Config2__Sequence__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayActions__c">
+                <Name>Cart Line Item 19 HKtNtYDFW37DWvD</Name>
+                <CreatedBy.Id>0052D000000gsvpQAA</CreatedBy.Id>
+                <CreatedBy.Name>Jef Benigno</CreatedBy.Name>
+                <CreatedDate>2018-08-30T22:34:33.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T22:34:33.000+0000</LastModifiedDate>
+                <Apttus_Config2__ActionArea__c>Center</Apttus_Config2__ActionArea__c>
+                <Apttus_Config2__ActionLabelName__c>SubmitForMerge</Apttus_Config2__ActionLabelName__c>
+                <Apttus_Config2__ActionName__c>SubmitForMerge</Apttus_Config2__ActionName__c>
+                <Apttus_Config2__DisplayAs__c>Action</Apttus_Config2__DisplayAs__c>
+                <Apttus_Config2__DisplayType__c>Cart Line Item</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__Flow__c>NGDefaultCarahsoft</Apttus_Config2__Flow__c>
+                <Apttus_Config2__IsEnabled__c>true</Apttus_Config2__IsEnabled__c>
+                <Apttus_Config2__Sequence__c>19</Apttus_Config2__Sequence__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayActions__c">
+                <Name>Cart Line Item 16 PJGIplSpUeNTPRE</Name>
+                <CreatedBy.Id>0052D000000gsvpQAA</CreatedBy.Id>
+                <CreatedBy.Name>Jef Benigno</CreatedBy.Name>
+                <CreatedDate>2018-08-30T22:34:33.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T22:34:33.000+0000</LastModifiedDate>
+                <Apttus_Config2__ActionArea__c>Center</Apttus_Config2__ActionArea__c>
+                <Apttus_Config2__ActionLabelName__c>CloseCart</Apttus_Config2__ActionLabelName__c>
+                <Apttus_Config2__ActionName__c>CloseCart</Apttus_Config2__ActionName__c>
+                <Apttus_Config2__DisplayAs__c>Action</Apttus_Config2__DisplayAs__c>
+                <Apttus_Config2__DisplayType__c>Cart Line Item</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__Flow__c>NGDefaultCarahsoft</Apttus_Config2__Flow__c>
+                <Apttus_Config2__Sequence__c>16</Apttus_Config2__Sequence__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayActions__c">
+                <Name>Cart Line Item 17 bEJVATD5JttKiHI</Name>
+                <CreatedBy.Id>0052D000000gsvpQAA</CreatedBy.Id>
+                <CreatedBy.Name>Jef Benigno</CreatedBy.Name>
+                <CreatedDate>2018-08-30T22:34:33.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T22:34:33.000+0000</LastModifiedDate>
+                <Apttus_Config2__ActionArea__c>Center</Apttus_Config2__ActionArea__c>
+                <Apttus_Config2__ActionLabelName__c>Abandon</Apttus_Config2__ActionLabelName__c>
+                <Apttus_Config2__ActionName__c>Abandon</Apttus_Config2__ActionName__c>
+                <Apttus_Config2__DisplayAs__c>Action</Apttus_Config2__DisplayAs__c>
+                <Apttus_Config2__DisplayType__c>Cart Line Item</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__Flow__c>NGDefaultCarahsoft</Apttus_Config2__Flow__c>
+                <Apttus_Config2__Sequence__c>17</Apttus_Config2__Sequence__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayActions__c">
+                <Name>Asset Line Item 7 elIoZVFDQhtcsxU</Name>
+                <CreatedBy.Id>0052D000000gsvpQAA</CreatedBy.Id>
+                <CreatedBy.Name>Jef Benigno</CreatedBy.Name>
+                <CreatedDate>2018-08-30T22:34:33.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T22:34:33.000+0000</LastModifiedDate>
+                <Apttus_Config2__ActionArea__c>Center</Apttus_Config2__ActionArea__c>
+                <Apttus_Config2__ActionLabelName__c>Upgrade</Apttus_Config2__ActionLabelName__c>
+                <Apttus_Config2__ActionName__c>Upgrade</Apttus_Config2__ActionName__c>
+                <Apttus_Config2__DisplayAs__c>Action</Apttus_Config2__DisplayAs__c>
+                <Apttus_Config2__DisplayType__c>Asset Line Item</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__Flow__c>NGDefaultCarahsoft</Apttus_Config2__Flow__c>
+                <Apttus_Config2__Sequence__c>7</Apttus_Config2__Sequence__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayActions__c">
+                <Name>Asset Line Item 13 xUhA5ZTJvaWVS3A</Name>
+                <CreatedBy.Id>0052D000000gsvpQAA</CreatedBy.Id>
+                <CreatedBy.Name>Jef Benigno</CreatedBy.Name>
+                <CreatedDate>2018-08-30T22:34:33.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T22:34:33.000+0000</LastModifiedDate>
+                <Apttus_Config2__ActionArea__c>Center</Apttus_Config2__ActionArea__c>
+                <Apttus_Config2__ActionLabelName__c>Relate</Apttus_Config2__ActionLabelName__c>
+                <Apttus_Config2__ActionName__c>Relate</Apttus_Config2__ActionName__c>
+                <Apttus_Config2__DisplayAs__c>Action</Apttus_Config2__DisplayAs__c>
+                <Apttus_Config2__DisplayType__c>Asset Line Item</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__Flow__c>NGDefaultCarahsoft</Apttus_Config2__Flow__c>
+                <Apttus_Config2__Sequence__c>13</Apttus_Config2__Sequence__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayActions__c">
+                <Name>Bundle Line Item 1 NKafGuNpDpVkLd7</Name>
+                <CreatedBy.Id>0052D000000gsvpQAA</CreatedBy.Id>
+                <CreatedBy.Name>Jef Benigno</CreatedBy.Name>
+                <CreatedDate>2018-08-30T22:34:33.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T22:34:33.000+0000</LastModifiedDate>
+                <Apttus_Config2__ActionArea__c>Left</Apttus_Config2__ActionArea__c>
+                <Apttus_Config2__ActionLabelName__c>AddMoreProducts</Apttus_Config2__ActionLabelName__c>
+                <Apttus_Config2__ActionName__c>AddMoreProducts</Apttus_Config2__ActionName__c>
+                <Apttus_Config2__AlwaysDisplay__c>true</Apttus_Config2__AlwaysDisplay__c>
+                <Apttus_Config2__DisplayAs__c>Task</Apttus_Config2__DisplayAs__c>
+                <Apttus_Config2__DisplayType__c>Bundle Line Item</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__Flow__c>NGDefaultCarahsoft</Apttus_Config2__Flow__c>
+                <Apttus_Config2__IsEnabled__c>true</Apttus_Config2__IsEnabled__c>
+                <Apttus_Config2__Sequence__c>1</Apttus_Config2__Sequence__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayActions__c">
+                <Name>Bundle Line Item 13 cWk5KyDjo3bb9Ct</Name>
+                <CreatedBy.Id>0052D000000gsvpQAA</CreatedBy.Id>
+                <CreatedBy.Name>Jef Benigno</CreatedBy.Name>
+                <CreatedDate>2018-08-30T22:34:33.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T22:34:33.000+0000</LastModifiedDate>
+                <Apttus_Config2__ActionArea__c>Center</Apttus_Config2__ActionArea__c>
+                <Apttus_Config2__ActionLabelName__c>QuickSave</Apttus_Config2__ActionLabelName__c>
+                <Apttus_Config2__ActionName__c>QuickSave</Apttus_Config2__ActionName__c>
+                <Apttus_Config2__DisplayAs__c>Action</Apttus_Config2__DisplayAs__c>
+                <Apttus_Config2__DisplayType__c>Bundle Line Item</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__Flow__c>NGDefaultCarahsoft</Apttus_Config2__Flow__c>
+                <Apttus_Config2__Sequence__c>13</Apttus_Config2__Sequence__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayActions__c">
+                <Name>Catalog Item 5 DymzdhoSpVmyRg9</Name>
+                <CreatedBy.Id>0052D000000gsvpQAA</CreatedBy.Id>
+                <CreatedBy.Name>Jef Benigno</CreatedBy.Name>
+                <CreatedDate>2018-08-30T22:34:34.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T22:34:34.000+0000</LastModifiedDate>
+                <Apttus_Config2__ActionArea__c>Center</Apttus_Config2__ActionArea__c>
+                <Apttus_Config2__ActionLabelName__c>More</Apttus_Config2__ActionLabelName__c>
+                <Apttus_Config2__ActionName__c>More</Apttus_Config2__ActionName__c>
+                <Apttus_Config2__DisplayAs__c>Action</Apttus_Config2__DisplayAs__c>
+                <Apttus_Config2__DisplayType__c>Catalog Item</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__Flow__c>NGDefaultCarahsoft</Apttus_Config2__Flow__c>
+                <Apttus_Config2__Sequence__c>5</Apttus_Config2__Sequence__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayActions__c">
+                <Name>Catalog Item 1 9M7leXa3fVX325a</Name>
+                <CreatedBy.Id>0052D000000gsvpQAA</CreatedBy.Id>
+                <CreatedBy.Name>Jef Benigno</CreatedBy.Name>
+                <CreatedDate>2018-08-30T22:34:34.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T22:34:34.000+0000</LastModifiedDate>
+                <Apttus_Config2__ActionArea__c>Left</Apttus_Config2__ActionArea__c>
+                <Apttus_Config2__ActionLabelName__c>InstalledProducts</Apttus_Config2__ActionLabelName__c>
+                <Apttus_Config2__ActionName__c>InstalledProducts</Apttus_Config2__ActionName__c>
+                <Apttus_Config2__AlwaysDisplay__c>true</Apttus_Config2__AlwaysDisplay__c>
+                <Apttus_Config2__DisplayAs__c>Task</Apttus_Config2__DisplayAs__c>
+                <Apttus_Config2__DisplayType__c>Catalog Item</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__Flow__c>NGDefaultCarahsoft</Apttus_Config2__Flow__c>
+                <Apttus_Config2__IsEnabled__c>true</Apttus_Config2__IsEnabled__c>
+                <Apttus_Config2__Sequence__c>1</Apttus_Config2__Sequence__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayActions__c">
+                <Name>Resolve Config Item 3 ZEmaQ3MXRFs7QDL</Name>
+                <CreatedBy.Id>0052D000000gsvpQAA</CreatedBy.Id>
+                <CreatedBy.Name>Jef Benigno</CreatedBy.Name>
+                <CreatedDate>2018-08-30T22:34:34.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T22:34:34.000+0000</LastModifiedDate>
+                <Apttus_Config2__ActionArea__c>Center</Apttus_Config2__ActionArea__c>
+                <Apttus_Config2__ActionLabelName__c>UpdatePrice</Apttus_Config2__ActionLabelName__c>
+                <Apttus_Config2__ActionName__c>UpdatePrice</Apttus_Config2__ActionName__c>
+                <Apttus_Config2__AlwaysDisplay__c>true</Apttus_Config2__AlwaysDisplay__c>
+                <Apttus_Config2__DisplayAs__c>Action</Apttus_Config2__DisplayAs__c>
+                <Apttus_Config2__DisplayType__c>Resolve Config Item</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__Flow__c>NGDefaultCarahsoft</Apttus_Config2__Flow__c>
+                <Apttus_Config2__IsEnabled__c>true</Apttus_Config2__IsEnabled__c>
+                <Apttus_Config2__Sequence__c>3</Apttus_Config2__Sequence__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayActions__c">
+                <Name>Resolve Config Item 4 cWrLIKv9rrEDZK8</Name>
+                <CreatedBy.Id>0052D000000gsvpQAA</CreatedBy.Id>
+                <CreatedBy.Name>Jef Benigno</CreatedBy.Name>
+                <CreatedDate>2018-08-30T22:34:34.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T22:34:34.000+0000</LastModifiedDate>
+                <Apttus_Config2__ActionArea__c>Center</Apttus_Config2__ActionArea__c>
+                <Apttus_Config2__ActionLabelName__c>CloseCart</Apttus_Config2__ActionLabelName__c>
+                <Apttus_Config2__ActionName__c>CloseCart</Apttus_Config2__ActionName__c>
+                <Apttus_Config2__DisplayAs__c>Action</Apttus_Config2__DisplayAs__c>
+                <Apttus_Config2__DisplayType__c>Resolve Config Item</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__Flow__c>NGDefaultCarahsoft</Apttus_Config2__Flow__c>
+                <Apttus_Config2__Sequence__c>4</Apttus_Config2__Sequence__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayActions__c">
+                <Name>Catalog Item 6 LKFSwkb8v1ddStK</Name>
+                <CreatedBy.Id>0052D000000gsvpQAA</CreatedBy.Id>
+                <CreatedBy.Name>Jef Benigno</CreatedBy.Name>
+                <CreatedDate>2018-08-30T22:34:34.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T22:34:34.000+0000</LastModifiedDate>
+                <Apttus_Config2__ActionArea__c>Center</Apttus_Config2__ActionArea__c>
+                <Apttus_Config2__ActionLabelName__c>Finalize</Apttus_Config2__ActionLabelName__c>
+                <Apttus_Config2__ActionName__c>Finalize</Apttus_Config2__ActionName__c>
+                <Apttus_Config2__DisplayAs__c>Action</Apttus_Config2__DisplayAs__c>
+                <Apttus_Config2__DisplayType__c>Catalog Item</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__Flow__c>NGDefaultCarahsoft</Apttus_Config2__Flow__c>
+                <Apttus_Config2__Sequence__c>6</Apttus_Config2__Sequence__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayActions__c">
+                <Name>Resolve Config Item 5 qWDmK9yYLsaRJiJ</Name>
+                <CreatedBy.Id>0052D000000gsvpQAA</CreatedBy.Id>
+                <CreatedBy.Name>Jef Benigno</CreatedBy.Name>
+                <CreatedDate>2018-08-30T22:34:34.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T22:34:34.000+0000</LastModifiedDate>
+                <Apttus_Config2__ActionArea__c>Center</Apttus_Config2__ActionArea__c>
+                <Apttus_Config2__ActionLabelName__c>Abandon</Apttus_Config2__ActionLabelName__c>
+                <Apttus_Config2__ActionName__c>Abandon</Apttus_Config2__ActionName__c>
+                <Apttus_Config2__DisplayAs__c>Action</Apttus_Config2__DisplayAs__c>
+                <Apttus_Config2__DisplayType__c>Resolve Config Item</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__Flow__c>NGDefaultCarahsoft</Apttus_Config2__Flow__c>
+                <Apttus_Config2__Sequence__c>5</Apttus_Config2__Sequence__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayActions__c">
+                <Name>Attribute Item 1 elun9hX9YKm9ziS</Name>
+                <CreatedBy.Id>0052D000000gsvpQAA</CreatedBy.Id>
+                <CreatedBy.Name>Jef Benigno</CreatedBy.Name>
+                <CreatedDate>2018-08-30T22:34:34.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T22:34:34.000+0000</LastModifiedDate>
+                <Apttus_Config2__ActionArea__c>Left</Apttus_Config2__ActionArea__c>
+                <Apttus_Config2__ActionLabelName__c>AddMoreProducts</Apttus_Config2__ActionLabelName__c>
+                <Apttus_Config2__ActionName__c>AddMoreProducts</Apttus_Config2__ActionName__c>
+                <Apttus_Config2__AlwaysDisplay__c>true</Apttus_Config2__AlwaysDisplay__c>
+                <Apttus_Config2__DisplayAs__c>Task</Apttus_Config2__DisplayAs__c>
+                <Apttus_Config2__DisplayType__c>Attribute Item</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__Flow__c>NGDefaultCarahsoft</Apttus_Config2__Flow__c>
+                <Apttus_Config2__IsEnabled__c>true</Apttus_Config2__IsEnabled__c>
+                <Apttus_Config2__Sequence__c>1</Apttus_Config2__Sequence__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayActions__c">
+                <Name>Attribute Item 2 npAEzW3j39IGH5p</Name>
+                <CreatedBy.Id>0052D000000gsvpQAA</CreatedBy.Id>
+                <CreatedBy.Name>Jef Benigno</CreatedBy.Name>
+                <CreatedDate>2018-08-30T22:34:34.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T22:34:34.000+0000</LastModifiedDate>
+                <Apttus_Config2__ActionArea__c>Left</Apttus_Config2__ActionArea__c>
+                <Apttus_Config2__ActionLabelName__c>InstalledProducts</Apttus_Config2__ActionLabelName__c>
+                <Apttus_Config2__ActionName__c>InstalledProducts</Apttus_Config2__ActionName__c>
+                <Apttus_Config2__AlwaysDisplay__c>true</Apttus_Config2__AlwaysDisplay__c>
+                <Apttus_Config2__DisplayAs__c>Task</Apttus_Config2__DisplayAs__c>
+                <Apttus_Config2__DisplayType__c>Attribute Item</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__Flow__c>NGDefaultCarahsoft</Apttus_Config2__Flow__c>
+                <Apttus_Config2__IsEnabled__c>true</Apttus_Config2__IsEnabled__c>
+                <Apttus_Config2__Sequence__c>2</Apttus_Config2__Sequence__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayActions__c">
+                <Name>Attribute Item 3 lUKflPQFwrDGDvI</Name>
+                <CreatedBy.Id>0052D000000gsvpQAA</CreatedBy.Id>
+                <CreatedBy.Name>Jef Benigno</CreatedBy.Name>
+                <CreatedDate>2018-08-30T22:34:34.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T22:34:34.000+0000</LastModifiedDate>
+                <Apttus_Config2__ActionArea__c>Center</Apttus_Config2__ActionArea__c>
+                <Apttus_Config2__ActionLabelName__c>RemoveItem</Apttus_Config2__ActionLabelName__c>
+                <Apttus_Config2__ActionName__c>RemoveItem</Apttus_Config2__ActionName__c>
+                <Apttus_Config2__AlwaysDisplay__c>true</Apttus_Config2__AlwaysDisplay__c>
+                <Apttus_Config2__DisplayAs__c>Action</Apttus_Config2__DisplayAs__c>
+                <Apttus_Config2__DisplayType__c>Attribute Item</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__Flow__c>NGDefaultCarahsoft</Apttus_Config2__Flow__c>
+                <Apttus_Config2__IsEnabled__c>true</Apttus_Config2__IsEnabled__c>
+                <Apttus_Config2__Sequence__c>3</Apttus_Config2__Sequence__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayActions__c">
+                <Name>Attribute Item 10 paYwgfzllWGmj7U</Name>
+                <CreatedBy.Id>0052D000000gsvpQAA</CreatedBy.Id>
+                <CreatedBy.Name>Jef Benigno</CreatedBy.Name>
+                <CreatedDate>2018-08-30T22:34:34.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T22:34:34.000+0000</LastModifiedDate>
+                <Apttus_Config2__ActionArea__c>Right</Apttus_Config2__ActionArea__c>
+                <Apttus_Config2__ActionLabelName__c>Save</Apttus_Config2__ActionLabelName__c>
+                <Apttus_Config2__ActionName__c>Save</Apttus_Config2__ActionName__c>
+                <Apttus_Config2__DisplayAs__c>Action</Apttus_Config2__DisplayAs__c>
+                <Apttus_Config2__DisplayType__c>Attribute Item</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__Flow__c>NGDefaultCarahsoft</Apttus_Config2__Flow__c>
+                <Apttus_Config2__Sequence__c>10</Apttus_Config2__Sequence__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayActions__c">
                 <Name>Bundle Line Item 13 kxYxxd4VFfbYNrp</Name>
                 <CreatedBy.Id>0052D000000iyKPQAY</CreatedBy.Id>
                 <CreatedBy.Name>Jai Patel</CreatedBy.Name>
@@ -7563,6 +8749,1322 @@
                 <Apttus_Config2__FieldName__c>Incremental_ARR_NRR__c</Apttus_Config2__FieldName__c>
                 <Apttus_Config2__Flow__c>NGDefaultChannel</Apttus_Config2__Flow__c>
                 <Apttus_Config2__Sequence__c>19</Apttus_Config2__Sequence__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayColumns__c">
+                <Name>Cart Line Item 10 CBSfafnWheyN</Name>
+                <CreatedBy.Id>0052D000000gsvpQAA</CreatedBy.Id>
+                <CreatedBy.Name>Jef Benigno</CreatedBy.Name>
+                <CreatedDate>2018-08-30T22:34:31.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T22:34:31.000+0000</LastModifiedDate>
+                <Apttus_Config2__DisplayType__c>Cart Line Item</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__FieldName__c>Apttus_Config2__AdjustmentType__c</Apttus_Config2__FieldName__c>
+                <Apttus_Config2__Flow__c>NGDefaultCarahsoft</Apttus_Config2__Flow__c>
+                <Apttus_Config2__IsEditable__c>true</Apttus_Config2__IsEditable__c>
+                <Apttus_Config2__Sequence__c>10</Apttus_Config2__Sequence__c>
+                <Apttus_Config2__StyleClass__c>aptAdjustmentType</Apttus_Config2__StyleClass__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayColumns__c">
+                <Name>Cart Line Item 11 ekdvPLHN9NrO</Name>
+                <CreatedBy.Id>0052D000000gsvpQAA</CreatedBy.Id>
+                <CreatedBy.Name>Jef Benigno</CreatedBy.Name>
+                <CreatedDate>2018-08-30T22:34:31.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T22:34:31.000+0000</LastModifiedDate>
+                <Apttus_Config2__DisplayType__c>Cart Line Item</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__FieldName__c>Apttus_Config2__AdjustmentAmount__c</Apttus_Config2__FieldName__c>
+                <Apttus_Config2__Flow__c>NGDefaultCarahsoft</Apttus_Config2__Flow__c>
+                <Apttus_Config2__IsEditable__c>true</Apttus_Config2__IsEditable__c>
+                <Apttus_Config2__Sequence__c>11</Apttus_Config2__Sequence__c>
+                <Apttus_Config2__StyleClass__c>aptAdjustment</Apttus_Config2__StyleClass__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayColumns__c">
+                <Name>Cart Line Item 14 rUD4XLrE9l4y</Name>
+                <CreatedBy.Id>0052D000000gsvpQAA</CreatedBy.Id>
+                <CreatedBy.Name>Jef Benigno</CreatedBy.Name>
+                <CreatedDate>2018-08-30T22:34:31.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T22:34:31.000+0000</LastModifiedDate>
+                <Apttus_Config2__DisplayType__c>Cart Line Item</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__FieldName__c>Apttus_Config2__NetAdjustmentPercent__c</Apttus_Config2__FieldName__c>
+                <Apttus_Config2__Flow__c>NGDefaultCarahsoft</Apttus_Config2__Flow__c>
+                <Apttus_Config2__Sequence__c>14</Apttus_Config2__Sequence__c>
+                <Apttus_Config2__StyleClass__c>aptPercentage</Apttus_Config2__StyleClass__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayColumns__c">
+                <Name>Cart Total Item 1 f9SwoKf6NJ2R</Name>
+                <CreatedBy.Id>0052D000000gsvpQAA</CreatedBy.Id>
+                <CreatedBy.Name>Jef Benigno</CreatedBy.Name>
+                <CreatedDate>2018-08-30T22:34:31.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T22:34:31.000+0000</LastModifiedDate>
+                <Apttus_Config2__DisplayType__c>Cart Total Item</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__FieldName__c>Name</Apttus_Config2__FieldName__c>
+                <Apttus_Config2__Flow__c>NGDefaultCarahsoft</Apttus_Config2__Flow__c>
+                <Apttus_Config2__Sequence__c>1</Apttus_Config2__Sequence__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayColumns__c">
+                <Name>Cart Total Item 2 hKHyckIEGQk8</Name>
+                <CreatedBy.Id>0052D000000gsvpQAA</CreatedBy.Id>
+                <CreatedBy.Name>Jef Benigno</CreatedBy.Name>
+                <CreatedDate>2018-08-30T22:34:31.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T22:34:31.000+0000</LastModifiedDate>
+                <Apttus_Config2__DisplayType__c>Cart Total Item</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__FieldName__c>Apttus_Config2__ChargeType__c</Apttus_Config2__FieldName__c>
+                <Apttus_Config2__Flow__c>NGDefaultCarahsoft</Apttus_Config2__Flow__c>
+                <Apttus_Config2__Sequence__c>2</Apttus_Config2__Sequence__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayColumns__c">
+                <Name>Cart Total Item 3 yjF3O3aikVay</Name>
+                <CreatedBy.Id>0052D000000gsvpQAA</CreatedBy.Id>
+                <CreatedBy.Name>Jef Benigno</CreatedBy.Name>
+                <CreatedDate>2018-08-30T22:34:31.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T22:34:31.000+0000</LastModifiedDate>
+                <Apttus_Config2__DisplayType__c>Cart Total Item</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__FieldName__c>Apttus_Config2__Frequency__c</Apttus_Config2__FieldName__c>
+                <Apttus_Config2__Flow__c>NGDefaultCarahsoft</Apttus_Config2__Flow__c>
+                <Apttus_Config2__Sequence__c>3</Apttus_Config2__Sequence__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayColumns__c">
+                <Name>Cart Total Item 4 O6jb4wE4TqIj</Name>
+                <CreatedBy.Id>0052D000000gsvpQAA</CreatedBy.Id>
+                <CreatedBy.Name>Jef Benigno</CreatedBy.Name>
+                <CreatedDate>2018-08-30T22:34:31.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T22:34:31.000+0000</LastModifiedDate>
+                <Apttus_Config2__DisplayType__c>Cart Total Item</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__FieldName__c>Apttus_Config2__OptionPrice__c</Apttus_Config2__FieldName__c>
+                <Apttus_Config2__Flow__c>NGDefaultCarahsoft</Apttus_Config2__Flow__c>
+                <Apttus_Config2__Sequence__c>4</Apttus_Config2__Sequence__c>
+                <Apttus_Config2__StyleClass__c>aptCurrency</Apttus_Config2__StyleClass__c>
+                <Apttus_Config2__Style__c>text-align:right</Apttus_Config2__Style__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayColumns__c">
+                <Name>Cart Total Item 5 AF5VMHhutosl</Name>
+                <CreatedBy.Id>0052D000000gsvpQAA</CreatedBy.Id>
+                <CreatedBy.Name>Jef Benigno</CreatedBy.Name>
+                <CreatedDate>2018-08-30T22:34:31.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T22:34:31.000+0000</LastModifiedDate>
+                <Apttus_Config2__DisplayType__c>Cart Total Item</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__FieldName__c>Apttus_Config2__ExtendedPrice__c</Apttus_Config2__FieldName__c>
+                <Apttus_Config2__Flow__c>NGDefaultCarahsoft</Apttus_Config2__Flow__c>
+                <Apttus_Config2__Sequence__c>5</Apttus_Config2__Sequence__c>
+                <Apttus_Config2__StyleClass__c>aptCurrency</Apttus_Config2__StyleClass__c>
+                <Apttus_Config2__Style__c>text-align:right</Apttus_Config2__Style__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayColumns__c">
+                <Name>Cart Total Item 6 a7T9D1P4yIPH</Name>
+                <CreatedBy.Id>0052D000000gsvpQAA</CreatedBy.Id>
+                <CreatedBy.Name>Jef Benigno</CreatedBy.Name>
+                <CreatedDate>2018-08-30T22:34:31.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T22:34:31.000+0000</LastModifiedDate>
+                <Apttus_Config2__DisplayType__c>Cart Total Item</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__FieldName__c>Apttus_Config2__AdjustmentType__c</Apttus_Config2__FieldName__c>
+                <Apttus_Config2__Flow__c>NGDefaultCarahsoft</Apttus_Config2__Flow__c>
+                <Apttus_Config2__IsEditable__c>true</Apttus_Config2__IsEditable__c>
+                <Apttus_Config2__Sequence__c>6</Apttus_Config2__Sequence__c>
+                <Apttus_Config2__StyleClass__c>aptAdjustmentType</Apttus_Config2__StyleClass__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayColumns__c">
+                <Name>Cart Total Item 7 MLO7VUGix3a1</Name>
+                <CreatedBy.Id>0052D000000gsvpQAA</CreatedBy.Id>
+                <CreatedBy.Name>Jef Benigno</CreatedBy.Name>
+                <CreatedDate>2018-08-30T22:34:31.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T22:34:31.000+0000</LastModifiedDate>
+                <Apttus_Config2__DisplayType__c>Cart Total Item</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__FieldName__c>Apttus_Config2__AdjustmentAmount__c</Apttus_Config2__FieldName__c>
+                <Apttus_Config2__Flow__c>NGDefaultCarahsoft</Apttus_Config2__Flow__c>
+                <Apttus_Config2__IsEditable__c>true</Apttus_Config2__IsEditable__c>
+                <Apttus_Config2__Sequence__c>7</Apttus_Config2__Sequence__c>
+                <Apttus_Config2__StyleClass__c>aptAdjustment</Apttus_Config2__StyleClass__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayColumns__c">
+                <Name>Asset Line Item 1 AYVR6eoOTWbC</Name>
+                <CreatedBy.Id>0052D000000gsvpQAA</CreatedBy.Id>
+                <CreatedBy.Name>Jef Benigno</CreatedBy.Name>
+                <CreatedDate>2018-08-30T22:34:31.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T22:34:31.000+0000</LastModifiedDate>
+                <Apttus_Config2__DisplayType__c>Asset Line Item</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__FieldName__c>Apttus_Config2__ProductId__c</Apttus_Config2__FieldName__c>
+                <Apttus_Config2__Flow__c>NGDefaultCarahsoft</Apttus_Config2__Flow__c>
+                <Apttus_Config2__Sequence__c>1</Apttus_Config2__Sequence__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayColumns__c">
+                <Name>Asset Line Item 2 4iwWyKlzQAGu</Name>
+                <CreatedBy.Id>0052D000000gsvpQAA</CreatedBy.Id>
+                <CreatedBy.Name>Jef Benigno</CreatedBy.Name>
+                <CreatedDate>2018-08-30T22:34:31.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T22:34:31.000+0000</LastModifiedDate>
+                <Apttus_Config2__DisplayType__c>Asset Line Item</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__FieldName__c>Name</Apttus_Config2__FieldName__c>
+                <Apttus_Config2__Flow__c>NGDefaultCarahsoft</Apttus_Config2__Flow__c>
+                <Apttus_Config2__Sequence__c>2</Apttus_Config2__Sequence__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayColumns__c">
+                <Name>Asset Line Item 3 wNjI4WYIwoQU</Name>
+                <CreatedBy.Id>0052D000000gsvpQAA</CreatedBy.Id>
+                <CreatedBy.Name>Jef Benigno</CreatedBy.Name>
+                <CreatedDate>2018-08-30T22:34:31.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T22:34:31.000+0000</LastModifiedDate>
+                <Apttus_Config2__DisplayType__c>Asset Line Item</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__FieldName__c>Apttus_Config2__Quantity__c</Apttus_Config2__FieldName__c>
+                <Apttus_Config2__Flow__c>NGDefaultCarahsoft</Apttus_Config2__Flow__c>
+                <Apttus_Config2__Sequence__c>3</Apttus_Config2__Sequence__c>
+                <Apttus_Config2__StyleClass__c>aptQuantity</Apttus_Config2__StyleClass__c>
+                <Apttus_Config2__Style__c>text-align:right; width:60px;</Apttus_Config2__Style__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayColumns__c">
+                <Name>Asset Line Item 4 AExXalqHGY9T</Name>
+                <CreatedBy.Id>0052D000000gsvpQAA</CreatedBy.Id>
+                <CreatedBy.Name>Jef Benigno</CreatedBy.Name>
+                <CreatedDate>2018-08-30T22:34:31.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T22:34:31.000+0000</LastModifiedDate>
+                <Apttus_Config2__DisplayType__c>Asset Line Item</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__FieldName__c>Apttus_Config2__AllowedActions__c</Apttus_Config2__FieldName__c>
+                <Apttus_Config2__Flow__c>NGDefaultCarahsoft</Apttus_Config2__Flow__c>
+                <Apttus_Config2__Sequence__c>4</Apttus_Config2__Sequence__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayColumns__c">
+                <Name>Asset Line Item 5 HEs26xRWWetd</Name>
+                <CreatedBy.Id>0052D000000gsvpQAA</CreatedBy.Id>
+                <CreatedBy.Name>Jef Benigno</CreatedBy.Name>
+                <CreatedDate>2018-08-30T22:34:31.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T22:34:31.000+0000</LastModifiedDate>
+                <Apttus_Config2__DisplayType__c>Asset Line Item</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__FieldName__c>Apttus_Config2__LocationId__c</Apttus_Config2__FieldName__c>
+                <Apttus_Config2__Flow__c>NGDefaultCarahsoft</Apttus_Config2__Flow__c>
+                <Apttus_Config2__Sequence__c>5</Apttus_Config2__Sequence__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayColumns__c">
+                <Name>Asset Line Item 6 hBmrGoW8VI67</Name>
+                <CreatedBy.Id>0052D000000gsvpQAA</CreatedBy.Id>
+                <CreatedBy.Name>Jef Benigno</CreatedBy.Name>
+                <CreatedDate>2018-08-30T22:34:31.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T22:34:31.000+0000</LastModifiedDate>
+                <Apttus_Config2__DisplayType__c>Asset Line Item</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__FieldName__c>Apttus_Config2__ChargeType__c</Apttus_Config2__FieldName__c>
+                <Apttus_Config2__Flow__c>NGDefaultCarahsoft</Apttus_Config2__Flow__c>
+                <Apttus_Config2__Sequence__c>6</Apttus_Config2__Sequence__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayColumns__c">
+                <Name>Asset Line Item 7 J8ocbZMqtTtg</Name>
+                <CreatedBy.Id>0052D000000gsvpQAA</CreatedBy.Id>
+                <CreatedBy.Name>Jef Benigno</CreatedBy.Name>
+                <CreatedDate>2018-08-30T22:34:31.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T22:34:31.000+0000</LastModifiedDate>
+                <Apttus_Config2__DisplayType__c>Asset Line Item</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__FieldName__c>Apttus_Config2__SellingTerm__c</Apttus_Config2__FieldName__c>
+                <Apttus_Config2__Flow__c>NGDefaultCarahsoft</Apttus_Config2__Flow__c>
+                <Apttus_Config2__Sequence__c>7</Apttus_Config2__Sequence__c>
+                <Apttus_Config2__StyleClass__c>aptQuantity</Apttus_Config2__StyleClass__c>
+                <Apttus_Config2__Style__c>text-align:right;width:60px;</Apttus_Config2__Style__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayColumns__c">
+                <Name>Asset Line Item 8 JAZQuhgscYSn</Name>
+                <CreatedBy.Id>0052D000000gsvpQAA</CreatedBy.Id>
+                <CreatedBy.Name>Jef Benigno</CreatedBy.Name>
+                <CreatedDate>2018-08-30T22:34:31.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T22:34:31.000+0000</LastModifiedDate>
+                <Apttus_Config2__DisplayType__c>Asset Line Item</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__FieldName__c>Apttus_Config2__SellingFrequency__c</Apttus_Config2__FieldName__c>
+                <Apttus_Config2__Flow__c>NGDefaultCarahsoft</Apttus_Config2__Flow__c>
+                <Apttus_Config2__Sequence__c>8</Apttus_Config2__Sequence__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayColumns__c">
+                <Name>Asset Line Item 9 PnBJSPNVAVbR</Name>
+                <CreatedBy.Id>0052D000000gsvpQAA</CreatedBy.Id>
+                <CreatedBy.Name>Jef Benigno</CreatedBy.Name>
+                <CreatedDate>2018-08-30T22:34:31.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T22:34:31.000+0000</LastModifiedDate>
+                <Apttus_Config2__DisplayType__c>Asset Line Item</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__FieldName__c>Apttus_Config2__StartDate__c</Apttus_Config2__FieldName__c>
+                <Apttus_Config2__Flow__c>NGDefaultCarahsoft</Apttus_Config2__Flow__c>
+                <Apttus_Config2__Sequence__c>9</Apttus_Config2__Sequence__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayColumns__c">
+                <Name>Asset Line Item 10 UVytfJJA7fSA</Name>
+                <CreatedBy.Id>0052D000000gsvpQAA</CreatedBy.Id>
+                <CreatedBy.Name>Jef Benigno</CreatedBy.Name>
+                <CreatedDate>2018-08-30T22:34:31.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T22:34:31.000+0000</LastModifiedDate>
+                <Apttus_Config2__DisplayType__c>Asset Line Item</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__FieldName__c>Apttus_Config2__EndDate__c</Apttus_Config2__FieldName__c>
+                <Apttus_Config2__Flow__c>NGDefaultCarahsoft</Apttus_Config2__Flow__c>
+                <Apttus_Config2__Sequence__c>10</Apttus_Config2__Sequence__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayColumns__c">
+                <Name>Cart Total Item 8 Q37k6WDpQQwJ</Name>
+                <CreatedBy.Id>0052D000000gsvpQAA</CreatedBy.Id>
+                <CreatedBy.Name>Jef Benigno</CreatedBy.Name>
+                <CreatedDate>2018-08-30T22:34:31.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T22:34:31.000+0000</LastModifiedDate>
+                <Apttus_Config2__DisplayType__c>Cart Total Item</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__FieldName__c>Apttus_Config2__AdjustedPrice__c</Apttus_Config2__FieldName__c>
+                <Apttus_Config2__Flow__c>NGDefaultCarahsoft</Apttus_Config2__Flow__c>
+                <Apttus_Config2__Sequence__c>8</Apttus_Config2__Sequence__c>
+                <Apttus_Config2__StyleClass__c>aptCurrency</Apttus_Config2__StyleClass__c>
+                <Apttus_Config2__Style__c>text-align:right</Apttus_Config2__Style__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayColumns__c">
+                <Name>Cart Total Item 9 ChWzC4GPGX9n</Name>
+                <CreatedBy.Id>0052D000000gsvpQAA</CreatedBy.Id>
+                <CreatedBy.Name>Jef Benigno</CreatedBy.Name>
+                <CreatedDate>2018-08-30T22:34:31.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T22:34:31.000+0000</LastModifiedDate>
+                <Apttus_Config2__DisplayType__c>Cart Total Item</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__FieldName__c>Apttus_Config2__NetPrice__c</Apttus_Config2__FieldName__c>
+                <Apttus_Config2__Flow__c>NGDefaultCarahsoft</Apttus_Config2__Flow__c>
+                <Apttus_Config2__Sequence__c>9</Apttus_Config2__Sequence__c>
+                <Apttus_Config2__StyleClass__c>aptCurrency</Apttus_Config2__StyleClass__c>
+                <Apttus_Config2__Style__c>text-align:right</Apttus_Config2__Style__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayColumns__c">
+                <Name>Cart Total Item 10 l3TjwzmY7Ilv</Name>
+                <CreatedBy.Id>0052D000000gsvpQAA</CreatedBy.Id>
+                <CreatedBy.Name>Jef Benigno</CreatedBy.Name>
+                <CreatedDate>2018-08-30T22:34:31.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T22:34:31.000+0000</LastModifiedDate>
+                <Apttus_Config2__DisplayType__c>Cart Total Item</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__FieldName__c>Apttus_Config2__NetAdjustmentPercent__c</Apttus_Config2__FieldName__c>
+                <Apttus_Config2__Flow__c>NGDefaultCarahsoft</Apttus_Config2__Flow__c>
+                <Apttus_Config2__Sequence__c>10</Apttus_Config2__Sequence__c>
+                <Apttus_Config2__StyleClass__c>aptPercentage</Apttus_Config2__StyleClass__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayColumns__c">
+                <Name>Asset Line Item 11 uWDVngd4SACp</Name>
+                <CreatedBy.Id>0052D000000gsvpQAA</CreatedBy.Id>
+                <CreatedBy.Name>Jef Benigno</CreatedBy.Name>
+                <CreatedDate>2018-08-30T22:34:31.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T22:34:31.000+0000</LastModifiedDate>
+                <Apttus_Config2__DisplayType__c>Asset Line Item</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__FieldName__c>Apttus_Config2__NetPrice__c</Apttus_Config2__FieldName__c>
+                <Apttus_Config2__Flow__c>NGDefaultCarahsoft</Apttus_Config2__Flow__c>
+                <Apttus_Config2__Sequence__c>11</Apttus_Config2__Sequence__c>
+                <Apttus_Config2__StyleClass__c>aptCurrency</Apttus_Config2__StyleClass__c>
+                <Apttus_Config2__Style__c>text-align:right;</Apttus_Config2__Style__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayColumns__c">
+                <Name>Asset Line Item 12 yAw1sqmf8KDG</Name>
+                <CreatedBy.Id>0052D000000gsvpQAA</CreatedBy.Id>
+                <CreatedBy.Name>Jef Benigno</CreatedBy.Name>
+                <CreatedDate>2018-08-30T22:34:31.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T22:34:31.000+0000</LastModifiedDate>
+                <Apttus_Config2__DisplayType__c>Asset Line Item</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__FieldName__c>Apttus_Config2__AssetStatus__c</Apttus_Config2__FieldName__c>
+                <Apttus_Config2__Flow__c>NGDefaultCarahsoft</Apttus_Config2__Flow__c>
+                <Apttus_Config2__Sequence__c>12</Apttus_Config2__Sequence__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayColumns__c">
+                <Name>Agreement Price Rule 1 921DIdti2Rfo</Name>
+                <CreatedBy.Id>0052D000000gsvpQAA</CreatedBy.Id>
+                <CreatedBy.Name>Jef Benigno</CreatedBy.Name>
+                <CreatedDate>2018-08-30T22:34:31.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T22:34:31.000+0000</LastModifiedDate>
+                <Apttus_Config2__DisplayType__c>Agreement Price Rule</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__FieldName__c>Apttus_Config2__Sequence__c</Apttus_Config2__FieldName__c>
+                <Apttus_Config2__Flow__c>NGDefaultCarahsoft</Apttus_Config2__Flow__c>
+                <Apttus_Config2__Sequence__c>1</Apttus_Config2__Sequence__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayColumns__c">
+                <Name>Cart Line Item 1 OwDqJ8xryi7E</Name>
+                <CreatedBy.Id>0052D000000gsvpQAA</CreatedBy.Id>
+                <CreatedBy.Name>Jef Benigno</CreatedBy.Name>
+                <CreatedDate>2018-08-30T22:34:31.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T22:34:31.000+0000</LastModifiedDate>
+                <Apttus_Config2__DisplayType__c>Cart Line Item</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__FieldName__c>Apttus_Config2__ProductId__c</Apttus_Config2__FieldName__c>
+                <Apttus_Config2__Flow__c>NGDefaultCarahsoft</Apttus_Config2__Flow__c>
+                <Apttus_Config2__HeaderStyle__c>width:200px;</Apttus_Config2__HeaderStyle__c>
+                <Apttus_Config2__Sequence__c>1</Apttus_Config2__Sequence__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayColumns__c">
+                <Name>Cart Line Item 2 FJVIIbBNjjb2</Name>
+                <CreatedBy.Id>0052D000000gsvpQAA</CreatedBy.Id>
+                <CreatedBy.Name>Jef Benigno</CreatedBy.Name>
+                <CreatedDate>2018-08-30T22:34:31.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T22:34:31.000+0000</LastModifiedDate>
+                <Apttus_Config2__DisplayType__c>Cart Line Item</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__FieldName__c>Apttus_Config2__ChargeType__c</Apttus_Config2__FieldName__c>
+                <Apttus_Config2__Flow__c>NGDefaultCarahsoft</Apttus_Config2__Flow__c>
+                <Apttus_Config2__IsEditable__c>true</Apttus_Config2__IsEditable__c>
+                <Apttus_Config2__Sequence__c>2</Apttus_Config2__Sequence__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayColumns__c">
+                <Name>Cart Line Item 3 HujsticTrc6w</Name>
+                <CreatedBy.Id>0052D000000gsvpQAA</CreatedBy.Id>
+                <CreatedBy.Name>Jef Benigno</CreatedBy.Name>
+                <CreatedDate>2018-08-30T22:34:31.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T22:34:31.000+0000</LastModifiedDate>
+                <Apttus_Config2__DisplayType__c>Cart Line Item</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__FieldName__c>Apttus_Config2__BasePrice__c</Apttus_Config2__FieldName__c>
+                <Apttus_Config2__Flow__c>NGDefaultCarahsoft</Apttus_Config2__Flow__c>
+                <Apttus_Config2__IsEditable__c>true</Apttus_Config2__IsEditable__c>
+                <Apttus_Config2__Sequence__c>3</Apttus_Config2__Sequence__c>
+                <Apttus_Config2__StyleClass__c>aptCurrency</Apttus_Config2__StyleClass__c>
+                <Apttus_Config2__Style__c>text-align:right</Apttus_Config2__Style__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayColumns__c">
+                <Name>Cart Line Item 4 b7GfVIpvsmDl</Name>
+                <CreatedBy.Id>0052D000000gsvpQAA</CreatedBy.Id>
+                <CreatedBy.Name>Jef Benigno</CreatedBy.Name>
+                <CreatedDate>2018-08-30T22:34:31.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T22:34:31.000+0000</LastModifiedDate>
+                <Apttus_Config2__DisplayType__c>Cart Line Item</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__FieldName__c>Apttus_Config2__OptionPrice__c</Apttus_Config2__FieldName__c>
+                <Apttus_Config2__Flow__c>NGDefaultCarahsoft</Apttus_Config2__Flow__c>
+                <Apttus_Config2__Sequence__c>4</Apttus_Config2__Sequence__c>
+                <Apttus_Config2__StyleClass__c>aptCurrency</Apttus_Config2__StyleClass__c>
+                <Apttus_Config2__Style__c>text-align:right</Apttus_Config2__Style__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayColumns__c">
+                <Name>Cart Line Item 5 xs3acA25bE5d</Name>
+                <CreatedBy.Id>0052D000000gsvpQAA</CreatedBy.Id>
+                <CreatedBy.Name>Jef Benigno</CreatedBy.Name>
+                <CreatedDate>2018-08-30T22:34:31.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T22:34:31.000+0000</LastModifiedDate>
+                <Apttus_Config2__DisplayType__c>Cart Line Item</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__FieldName__c>Apttus_Config2__Quantity__c</Apttus_Config2__FieldName__c>
+                <Apttus_Config2__Flow__c>NGDefaultCarahsoft</Apttus_Config2__Flow__c>
+                <Apttus_Config2__IsEditable__c>true</Apttus_Config2__IsEditable__c>
+                <Apttus_Config2__Sequence__c>5</Apttus_Config2__Sequence__c>
+                <Apttus_Config2__StyleClass__c>aptQuantity</Apttus_Config2__StyleClass__c>
+                <Apttus_Config2__Style__c>text-align:right; width:60px;</Apttus_Config2__Style__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayColumns__c">
+                <Name>Cart Line Item 6 KGCUW1gLlepv</Name>
+                <CreatedBy.Id>0052D000000gsvpQAA</CreatedBy.Id>
+                <CreatedBy.Name>Jef Benigno</CreatedBy.Name>
+                <CreatedDate>2018-08-30T22:34:31.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T22:34:31.000+0000</LastModifiedDate>
+                <Apttus_Config2__DisplayType__c>Cart Line Item</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__FieldName__c>Apttus_Config2__PriceUom__c</Apttus_Config2__FieldName__c>
+                <Apttus_Config2__Flow__c>NGDefaultCarahsoft</Apttus_Config2__Flow__c>
+                <Apttus_Config2__Sequence__c>6</Apttus_Config2__Sequence__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayColumns__c">
+                <Name>Cart Line Item 7 V4yiprYQH2fp</Name>
+                <CreatedBy.Id>0052D000000gsvpQAA</CreatedBy.Id>
+                <CreatedBy.Name>Jef Benigno</CreatedBy.Name>
+                <CreatedDate>2018-08-30T22:34:31.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T22:34:31.000+0000</LastModifiedDate>
+                <Apttus_Config2__DisplayType__c>Cart Line Item</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__FieldName__c>Apttus_Config2__SellingTerm__c</Apttus_Config2__FieldName__c>
+                <Apttus_Config2__Flow__c>NGDefaultCarahsoft</Apttus_Config2__Flow__c>
+                <Apttus_Config2__IsEditable__c>true</Apttus_Config2__IsEditable__c>
+                <Apttus_Config2__Sequence__c>7</Apttus_Config2__Sequence__c>
+                <Apttus_Config2__StyleClass__c>aptQuantity</Apttus_Config2__StyleClass__c>
+                <Apttus_Config2__Style__c>text-align:right; width:60px;</Apttus_Config2__Style__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayColumns__c">
+                <Name>Cart Line Item 8 tS5TCXbMHunl</Name>
+                <CreatedBy.Id>0052D000000gsvpQAA</CreatedBy.Id>
+                <CreatedBy.Name>Jef Benigno</CreatedBy.Name>
+                <CreatedDate>2018-08-30T22:34:31.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T22:34:31.000+0000</LastModifiedDate>
+                <Apttus_Config2__DisplayType__c>Cart Line Item</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__FieldName__c>Apttus_Config2__SellingFrequency__c</Apttus_Config2__FieldName__c>
+                <Apttus_Config2__Flow__c>NGDefaultCarahsoft</Apttus_Config2__Flow__c>
+                <Apttus_Config2__IsEditable__c>true</Apttus_Config2__IsEditable__c>
+                <Apttus_Config2__Sequence__c>8</Apttus_Config2__Sequence__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayColumns__c">
+                <Name>Cart Line Item 9 BQcqL4RokliY</Name>
+                <CreatedBy.Id>0052D000000gsvpQAA</CreatedBy.Id>
+                <CreatedBy.Name>Jef Benigno</CreatedBy.Name>
+                <CreatedDate>2018-08-30T22:34:31.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T22:34:31.000+0000</LastModifiedDate>
+                <Apttus_Config2__DisplayType__c>Cart Line Item</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__FieldName__c>Apttus_Config2__ExtendedPrice__c</Apttus_Config2__FieldName__c>
+                <Apttus_Config2__Flow__c>NGDefaultCarahsoft</Apttus_Config2__Flow__c>
+                <Apttus_Config2__Sequence__c>9</Apttus_Config2__Sequence__c>
+                <Apttus_Config2__StyleClass__c>aptCurrency</Apttus_Config2__StyleClass__c>
+                <Apttus_Config2__Style__c>text-align:right</Apttus_Config2__Style__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayColumns__c">
+                <Name>Cart Line Item 12 tiFGBV8V6trC</Name>
+                <CreatedBy.Id>0052D000000gsvpQAA</CreatedBy.Id>
+                <CreatedBy.Name>Jef Benigno</CreatedBy.Name>
+                <CreatedDate>2018-08-30T22:34:31.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T22:34:31.000+0000</LastModifiedDate>
+                <Apttus_Config2__DisplayType__c>Cart Line Item</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__FieldName__c>Apttus_Config2__AdjustedPrice__c</Apttus_Config2__FieldName__c>
+                <Apttus_Config2__Flow__c>NGDefaultCarahsoft</Apttus_Config2__Flow__c>
+                <Apttus_Config2__Sequence__c>12</Apttus_Config2__Sequence__c>
+                <Apttus_Config2__StyleClass__c>aptCurrency</Apttus_Config2__StyleClass__c>
+                <Apttus_Config2__Style__c>text-align:right</Apttus_Config2__Style__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayColumns__c">
+                <Name>Cart Line Item 13 NFB1cJDmxUma</Name>
+                <CreatedBy.Id>0052D000000gsvpQAA</CreatedBy.Id>
+                <CreatedBy.Name>Jef Benigno</CreatedBy.Name>
+                <CreatedDate>2018-08-30T22:34:31.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T22:34:31.000+0000</LastModifiedDate>
+                <Apttus_Config2__DisplayType__c>Cart Line Item</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__FieldName__c>Apttus_Config2__NetPrice__c</Apttus_Config2__FieldName__c>
+                <Apttus_Config2__Flow__c>NGDefaultCarahsoft</Apttus_Config2__Flow__c>
+                <Apttus_Config2__Sequence__c>13</Apttus_Config2__Sequence__c>
+                <Apttus_Config2__StyleClass__c>aptCurrency</Apttus_Config2__StyleClass__c>
+                <Apttus_Config2__Style__c>text-align:right</Apttus_Config2__Style__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayColumns__c">
+                <Name>Price Ramp 4 GcVGJpO7pdmW</Name>
+                <CreatedBy.Id>0052D000000gsvpQAA</CreatedBy.Id>
+                <CreatedBy.Name>Jef Benigno</CreatedBy.Name>
+                <CreatedDate>2018-08-30T22:34:32.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T22:34:32.000+0000</LastModifiedDate>
+                <Apttus_Config2__DisplayType__c>Price Ramp</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__FieldName__c>Apttus_Config2__ExtendedPrice__c</Apttus_Config2__FieldName__c>
+                <Apttus_Config2__Flow__c>NGDefaultCarahsoft</Apttus_Config2__Flow__c>
+                <Apttus_Config2__Sequence__c>4</Apttus_Config2__Sequence__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayColumns__c">
+                <Name>Price Ramp 5 JkiBC8JYFL25</Name>
+                <CreatedBy.Id>0052D000000gsvpQAA</CreatedBy.Id>
+                <CreatedBy.Name>Jef Benigno</CreatedBy.Name>
+                <CreatedDate>2018-08-30T22:34:32.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T22:34:32.000+0000</LastModifiedDate>
+                <Apttus_Config2__DisplayType__c>Price Ramp</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__FieldName__c>Apttus_Config2__AdjustmentType__c</Apttus_Config2__FieldName__c>
+                <Apttus_Config2__Flow__c>NGDefaultCarahsoft</Apttus_Config2__Flow__c>
+                <Apttus_Config2__IsEditable__c>true</Apttus_Config2__IsEditable__c>
+                <Apttus_Config2__Sequence__c>5</Apttus_Config2__Sequence__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayColumns__c">
+                <Name>Price Ramp 6 MZX7bQpmssML</Name>
+                <CreatedBy.Id>0052D000000gsvpQAA</CreatedBy.Id>
+                <CreatedBy.Name>Jef Benigno</CreatedBy.Name>
+                <CreatedDate>2018-08-30T22:34:32.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T22:34:32.000+0000</LastModifiedDate>
+                <Apttus_Config2__DisplayType__c>Price Ramp</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__FieldName__c>Apttus_Config2__AdjustmentAmount__c</Apttus_Config2__FieldName__c>
+                <Apttus_Config2__Flow__c>NGDefaultCarahsoft</Apttus_Config2__Flow__c>
+                <Apttus_Config2__IsEditable__c>true</Apttus_Config2__IsEditable__c>
+                <Apttus_Config2__Sequence__c>6</Apttus_Config2__Sequence__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayColumns__c">
+                <Name>Price Ramp 7 n3TvF3l3m8GD</Name>
+                <CreatedBy.Id>0052D000000gsvpQAA</CreatedBy.Id>
+                <CreatedBy.Name>Jef Benigno</CreatedBy.Name>
+                <CreatedDate>2018-08-30T22:34:32.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T22:34:32.000+0000</LastModifiedDate>
+                <Apttus_Config2__DisplayType__c>Price Ramp</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__FieldName__c>Apttus_Config2__StartDate__c</Apttus_Config2__FieldName__c>
+                <Apttus_Config2__Flow__c>NGDefaultCarahsoft</Apttus_Config2__Flow__c>
+                <Apttus_Config2__IsEditable__c>true</Apttus_Config2__IsEditable__c>
+                <Apttus_Config2__Sequence__c>7</Apttus_Config2__Sequence__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayColumns__c">
+                <Name>Tiered Price 6 sYOX2pikn337</Name>
+                <CreatedBy.Id>0052D000000gsvpQAA</CreatedBy.Id>
+                <CreatedBy.Name>Jef Benigno</CreatedBy.Name>
+                <CreatedDate>2018-08-30T22:34:32.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T22:34:32.000+0000</LastModifiedDate>
+                <Apttus_Config2__DisplayType__c>Tiered Price</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__FieldName__c>Apttus_Config2__TierFlatPrice__c</Apttus_Config2__FieldName__c>
+                <Apttus_Config2__Flow__c>NGDefaultCarahsoft</Apttus_Config2__Flow__c>
+                <Apttus_Config2__IsEditable__c>true</Apttus_Config2__IsEditable__c>
+                <Apttus_Config2__Sequence__c>6</Apttus_Config2__Sequence__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayColumns__c">
+                <Name>Tiered Price 7 V2ovb2Sn6EZI</Name>
+                <CreatedBy.Id>0052D000000gsvpQAA</CreatedBy.Id>
+                <CreatedBy.Name>Jef Benigno</CreatedBy.Name>
+                <CreatedDate>2018-08-30T22:34:32.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T22:34:32.000+0000</LastModifiedDate>
+                <Apttus_Config2__DisplayType__c>Tiered Price</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__FieldName__c>Apttus_Config2__TierExtendedPrice__c</Apttus_Config2__FieldName__c>
+                <Apttus_Config2__Flow__c>NGDefaultCarahsoft</Apttus_Config2__Flow__c>
+                <Apttus_Config2__IsEditable__c>true</Apttus_Config2__IsEditable__c>
+                <Apttus_Config2__Sequence__c>7</Apttus_Config2__Sequence__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayColumns__c">
+                <Name>Related Price 1 88NBtbdxVLNU</Name>
+                <CreatedBy.Id>0052D000000gsvpQAA</CreatedBy.Id>
+                <CreatedBy.Name>Jef Benigno</CreatedBy.Name>
+                <CreatedDate>2018-08-30T22:34:32.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T22:34:32.000+0000</LastModifiedDate>
+                <Apttus_Config2__DisplayType__c>Related Price</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__FieldName__c>Apttus_Config2__Sequence__c</Apttus_Config2__FieldName__c>
+                <Apttus_Config2__Flow__c>NGDefaultCarahsoft</Apttus_Config2__Flow__c>
+                <Apttus_Config2__IsEditable__c>true</Apttus_Config2__IsEditable__c>
+                <Apttus_Config2__Sequence__c>1</Apttus_Config2__Sequence__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayColumns__c">
+                <Name>Price Ramp 8 jPQfGEC13B7c</Name>
+                <CreatedBy.Id>0052D000000gsvpQAA</CreatedBy.Id>
+                <CreatedBy.Name>Jef Benigno</CreatedBy.Name>
+                <CreatedDate>2018-08-30T22:34:32.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T22:34:32.000+0000</LastModifiedDate>
+                <Apttus_Config2__DisplayType__c>Price Ramp</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__FieldName__c>Apttus_Config2__EndDate__c</Apttus_Config2__FieldName__c>
+                <Apttus_Config2__Flow__c>NGDefaultCarahsoft</Apttus_Config2__Flow__c>
+                <Apttus_Config2__IsEditable__c>true</Apttus_Config2__IsEditable__c>
+                <Apttus_Config2__Sequence__c>8</Apttus_Config2__Sequence__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayColumns__c">
+                <Name>Tiered Price 1 7nG98PQBq4wd</Name>
+                <CreatedBy.Id>0052D000000gsvpQAA</CreatedBy.Id>
+                <CreatedBy.Name>Jef Benigno</CreatedBy.Name>
+                <CreatedDate>2018-08-30T22:34:32.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T22:34:32.000+0000</LastModifiedDate>
+                <Apttus_Config2__DisplayType__c>Tiered Price</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__FieldName__c>Apttus_Config2__Sequence__c</Apttus_Config2__FieldName__c>
+                <Apttus_Config2__Flow__c>NGDefaultCarahsoft</Apttus_Config2__Flow__c>
+                <Apttus_Config2__IsEditable__c>true</Apttus_Config2__IsEditable__c>
+                <Apttus_Config2__Sequence__c>1</Apttus_Config2__Sequence__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayColumns__c">
+                <Name>Tiered Price 2 YrDVfbg5c6Bw</Name>
+                <CreatedBy.Id>0052D000000gsvpQAA</CreatedBy.Id>
+                <CreatedBy.Name>Jef Benigno</CreatedBy.Name>
+                <CreatedDate>2018-08-30T22:34:32.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T22:34:32.000+0000</LastModifiedDate>
+                <Apttus_Config2__DisplayType__c>Tiered Price</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__FieldName__c>Apttus_Config2__BreakupType__c</Apttus_Config2__FieldName__c>
+                <Apttus_Config2__Flow__c>NGDefaultCarahsoft</Apttus_Config2__Flow__c>
+                <Apttus_Config2__IsEditable__c>true</Apttus_Config2__IsEditable__c>
+                <Apttus_Config2__Sequence__c>2</Apttus_Config2__Sequence__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayColumns__c">
+                <Name>Tiered Price 3 aX7Lh9rxzkOv</Name>
+                <CreatedBy.Id>0052D000000gsvpQAA</CreatedBy.Id>
+                <CreatedBy.Name>Jef Benigno</CreatedBy.Name>
+                <CreatedDate>2018-08-30T22:34:32.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T22:34:32.000+0000</LastModifiedDate>
+                <Apttus_Config2__DisplayType__c>Tiered Price</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__FieldName__c>Apttus_Config2__TierStartValue__c</Apttus_Config2__FieldName__c>
+                <Apttus_Config2__Flow__c>NGDefaultCarahsoft</Apttus_Config2__Flow__c>
+                <Apttus_Config2__IsEditable__c>true</Apttus_Config2__IsEditable__c>
+                <Apttus_Config2__Sequence__c>3</Apttus_Config2__Sequence__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayColumns__c">
+                <Name>Related Price 3 TwdciYGgKOtP</Name>
+                <CreatedBy.Id>0052D000000gsvpQAA</CreatedBy.Id>
+                <CreatedBy.Name>Jef Benigno</CreatedBy.Name>
+                <CreatedDate>2018-08-30T22:34:32.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T22:34:32.000+0000</LastModifiedDate>
+                <Apttus_Config2__DisplayType__c>Related Price</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__FieldName__c>Apttus_Config2__RelatedQuantity__c</Apttus_Config2__FieldName__c>
+                <Apttus_Config2__Flow__c>NGDefaultCarahsoft</Apttus_Config2__Flow__c>
+                <Apttus_Config2__IsEditable__c>true</Apttus_Config2__IsEditable__c>
+                <Apttus_Config2__Sequence__c>3</Apttus_Config2__Sequence__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayColumns__c">
+                <Name>Related Price 4 dBdzVN8FslMd</Name>
+                <CreatedBy.Id>0052D000000gsvpQAA</CreatedBy.Id>
+                <CreatedBy.Name>Jef Benigno</CreatedBy.Name>
+                <CreatedDate>2018-08-30T22:34:32.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T22:34:32.000+0000</LastModifiedDate>
+                <Apttus_Config2__DisplayType__c>Related Price</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__FieldName__c>Apttus_Config2__RelatedChargeType__c</Apttus_Config2__FieldName__c>
+                <Apttus_Config2__Flow__c>NGDefaultCarahsoft</Apttus_Config2__Flow__c>
+                <Apttus_Config2__IsEditable__c>true</Apttus_Config2__IsEditable__c>
+                <Apttus_Config2__Sequence__c>4</Apttus_Config2__Sequence__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayColumns__c">
+                <Name>Agreement Price Tier 9 djNgPDCUu3mI</Name>
+                <CreatedBy.Id>0052D000000gsvpQAA</CreatedBy.Id>
+                <CreatedBy.Name>Jef Benigno</CreatedBy.Name>
+                <CreatedDate>2018-08-30T22:34:32.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T22:34:32.000+0000</LastModifiedDate>
+                <Apttus_Config2__DisplayType__c>Agreement Price Tier</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__FieldName__c>Apttus_Config2__AdjustmentAmount__c</Apttus_Config2__FieldName__c>
+                <Apttus_Config2__Flow__c>NGDefaultCarahsoft</Apttus_Config2__Flow__c>
+                <Apttus_Config2__IsEditable__c>true</Apttus_Config2__IsEditable__c>
+                <Apttus_Config2__Sequence__c>9</Apttus_Config2__Sequence__c>
+                <Apttus_Config2__StyleClass__c>aptAdjustment</Apttus_Config2__StyleClass__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayColumns__c">
+                <Name>Adjustment Line Item 1 7RM9eJKRnqCz</Name>
+                <CreatedBy.Id>0052D000000gsvpQAA</CreatedBy.Id>
+                <CreatedBy.Name>Jef Benigno</CreatedBy.Name>
+                <CreatedDate>2018-08-30T22:34:32.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T22:34:32.000+0000</LastModifiedDate>
+                <Apttus_Config2__DisplayType__c>Adjustment Line Item</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__FieldName__c>Apttus_Config2__Type__c</Apttus_Config2__FieldName__c>
+                <Apttus_Config2__Flow__c>NGDefaultCarahsoft</Apttus_Config2__Flow__c>
+                <Apttus_Config2__IsEditable__c>true</Apttus_Config2__IsEditable__c>
+                <Apttus_Config2__Sequence__c>1</Apttus_Config2__Sequence__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayColumns__c">
+                <Name>Adjustment Line Item 2 dRXtoPOJfPut</Name>
+                <CreatedBy.Id>0052D000000gsvpQAA</CreatedBy.Id>
+                <CreatedBy.Name>Jef Benigno</CreatedBy.Name>
+                <CreatedDate>2018-08-30T22:34:32.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T22:34:32.000+0000</LastModifiedDate>
+                <Apttus_Config2__DisplayType__c>Adjustment Line Item</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__FieldName__c>Apttus_Config2__AdjustmentAppliesTo__c</Apttus_Config2__FieldName__c>
+                <Apttus_Config2__Flow__c>NGDefaultCarahsoft</Apttus_Config2__Flow__c>
+                <Apttus_Config2__IsEditable__c>true</Apttus_Config2__IsEditable__c>
+                <Apttus_Config2__Sequence__c>2</Apttus_Config2__Sequence__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayColumns__c">
+                <Name>Related Price 2 V3n6dRE8ofev</Name>
+                <CreatedBy.Id>0052D000000gsvpQAA</CreatedBy.Id>
+                <CreatedBy.Name>Jef Benigno</CreatedBy.Name>
+                <CreatedDate>2018-08-30T22:34:32.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T22:34:32.000+0000</LastModifiedDate>
+                <Apttus_Config2__DisplayType__c>Related Price</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__FieldName__c>Apttus_Config2__BreakupType__c</Apttus_Config2__FieldName__c>
+                <Apttus_Config2__Flow__c>NGDefaultCarahsoft</Apttus_Config2__Flow__c>
+                <Apttus_Config2__IsEditable__c>true</Apttus_Config2__IsEditable__c>
+                <Apttus_Config2__Sequence__c>2</Apttus_Config2__Sequence__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayColumns__c">
+                <Name>Related Price 6 Lt9w1lP16Shr</Name>
+                <CreatedBy.Id>0052D000000gsvpQAA</CreatedBy.Id>
+                <CreatedBy.Name>Jef Benigno</CreatedBy.Name>
+                <CreatedDate>2018-08-30T22:34:32.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T22:34:32.000+0000</LastModifiedDate>
+                <Apttus_Config2__DisplayType__c>Related Price</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__FieldName__c>Apttus_Config2__RelatedEndDate__c</Apttus_Config2__FieldName__c>
+                <Apttus_Config2__Flow__c>NGDefaultCarahsoft</Apttus_Config2__Flow__c>
+                <Apttus_Config2__IsEditable__c>true</Apttus_Config2__IsEditable__c>
+                <Apttus_Config2__Sequence__c>6</Apttus_Config2__Sequence__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayColumns__c">
+                <Name>Related Price 7 KOXSfOINkW2B</Name>
+                <CreatedBy.Id>0052D000000gsvpQAA</CreatedBy.Id>
+                <CreatedBy.Name>Jef Benigno</CreatedBy.Name>
+                <CreatedDate>2018-08-30T22:34:32.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T22:34:32.000+0000</LastModifiedDate>
+                <Apttus_Config2__DisplayType__c>Related Price</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__FieldName__c>Apttus_Config2__NetUnitPrice__c</Apttus_Config2__FieldName__c>
+                <Apttus_Config2__Flow__c>NGDefaultCarahsoft</Apttus_Config2__Flow__c>
+                <Apttus_Config2__IsEditable__c>true</Apttus_Config2__IsEditable__c>
+                <Apttus_Config2__Sequence__c>7</Apttus_Config2__Sequence__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayColumns__c">
+                <Name>Line Item Metrics 3 RlJlZkD4iu1s</Name>
+                <CreatedBy.Id>0052D000000gsvpQAA</CreatedBy.Id>
+                <CreatedBy.Name>Jef Benigno</CreatedBy.Name>
+                <CreatedDate>2018-08-30T22:34:32.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T22:34:32.000+0000</LastModifiedDate>
+                <Apttus_Config2__DisplayType__c>Line Item Metrics</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__FieldName__c>Apttus_Config2__GroupAdjustmentPercent__c</Apttus_Config2__FieldName__c>
+                <Apttus_Config2__Flow__c>NGDefaultCarahsoft</Apttus_Config2__Flow__c>
+                <Apttus_Config2__Sequence__c>3</Apttus_Config2__Sequence__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayColumns__c">
+                <Name>Line Item Waterfall 2 6aCynRDgQqT2</Name>
+                <CreatedBy.Id>0052D000000gsvpQAA</CreatedBy.Id>
+                <CreatedBy.Name>Jef Benigno</CreatedBy.Name>
+                <CreatedDate>2018-08-30T22:34:32.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T22:34:32.000+0000</LastModifiedDate>
+                <Apttus_Config2__DisplayType__c>Line Item Waterfall</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__FieldName__c>Apttus_Config2__BasePrice__c</Apttus_Config2__FieldName__c>
+                <Apttus_Config2__Flow__c>NGDefaultCarahsoft</Apttus_Config2__Flow__c>
+                <Apttus_Config2__IsEditable__c>true</Apttus_Config2__IsEditable__c>
+                <Apttus_Config2__Sequence__c>2</Apttus_Config2__Sequence__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayColumns__c">
+                <Name>Line Item Waterfall 3 yJp6NxVhDPjx</Name>
+                <CreatedBy.Id>0052D000000gsvpQAA</CreatedBy.Id>
+                <CreatedBy.Name>Jef Benigno</CreatedBy.Name>
+                <CreatedDate>2018-08-30T22:34:32.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T22:34:32.000+0000</LastModifiedDate>
+                <Apttus_Config2__DisplayType__c>Line Item Waterfall</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__FieldName__c>Apttus_Config2__NetUnitPrice__c</Apttus_Config2__FieldName__c>
+                <Apttus_Config2__Flow__c>NGDefaultCarahsoft</Apttus_Config2__Flow__c>
+                <Apttus_Config2__IsEditable__c>true</Apttus_Config2__IsEditable__c>
+                <Apttus_Config2__Sequence__c>3</Apttus_Config2__Sequence__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayColumns__c">
+                <Name>Adjustment Line Item 3 sneERiN3RRAx</Name>
+                <CreatedBy.Id>0052D000000gsvpQAA</CreatedBy.Id>
+                <CreatedBy.Name>Jef Benigno</CreatedBy.Name>
+                <CreatedDate>2018-08-30T22:34:32.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T22:34:32.000+0000</LastModifiedDate>
+                <Apttus_Config2__DisplayType__c>Adjustment Line Item</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__FieldName__c>Apttus_Config2__AdjustmentType__c</Apttus_Config2__FieldName__c>
+                <Apttus_Config2__Flow__c>NGDefaultCarahsoft</Apttus_Config2__Flow__c>
+                <Apttus_Config2__IsEditable__c>true</Apttus_Config2__IsEditable__c>
+                <Apttus_Config2__Sequence__c>3</Apttus_Config2__Sequence__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayColumns__c">
+                <Name>Adjustment Line Item 4 KXxjuq1TWPiN</Name>
+                <CreatedBy.Id>0052D000000gsvpQAA</CreatedBy.Id>
+                <CreatedBy.Name>Jef Benigno</CreatedBy.Name>
+                <CreatedDate>2018-08-30T22:34:32.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T22:34:32.000+0000</LastModifiedDate>
+                <Apttus_Config2__DisplayType__c>Adjustment Line Item</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__FieldName__c>Apttus_Config2__AdjustmentAmount__c</Apttus_Config2__FieldName__c>
+                <Apttus_Config2__Flow__c>NGDefaultCarahsoft</Apttus_Config2__Flow__c>
+                <Apttus_Config2__IsEditable__c>true</Apttus_Config2__IsEditable__c>
+                <Apttus_Config2__Sequence__c>4</Apttus_Config2__Sequence__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayColumns__c">
+                <Name>Adjustment Line Item 5 4EQWflsVM9OB</Name>
+                <CreatedBy.Id>0052D000000gsvpQAA</CreatedBy.Id>
+                <CreatedBy.Name>Jef Benigno</CreatedBy.Name>
+                <CreatedDate>2018-08-30T22:34:32.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T22:34:32.000+0000</LastModifiedDate>
+                <Apttus_Config2__DisplayType__c>Adjustment Line Item</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__FieldName__c>Id</Apttus_Config2__FieldName__c>
+                <Apttus_Config2__Flow__c>NGDefaultCarahsoft</Apttus_Config2__Flow__c>
+                <Apttus_Config2__Sequence__c>5</Apttus_Config2__Sequence__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayColumns__c">
+                <Name>Tiered Price 4 oDLj5Rd6Qqvg</Name>
+                <CreatedBy.Id>0052D000000gsvpQAA</CreatedBy.Id>
+                <CreatedBy.Name>Jef Benigno</CreatedBy.Name>
+                <CreatedDate>2018-08-30T22:34:32.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T22:34:32.000+0000</LastModifiedDate>
+                <Apttus_Config2__DisplayType__c>Tiered Price</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__FieldName__c>Apttus_Config2__TierEndValue__c</Apttus_Config2__FieldName__c>
+                <Apttus_Config2__Flow__c>NGDefaultCarahsoft</Apttus_Config2__Flow__c>
+                <Apttus_Config2__IsEditable__c>true</Apttus_Config2__IsEditable__c>
+                <Apttus_Config2__Sequence__c>4</Apttus_Config2__Sequence__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayColumns__c">
+                <Name>Tiered Price 5 vJdchag6PPG9</Name>
+                <CreatedBy.Id>0052D000000gsvpQAA</CreatedBy.Id>
+                <CreatedBy.Name>Jef Benigno</CreatedBy.Name>
+                <CreatedDate>2018-08-30T22:34:32.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T22:34:32.000+0000</LastModifiedDate>
+                <Apttus_Config2__DisplayType__c>Tiered Price</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__FieldName__c>Apttus_Config2__TierQuantity__c</Apttus_Config2__FieldName__c>
+                <Apttus_Config2__Flow__c>NGDefaultCarahsoft</Apttus_Config2__Flow__c>
+                <Apttus_Config2__IsEditable__c>true</Apttus_Config2__IsEditable__c>
+                <Apttus_Config2__Sequence__c>5</Apttus_Config2__Sequence__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayColumns__c">
+                <Name>Related Price 5 4SBTXxPPuXJf</Name>
+                <CreatedBy.Id>0052D000000gsvpQAA</CreatedBy.Id>
+                <CreatedBy.Name>Jef Benigno</CreatedBy.Name>
+                <CreatedDate>2018-08-30T22:34:32.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T22:34:32.000+0000</LastModifiedDate>
+                <Apttus_Config2__DisplayType__c>Related Price</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__FieldName__c>Apttus_Config2__RelatedStartDate__c</Apttus_Config2__FieldName__c>
+                <Apttus_Config2__Flow__c>NGDefaultCarahsoft</Apttus_Config2__Flow__c>
+                <Apttus_Config2__IsEditable__c>true</Apttus_Config2__IsEditable__c>
+                <Apttus_Config2__Sequence__c>5</Apttus_Config2__Sequence__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayColumns__c">
+                <Name>Summary Waterfall 1 iFLvBdigyEUJ</Name>
+                <CreatedBy.Id>0052D000000gsvpQAA</CreatedBy.Id>
+                <CreatedBy.Name>Jef Benigno</CreatedBy.Name>
+                <CreatedDate>2018-08-30T22:34:32.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T22:34:32.000+0000</LastModifiedDate>
+                <Apttus_Config2__DisplayType__c>Summary Waterfall</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__FieldName__c>Apttus_Config2__ExtendedListPrice__c</Apttus_Config2__FieldName__c>
+                <Apttus_Config2__Flow__c>NGDefaultCarahsoft</Apttus_Config2__Flow__c>
+                <Apttus_Config2__IsEditable__c>true</Apttus_Config2__IsEditable__c>
+                <Apttus_Config2__Sequence__c>1</Apttus_Config2__Sequence__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayColumns__c">
+                <Name>Summary Waterfall 2 y3D8UDYPLsum</Name>
+                <CreatedBy.Id>0052D000000gsvpQAA</CreatedBy.Id>
+                <CreatedBy.Name>Jef Benigno</CreatedBy.Name>
+                <CreatedDate>2018-08-30T22:34:32.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T22:34:32.000+0000</LastModifiedDate>
+                <Apttus_Config2__DisplayType__c>Summary Waterfall</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__FieldName__c>Apttus_Config2__ExtendedPrice__c</Apttus_Config2__FieldName__c>
+                <Apttus_Config2__Flow__c>NGDefaultCarahsoft</Apttus_Config2__Flow__c>
+                <Apttus_Config2__IsEditable__c>true</Apttus_Config2__IsEditable__c>
+                <Apttus_Config2__Sequence__c>2</Apttus_Config2__Sequence__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayColumns__c">
+                <Name>Summary Waterfall 4 kaYKxZsYh9GC</Name>
+                <CreatedBy.Id>0052D000000gsvpQAA</CreatedBy.Id>
+                <CreatedBy.Name>Jef Benigno</CreatedBy.Name>
+                <CreatedDate>2018-08-30T22:34:32.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T22:34:32.000+0000</LastModifiedDate>
+                <Apttus_Config2__DisplayType__c>Summary Waterfall</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__FieldName__c>Apttus_Config2__BaseExtendedCost__c</Apttus_Config2__FieldName__c>
+                <Apttus_Config2__Flow__c>NGDefaultCarahsoft</Apttus_Config2__Flow__c>
+                <Apttus_Config2__IsEditable__c>true</Apttus_Config2__IsEditable__c>
+                <Apttus_Config2__Sequence__c>4</Apttus_Config2__Sequence__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayColumns__c">
+                <Name>Price Ramp 1 czh39WJGrzIm</Name>
+                <CreatedBy.Id>0052D000000gsvpQAA</CreatedBy.Id>
+                <CreatedBy.Name>Jef Benigno</CreatedBy.Name>
+                <CreatedDate>2018-08-30T22:34:32.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T22:34:32.000+0000</LastModifiedDate>
+                <Apttus_Config2__DisplayType__c>Price Ramp</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__FieldName__c>Apttus_Config2__Quantity__c</Apttus_Config2__FieldName__c>
+                <Apttus_Config2__Flow__c>NGDefaultCarahsoft</Apttus_Config2__Flow__c>
+                <Apttus_Config2__Sequence__c>1</Apttus_Config2__Sequence__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayColumns__c">
+                <Name>Price Ramp 2 w8fXyClnRwTC</Name>
+                <CreatedBy.Id>0052D000000gsvpQAA</CreatedBy.Id>
+                <CreatedBy.Name>Jef Benigno</CreatedBy.Name>
+                <CreatedDate>2018-08-30T22:34:32.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T22:34:32.000+0000</LastModifiedDate>
+                <Apttus_Config2__DisplayType__c>Price Ramp</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__FieldName__c>Apttus_Config2__SellingTerm__c</Apttus_Config2__FieldName__c>
+                <Apttus_Config2__Flow__c>NGDefaultCarahsoft</Apttus_Config2__Flow__c>
+                <Apttus_Config2__IsEditable__c>true</Apttus_Config2__IsEditable__c>
+                <Apttus_Config2__Sequence__c>2</Apttus_Config2__Sequence__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayColumns__c">
+                <Name>Price Ramp 3 ROBaI1PcFKfK</Name>
+                <CreatedBy.Id>0052D000000gsvpQAA</CreatedBy.Id>
+                <CreatedBy.Name>Jef Benigno</CreatedBy.Name>
+                <CreatedDate>2018-08-30T22:34:32.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T22:34:32.000+0000</LastModifiedDate>
+                <Apttus_Config2__DisplayType__c>Price Ramp</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__FieldName__c>Apttus_Config2__SellingFrequency__c</Apttus_Config2__FieldName__c>
+                <Apttus_Config2__Flow__c>NGDefaultCarahsoft</Apttus_Config2__Flow__c>
+                <Apttus_Config2__IsEditable__c>true</Apttus_Config2__IsEditable__c>
+                <Apttus_Config2__Sequence__c>3</Apttus_Config2__Sequence__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayColumns__c">
+                <Name>Line Item Metrics 1 E9WQdpMFWrMJ</Name>
+                <CreatedBy.Id>0052D000000gsvpQAA</CreatedBy.Id>
+                <CreatedBy.Name>Jef Benigno</CreatedBy.Name>
+                <CreatedDate>2018-08-30T22:34:32.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T22:34:32.000+0000</LastModifiedDate>
+                <Apttus_Config2__DisplayType__c>Line Item Metrics</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__FieldName__c>Apttus_Config2__NetPrice__c</Apttus_Config2__FieldName__c>
+                <Apttus_Config2__Flow__c>NGDefaultCarahsoft</Apttus_Config2__Flow__c>
+                <Apttus_Config2__Sequence__c>1</Apttus_Config2__Sequence__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayColumns__c">
+                <Name>Line Item Metrics 2 QG2pjwaLV2ew</Name>
+                <CreatedBy.Id>0052D000000gsvpQAA</CreatedBy.Id>
+                <CreatedBy.Name>Jef Benigno</CreatedBy.Name>
+                <CreatedDate>2018-08-30T22:34:32.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T22:34:32.000+0000</LastModifiedDate>
+                <Apttus_Config2__DisplayType__c>Line Item Metrics</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__FieldName__c>Apttus_Config2__NetAdjustmentPercent__c</Apttus_Config2__FieldName__c>
+                <Apttus_Config2__Flow__c>NGDefaultCarahsoft</Apttus_Config2__Flow__c>
+                <Apttus_Config2__Sequence__c>2</Apttus_Config2__Sequence__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayColumns__c">
+                <Name>Line Item Waterfall 4 G49Il2c9vKxD</Name>
+                <CreatedBy.Id>0052D000000gsvpQAA</CreatedBy.Id>
+                <CreatedBy.Name>Jef Benigno</CreatedBy.Name>
+                <CreatedDate>2018-08-30T22:34:32.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T22:34:32.000+0000</LastModifiedDate>
+                <Apttus_Config2__DisplayType__c>Line Item Waterfall</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__FieldName__c>Apttus_Config2__BaseCost__c</Apttus_Config2__FieldName__c>
+                <Apttus_Config2__Flow__c>NGDefaultCarahsoft</Apttus_Config2__Flow__c>
+                <Apttus_Config2__IsEditable__c>true</Apttus_Config2__IsEditable__c>
+                <Apttus_Config2__Sequence__c>4</Apttus_Config2__Sequence__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayColumns__c">
+                <Name>Line Item Waterfall 5 LXdibwbgsTzG</Name>
+                <CreatedBy.Id>0052D000000gsvpQAA</CreatedBy.Id>
+                <CreatedBy.Name>Jef Benigno</CreatedBy.Name>
+                <CreatedDate>2018-08-30T22:34:32.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T22:34:32.000+0000</LastModifiedDate>
+                <Apttus_Config2__DisplayType__c>Line Item Waterfall</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__FieldName__c>Apttus_Config2__UnitCostAdjustment__c</Apttus_Config2__FieldName__c>
+                <Apttus_Config2__Flow__c>NGDefaultCarahsoft</Apttus_Config2__Flow__c>
+                <Apttus_Config2__IsEditable__c>true</Apttus_Config2__IsEditable__c>
+                <Apttus_Config2__Sequence__c>5</Apttus_Config2__Sequence__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayColumns__c">
+                <Name>Agreement Price Rule 2 SHvZUl6tyGGH</Name>
+                <CreatedBy.Id>0052D000000gsvpQAA</CreatedBy.Id>
+                <CreatedBy.Name>Jef Benigno</CreatedBy.Name>
+                <CreatedDate>2018-08-30T22:34:31.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T22:34:31.000+0000</LastModifiedDate>
+                <Apttus_Config2__DisplayType__c>Agreement Price Rule</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__FieldName__c>Apttus_Config2__PriceListItemId__c</Apttus_Config2__FieldName__c>
+                <Apttus_Config2__Flow__c>NGDefaultCarahsoft</Apttus_Config2__Flow__c>
+                <Apttus_Config2__IsEditable__c>true</Apttus_Config2__IsEditable__c>
+                <Apttus_Config2__Sequence__c>2</Apttus_Config2__Sequence__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayColumns__c">
+                <Name>Agreement Price Rule 3 nekysfyH5zC8</Name>
+                <CreatedBy.Id>0052D000000gsvpQAA</CreatedBy.Id>
+                <CreatedBy.Name>Jef Benigno</CreatedBy.Name>
+                <CreatedDate>2018-08-30T22:34:31.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T22:34:31.000+0000</LastModifiedDate>
+                <Apttus_Config2__DisplayType__c>Agreement Price Rule</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__FieldName__c>Apttus_Config2__ProductId__c</Apttus_Config2__FieldName__c>
+                <Apttus_Config2__Flow__c>NGDefaultCarahsoft</Apttus_Config2__Flow__c>
+                <Apttus_Config2__Sequence__c>3</Apttus_Config2__Sequence__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayColumns__c">
+                <Name>Agreement Price Rule 4 kHlwtPwsEyHt</Name>
+                <CreatedBy.Id>0052D000000gsvpQAA</CreatedBy.Id>
+                <CreatedBy.Name>Jef Benigno</CreatedBy.Name>
+                <CreatedDate>2018-08-30T22:34:31.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T22:34:31.000+0000</LastModifiedDate>
+                <Apttus_Config2__DisplayType__c>Agreement Price Rule</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__FieldName__c>Apttus_Config2__BundleProductId__c</Apttus_Config2__FieldName__c>
+                <Apttus_Config2__Flow__c>NGDefaultCarahsoft</Apttus_Config2__Flow__c>
+                <Apttus_Config2__Sequence__c>4</Apttus_Config2__Sequence__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayColumns__c">
+                <Name>Line Item Waterfall 1 nJ5uglHbiVYP</Name>
+                <CreatedBy.Id>0052D000000gsvpQAA</CreatedBy.Id>
+                <CreatedBy.Name>Jef Benigno</CreatedBy.Name>
+                <CreatedDate>2018-08-30T22:34:32.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T22:34:32.000+0000</LastModifiedDate>
+                <Apttus_Config2__DisplayType__c>Line Item Waterfall</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__FieldName__c>Apttus_Config2__ListPrice__c</Apttus_Config2__FieldName__c>
+                <Apttus_Config2__Flow__c>NGDefaultCarahsoft</Apttus_Config2__Flow__c>
+                <Apttus_Config2__IsEditable__c>true</Apttus_Config2__IsEditable__c>
+                <Apttus_Config2__Sequence__c>1</Apttus_Config2__Sequence__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayColumns__c">
+                <Name>Agreement Price Rule 5 YWrJg2MLM1L7</Name>
+                <CreatedBy.Id>0052D000000gsvpQAA</CreatedBy.Id>
+                <CreatedBy.Name>Jef Benigno</CreatedBy.Name>
+                <CreatedDate>2018-08-30T22:34:31.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T22:34:31.000+0000</LastModifiedDate>
+                <Apttus_Config2__DisplayType__c>Agreement Price Rule</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__FieldName__c>Apttus_Config2__ChargeType__c</Apttus_Config2__FieldName__c>
+                <Apttus_Config2__Flow__c>NGDefaultCarahsoft</Apttus_Config2__Flow__c>
+                <Apttus_Config2__Sequence__c>5</Apttus_Config2__Sequence__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayColumns__c">
+                <Name>Agreement Price Tier 1 rz4sQoRHTQEg</Name>
+                <CreatedBy.Id>0052D000000gsvpQAA</CreatedBy.Id>
+                <CreatedBy.Name>Jef Benigno</CreatedBy.Name>
+                <CreatedDate>2018-08-30T22:34:32.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T22:34:32.000+0000</LastModifiedDate>
+                <Apttus_Config2__DisplayType__c>Agreement Price Tier</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__FieldName__c>Apttus_Config2__Sequence__c</Apttus_Config2__FieldName__c>
+                <Apttus_Config2__Flow__c>NGDefaultCarahsoft</Apttus_Config2__Flow__c>
+                <Apttus_Config2__Sequence__c>1</Apttus_Config2__Sequence__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayColumns__c">
+                <Name>Agreement Price Tier 2 dFH5xeFTKrdk</Name>
+                <CreatedBy.Id>0052D000000gsvpQAA</CreatedBy.Id>
+                <CreatedBy.Name>Jef Benigno</CreatedBy.Name>
+                <CreatedDate>2018-08-30T22:34:32.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T22:34:32.000+0000</LastModifiedDate>
+                <Apttus_Config2__DisplayType__c>Agreement Price Tier</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__FieldName__c>Apttus_Config2__TierStartValue__c</Apttus_Config2__FieldName__c>
+                <Apttus_Config2__Flow__c>NGDefaultCarahsoft</Apttus_Config2__Flow__c>
+                <Apttus_Config2__IsEditable__c>true</Apttus_Config2__IsEditable__c>
+                <Apttus_Config2__Sequence__c>2</Apttus_Config2__Sequence__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayColumns__c">
+                <Name>Line Item Metrics 4 wBPylGQ85wfv</Name>
+                <CreatedBy.Id>0052D000000gsvpQAA</CreatedBy.Id>
+                <CreatedBy.Name>Jef Benigno</CreatedBy.Name>
+                <CreatedDate>2018-08-30T22:34:32.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T22:34:32.000+0000</LastModifiedDate>
+                <Apttus_Config2__DisplayType__c>Line Item Metrics</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__FieldName__c>Apttus_Config2__Guidance__c</Apttus_Config2__FieldName__c>
+                <Apttus_Config2__Flow__c>NGDefaultCarahsoft</Apttus_Config2__Flow__c>
+                <Apttus_Config2__Sequence__c>4</Apttus_Config2__Sequence__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayColumns__c">
+                <Name>Line Item Waterfall 6 Ymvxm9GlNBH4</Name>
+                <CreatedBy.Id>0052D000000gsvpQAA</CreatedBy.Id>
+                <CreatedBy.Name>Jef Benigno</CreatedBy.Name>
+                <CreatedDate>2018-08-30T22:34:32.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T22:34:32.000+0000</LastModifiedDate>
+                <Apttus_Config2__DisplayType__c>Line Item Waterfall</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__FieldName__c>Apttus_Config2__UnitPriceAdjustmentAuto__c</Apttus_Config2__FieldName__c>
+                <Apttus_Config2__Flow__c>NGDefaultCarahsoft</Apttus_Config2__Flow__c>
+                <Apttus_Config2__IsEditable__c>true</Apttus_Config2__IsEditable__c>
+                <Apttus_Config2__Sequence__c>6</Apttus_Config2__Sequence__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayColumns__c">
+                <Name>Line Item Waterfall 7 d8U5HfsJwUdN</Name>
+                <CreatedBy.Id>0052D000000gsvpQAA</CreatedBy.Id>
+                <CreatedBy.Name>Jef Benigno</CreatedBy.Name>
+                <CreatedDate>2018-08-30T22:34:32.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T22:34:32.000+0000</LastModifiedDate>
+                <Apttus_Config2__DisplayType__c>Line Item Waterfall</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__FieldName__c>Apttus_Config2__UnitPriceAdjustmentManual__c</Apttus_Config2__FieldName__c>
+                <Apttus_Config2__Flow__c>NGDefaultCarahsoft</Apttus_Config2__Flow__c>
+                <Apttus_Config2__IsEditable__c>true</Apttus_Config2__IsEditable__c>
+                <Apttus_Config2__Sequence__c>7</Apttus_Config2__Sequence__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayColumns__c">
+                <Name>Summary Metrics 1 stAZkSssVzjz</Name>
+                <CreatedBy.Id>0052D000000gsvpQAA</CreatedBy.Id>
+                <CreatedBy.Name>Jef Benigno</CreatedBy.Name>
+                <CreatedDate>2018-08-30T22:34:32.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T22:34:32.000+0000</LastModifiedDate>
+                <Apttus_Config2__DisplayType__c>Summary Metrics</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__FieldName__c>Apttus_Config2__NetAdjustmentPercent__c</Apttus_Config2__FieldName__c>
+                <Apttus_Config2__Flow__c>NGDefaultCarahsoft</Apttus_Config2__Flow__c>
+                <Apttus_Config2__Sequence__c>1</Apttus_Config2__Sequence__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayColumns__c">
+                <Name>Agreement Price Tier 3 UJJdEKQkTSQA</Name>
+                <CreatedBy.Id>0052D000000gsvpQAA</CreatedBy.Id>
+                <CreatedBy.Name>Jef Benigno</CreatedBy.Name>
+                <CreatedDate>2018-08-30T22:34:32.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T22:34:32.000+0000</LastModifiedDate>
+                <Apttus_Config2__DisplayType__c>Agreement Price Tier</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__FieldName__c>Apttus_Config2__TierEndValue__c</Apttus_Config2__FieldName__c>
+                <Apttus_Config2__Flow__c>NGDefaultCarahsoft</Apttus_Config2__Flow__c>
+                <Apttus_Config2__IsEditable__c>true</Apttus_Config2__IsEditable__c>
+                <Apttus_Config2__Sequence__c>3</Apttus_Config2__Sequence__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayColumns__c">
+                <Name>Agreement Price Tier 4 krucPuzFTZc6</Name>
+                <CreatedBy.Id>0052D000000gsvpQAA</CreatedBy.Id>
+                <CreatedBy.Name>Jef Benigno</CreatedBy.Name>
+                <CreatedDate>2018-08-30T22:34:32.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T22:34:32.000+0000</LastModifiedDate>
+                <Apttus_Config2__DisplayType__c>Agreement Price Tier</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__FieldName__c>Apttus_Config2__PeriodStartDate__c</Apttus_Config2__FieldName__c>
+                <Apttus_Config2__Flow__c>NGDefaultCarahsoft</Apttus_Config2__Flow__c>
+                <Apttus_Config2__IsEditable__c>true</Apttus_Config2__IsEditable__c>
+                <Apttus_Config2__Sequence__c>4</Apttus_Config2__Sequence__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayColumns__c">
+                <Name>Agreement Price Tier 5 3JkcTQzQ8RhF</Name>
+                <CreatedBy.Id>0052D000000gsvpQAA</CreatedBy.Id>
+                <CreatedBy.Name>Jef Benigno</CreatedBy.Name>
+                <CreatedDate>2018-08-30T22:34:32.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T22:34:32.000+0000</LastModifiedDate>
+                <Apttus_Config2__DisplayType__c>Agreement Price Tier</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__FieldName__c>Apttus_Config2__PeriodEndDate__c</Apttus_Config2__FieldName__c>
+                <Apttus_Config2__Flow__c>NGDefaultCarahsoft</Apttus_Config2__Flow__c>
+                <Apttus_Config2__IsEditable__c>true</Apttus_Config2__IsEditable__c>
+                <Apttus_Config2__Sequence__c>5</Apttus_Config2__Sequence__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayColumns__c">
+                <Name>Agreement Price Tier 6 Wd7ONcFiEB98</Name>
+                <CreatedBy.Id>0052D000000gsvpQAA</CreatedBy.Id>
+                <CreatedBy.Name>Jef Benigno</CreatedBy.Name>
+                <CreatedDate>2018-08-30T22:34:32.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T22:34:32.000+0000</LastModifiedDate>
+                <Apttus_Config2__DisplayType__c>Agreement Price Tier</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__FieldName__c>Apttus_Config2__TierRate__c</Apttus_Config2__FieldName__c>
+                <Apttus_Config2__Flow__c>NGDefaultCarahsoft</Apttus_Config2__Flow__c>
+                <Apttus_Config2__IsEditable__c>true</Apttus_Config2__IsEditable__c>
+                <Apttus_Config2__Sequence__c>6</Apttus_Config2__Sequence__c>
+                <Apttus_Config2__StyleClass__c>aptCurrency</Apttus_Config2__StyleClass__c>
+                <Apttus_Config2__Style__c>text-align:right</Apttus_Config2__Style__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayColumns__c">
+                <Name>Summary Metrics 2 B89JrZ5eOpzT</Name>
+                <CreatedBy.Id>0052D000000gsvpQAA</CreatedBy.Id>
+                <CreatedBy.Name>Jef Benigno</CreatedBy.Name>
+                <CreatedDate>2018-08-30T22:34:32.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T22:34:32.000+0000</LastModifiedDate>
+                <Apttus_Config2__DisplayType__c>Summary Metrics</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__FieldName__c>Apttus_Config2__NetPrice__c</Apttus_Config2__FieldName__c>
+                <Apttus_Config2__Flow__c>NGDefaultCarahsoft</Apttus_Config2__Flow__c>
+                <Apttus_Config2__Sequence__c>2</Apttus_Config2__Sequence__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayColumns__c">
+                <Name>Agreement Price Tier 7 ppycQjhDylwm</Name>
+                <CreatedBy.Id>0052D000000gsvpQAA</CreatedBy.Id>
+                <CreatedBy.Name>Jef Benigno</CreatedBy.Name>
+                <CreatedDate>2018-08-30T22:34:32.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T22:34:32.000+0000</LastModifiedDate>
+                <Apttus_Config2__DisplayType__c>Agreement Price Tier</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__FieldName__c>Apttus_Config2__FlatPrice__c</Apttus_Config2__FieldName__c>
+                <Apttus_Config2__Flow__c>NGDefaultCarahsoft</Apttus_Config2__Flow__c>
+                <Apttus_Config2__IsEditable__c>true</Apttus_Config2__IsEditable__c>
+                <Apttus_Config2__Sequence__c>7</Apttus_Config2__Sequence__c>
+                <Apttus_Config2__StyleClass__c>aptCurrency</Apttus_Config2__StyleClass__c>
+                <Apttus_Config2__Style__c>text-align:right</Apttus_Config2__Style__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayColumns__c">
+                <Name>Agreement Price Tier 8 OJytmx6R2u9g</Name>
+                <CreatedBy.Id>0052D000000gsvpQAA</CreatedBy.Id>
+                <CreatedBy.Name>Jef Benigno</CreatedBy.Name>
+                <CreatedDate>2018-08-30T22:34:32.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T22:34:32.000+0000</LastModifiedDate>
+                <Apttus_Config2__DisplayType__c>Agreement Price Tier</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__FieldName__c>Apttus_Config2__AdjustmentType__c</Apttus_Config2__FieldName__c>
+                <Apttus_Config2__Flow__c>NGDefaultCarahsoft</Apttus_Config2__Flow__c>
+                <Apttus_Config2__IsEditable__c>true</Apttus_Config2__IsEditable__c>
+                <Apttus_Config2__Sequence__c>8</Apttus_Config2__Sequence__c>
+                <Apttus_Config2__StyleClass__c>aptAdjustmentType</Apttus_Config2__StyleClass__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayColumns__c">
+                <Name>Summary Waterfall 3 I8TKVDETO8CB</Name>
+                <CreatedBy.Id>0052D000000gsvpQAA</CreatedBy.Id>
+                <CreatedBy.Name>Jef Benigno</CreatedBy.Name>
+                <CreatedDate>2018-08-30T22:34:32.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T22:34:32.000+0000</LastModifiedDate>
+                <Apttus_Config2__DisplayType__c>Summary Waterfall</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__FieldName__c>Apttus_Config2__NetPrice__c</Apttus_Config2__FieldName__c>
+                <Apttus_Config2__Flow__c>NGDefaultCarahsoft</Apttus_Config2__Flow__c>
+                <Apttus_Config2__IsEditable__c>true</Apttus_Config2__IsEditable__c>
+                <Apttus_Config2__Sequence__c>3</Apttus_Config2__Sequence__c>
             </sObjects>
             <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayColumns__c">
                 <Name>Related Price 3 R1uk5nUy9D9w</Name>
