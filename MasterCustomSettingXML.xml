@@ -7163,13 +7163,124 @@
                 <Apttus_QPDSign__AutoSelectMultipleRecipients__c>true</Apttus_QPDSign__AutoSelectMultipleRecipients__c>
             </sObjects>
             <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayColumns__c">
-                <Name>Cart Line Item 1 5FqA8E5RQDQI</Name>
-                <CreatedBy.Id>0052D000000iRpAQAU</CreatedBy.Id>
-                <CreatedBy.Name>Shubham Bhatt</CreatedBy.Name>
-                <CreatedDate>2018-08-08T14:06:53.000+0000</CreatedDate>
-                <LastModifiedBy.Id>0052D000000iRpAQAU</LastModifiedBy.Id>
-                <LastModifiedBy.Name>Shubham Bhatt</LastModifiedBy.Name>
-                <LastModifiedDate>2018-08-08T14:06:53.000+0000</LastModifiedDate>
+                <Name>Tiered Price 1 TicNDYtK45w2</Name>
+                <CreatedBy.Id>0052D000000gsvpQAA</CreatedBy.Id>
+                <CreatedBy.Name>Jef Benigno</CreatedBy.Name>
+                <CreatedDate>2018-08-29T22:52:10.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-29T22:52:10.000+0000</LastModifiedDate>
+                <Apttus_Config2__DisplayType__c>Tiered Price</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__FieldName__c>Apttus_Config2__Sequence__c</Apttus_Config2__FieldName__c>
+                <Apttus_Config2__Flow__c>NGDefaultChannel</Apttus_Config2__Flow__c>
+                <Apttus_Config2__IsEditable__c>true</Apttus_Config2__IsEditable__c>
+                <Apttus_Config2__Sequence__c>1</Apttus_Config2__Sequence__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayColumns__c">
+                <Name>Tiered Price 2 pfEfdaZO5VhC</Name>
+                <CreatedBy.Id>0052D000000gsvpQAA</CreatedBy.Id>
+                <CreatedBy.Name>Jef Benigno</CreatedBy.Name>
+                <CreatedDate>2018-08-29T22:52:10.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-29T22:52:10.000+0000</LastModifiedDate>
+                <Apttus_Config2__DisplayType__c>Tiered Price</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__FieldName__c>Apttus_Config2__BreakupType__c</Apttus_Config2__FieldName__c>
+                <Apttus_Config2__Flow__c>NGDefaultChannel</Apttus_Config2__Flow__c>
+                <Apttus_Config2__IsEditable__c>true</Apttus_Config2__IsEditable__c>
+                <Apttus_Config2__Sequence__c>2</Apttus_Config2__Sequence__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayColumns__c">
+                <Name>Tiered Price 3 Zfqzb1Z1TdC8</Name>
+                <CreatedBy.Id>0052D000000gsvpQAA</CreatedBy.Id>
+                <CreatedBy.Name>Jef Benigno</CreatedBy.Name>
+                <CreatedDate>2018-08-29T22:52:10.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-29T22:52:10.000+0000</LastModifiedDate>
+                <Apttus_Config2__DisplayType__c>Tiered Price</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__FieldName__c>Apttus_Config2__TierStartValue__c</Apttus_Config2__FieldName__c>
+                <Apttus_Config2__Flow__c>NGDefaultChannel</Apttus_Config2__Flow__c>
+                <Apttus_Config2__IsEditable__c>true</Apttus_Config2__IsEditable__c>
+                <Apttus_Config2__Sequence__c>3</Apttus_Config2__Sequence__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayColumns__c">
+                <Name>Tiered Price 4 4fqzLZL6Qmpt</Name>
+                <CreatedBy.Id>0052D000000gsvpQAA</CreatedBy.Id>
+                <CreatedBy.Name>Jef Benigno</CreatedBy.Name>
+                <CreatedDate>2018-08-29T22:52:10.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-29T22:52:10.000+0000</LastModifiedDate>
+                <Apttus_Config2__DisplayType__c>Tiered Price</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__FieldName__c>Apttus_Config2__TierEndValue__c</Apttus_Config2__FieldName__c>
+                <Apttus_Config2__Flow__c>NGDefaultChannel</Apttus_Config2__Flow__c>
+                <Apttus_Config2__IsEditable__c>true</Apttus_Config2__IsEditable__c>
+                <Apttus_Config2__Sequence__c>4</Apttus_Config2__Sequence__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayColumns__c">
+                <Name>Tiered Price 5 MfLGFaBtp7Wn</Name>
+                <CreatedBy.Id>0052D000000gsvpQAA</CreatedBy.Id>
+                <CreatedBy.Name>Jef Benigno</CreatedBy.Name>
+                <CreatedDate>2018-08-29T22:52:10.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-29T22:52:10.000+0000</LastModifiedDate>
+                <Apttus_Config2__DisplayType__c>Tiered Price</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__FieldName__c>Apttus_Config2__TierQuantity__c</Apttus_Config2__FieldName__c>
+                <Apttus_Config2__Flow__c>NGDefaultChannel</Apttus_Config2__Flow__c>
+                <Apttus_Config2__IsEditable__c>true</Apttus_Config2__IsEditable__c>
+                <Apttus_Config2__Sequence__c>5</Apttus_Config2__Sequence__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayColumns__c">
+                <Name>Tiered Price 6 ZHKII1oRapOs</Name>
+                <CreatedBy.Id>0052D000000gsvpQAA</CreatedBy.Id>
+                <CreatedBy.Name>Jef Benigno</CreatedBy.Name>
+                <CreatedDate>2018-08-29T22:52:10.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-29T22:52:10.000+0000</LastModifiedDate>
+                <Apttus_Config2__DisplayType__c>Tiered Price</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__FieldName__c>Apttus_Config2__TierBasePrice__c</Apttus_Config2__FieldName__c>
+                <Apttus_Config2__Flow__c>NGDefaultChannel</Apttus_Config2__Flow__c>
+                <Apttus_Config2__Sequence__c>6</Apttus_Config2__Sequence__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayColumns__c">
+                <Name>Tiered Price 7 tKDM8bzFerPt</Name>
+                <CreatedBy.Id>0052D000000gsvpQAA</CreatedBy.Id>
+                <CreatedBy.Name>Jef Benigno</CreatedBy.Name>
+                <CreatedDate>2018-08-29T22:52:10.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-29T22:52:10.000+0000</LastModifiedDate>
+                <Apttus_Config2__DisplayType__c>Tiered Price</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__FieldName__c>Apttus_Config2__TierFlatPrice__c</Apttus_Config2__FieldName__c>
+                <Apttus_Config2__Flow__c>NGDefaultChannel</Apttus_Config2__Flow__c>
+                <Apttus_Config2__IsEditable__c>true</Apttus_Config2__IsEditable__c>
+                <Apttus_Config2__Sequence__c>7</Apttus_Config2__Sequence__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayColumns__c">
+                <Name>Tiered Price 8 qhRsmXbMXm9A</Name>
+                <CreatedBy.Id>0052D000000gsvpQAA</CreatedBy.Id>
+                <CreatedBy.Name>Jef Benigno</CreatedBy.Name>
+                <CreatedDate>2018-08-29T22:52:10.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-29T22:52:10.000+0000</LastModifiedDate>
+                <Apttus_Config2__DisplayType__c>Tiered Price</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__FieldName__c>Apttus_Config2__TierExtendedPrice__c</Apttus_Config2__FieldName__c>
+                <Apttus_Config2__Flow__c>NGDefaultChannel</Apttus_Config2__Flow__c>
+                <Apttus_Config2__IsEditable__c>true</Apttus_Config2__IsEditable__c>
+                <Apttus_Config2__Sequence__c>8</Apttus_Config2__Sequence__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayColumns__c">
+                <Name>Cart Line Item 1 jaV3XXTrnK1H</Name>
+                <CreatedBy.Id>0052D000000gsvpQAA</CreatedBy.Id>
+                <CreatedBy.Name>Jef Benigno</CreatedBy.Name>
+                <CreatedDate>2018-08-29T22:49:23.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-29T22:49:23.000+0000</LastModifiedDate>
                 <Apttus_Config2__DisplayType__c>Cart Line Item</Apttus_Config2__DisplayType__c>
                 <Apttus_Config2__FieldName__c>Apttus_Config2__ProductId__c</Apttus_Config2__FieldName__c>
                 <Apttus_Config2__Flow__c>NGDefaultChannel</Apttus_Config2__Flow__c>
@@ -7177,13 +7288,13 @@
                 <Apttus_Config2__Sequence__c>1</Apttus_Config2__Sequence__c>
             </sObjects>
             <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayColumns__c">
-                <Name>Cart Line Item 2 8n8WQwbCSluG</Name>
-                <CreatedBy.Id>0052D000000iRpAQAU</CreatedBy.Id>
-                <CreatedBy.Name>Shubham Bhatt</CreatedBy.Name>
-                <CreatedDate>2018-08-08T14:06:53.000+0000</CreatedDate>
-                <LastModifiedBy.Id>0052D000000iRpAQAU</LastModifiedBy.Id>
-                <LastModifiedBy.Name>Shubham Bhatt</LastModifiedBy.Name>
-                <LastModifiedDate>2018-08-08T14:06:53.000+0000</LastModifiedDate>
+                <Name>Cart Line Item 2 mVebKvT2ORn2</Name>
+                <CreatedBy.Id>0052D000000gsvpQAA</CreatedBy.Id>
+                <CreatedBy.Name>Jef Benigno</CreatedBy.Name>
+                <CreatedDate>2018-08-29T22:49:23.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-29T22:49:23.000+0000</LastModifiedDate>
                 <Apttus_Config2__DisplayType__c>Cart Line Item</Apttus_Config2__DisplayType__c>
                 <Apttus_Config2__FieldName__c>Apttus_Config2__ChargeType__c</Apttus_Config2__FieldName__c>
                 <Apttus_Config2__Flow__c>NGDefaultChannel</Apttus_Config2__Flow__c>
@@ -7191,13 +7302,13 @@
                 <Apttus_Config2__Sequence__c>2</Apttus_Config2__Sequence__c>
             </sObjects>
             <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayColumns__c">
-                <Name>Cart Line Item 3 zOoIkMqF2hXA</Name>
-                <CreatedBy.Id>0052D000000iRpAQAU</CreatedBy.Id>
-                <CreatedBy.Name>Shubham Bhatt</CreatedBy.Name>
-                <CreatedDate>2018-08-08T14:06:53.000+0000</CreatedDate>
-                <LastModifiedBy.Id>0052D000000iRpAQAU</LastModifiedBy.Id>
-                <LastModifiedBy.Name>Shubham Bhatt</LastModifiedBy.Name>
-                <LastModifiedDate>2018-08-08T14:06:53.000+0000</LastModifiedDate>
+                <Name>Cart Line Item 3 ZPbgIbSkxVWH</Name>
+                <CreatedBy.Id>0052D000000gsvpQAA</CreatedBy.Id>
+                <CreatedBy.Name>Jef Benigno</CreatedBy.Name>
+                <CreatedDate>2018-08-29T22:49:23.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-29T22:49:23.000+0000</LastModifiedDate>
                 <Apttus_Config2__DisplayType__c>Cart Line Item</Apttus_Config2__DisplayType__c>
                 <Apttus_Config2__FieldName__c>Apttus_Config2__ListPrice__c</Apttus_Config2__FieldName__c>
                 <Apttus_Config2__Flow__c>NGDefaultChannel</Apttus_Config2__Flow__c>
@@ -7206,219 +7317,230 @@
                 <Apttus_Config2__Style__c>text-align:right</Apttus_Config2__Style__c>
             </sObjects>
             <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayColumns__c">
-                <Name>Cart Line Item 4 VMpeSWu6NZ3C</Name>
-                <CreatedBy.Id>0052D000000iRpAQAU</CreatedBy.Id>
-                <CreatedBy.Name>Shubham Bhatt</CreatedBy.Name>
-                <CreatedDate>2018-08-08T14:06:53.000+0000</CreatedDate>
-                <LastModifiedBy.Id>0052D000000iRpAQAU</LastModifiedBy.Id>
-                <LastModifiedBy.Name>Shubham Bhatt</LastModifiedBy.Name>
-                <LastModifiedDate>2018-08-08T14:06:53.000+0000</LastModifiedDate>
+                <Name>Cart Line Item 4 wDCw4LZOahvl</Name>
+                <CreatedBy.Id>0052D000000gsvpQAA</CreatedBy.Id>
+                <CreatedBy.Name>Jef Benigno</CreatedBy.Name>
+                <CreatedDate>2018-08-29T22:49:23.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-29T22:49:23.000+0000</LastModifiedDate>
                 <Apttus_Config2__DisplayType__c>Cart Line Item</Apttus_Config2__DisplayType__c>
-                <Apttus_Config2__FieldName__c>Actual_Base_Price__c</Apttus_Config2__FieldName__c>
+                <Apttus_Config2__FieldName__c>Apttus_Config2__BasePrice__c</Apttus_Config2__FieldName__c>
                 <Apttus_Config2__Flow__c>NGDefaultChannel</Apttus_Config2__Flow__c>
                 <Apttus_Config2__Sequence__c>4</Apttus_Config2__Sequence__c>
-                <Apttus_Config2__StyleClass__c>aptCurrency</Apttus_Config2__StyleClass__c>
-                <Apttus_Config2__Style__c>text-align:right</Apttus_Config2__Style__c>
             </sObjects>
             <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayColumns__c">
-                <Name>Cart Line Item 5 dH1OIQx2HNWB</Name>
-                <CreatedBy.Id>0052D000000iRpAQAU</CreatedBy.Id>
-                <CreatedBy.Name>Shubham Bhatt</CreatedBy.Name>
-                <CreatedDate>2018-08-08T14:06:53.000+0000</CreatedDate>
-                <LastModifiedBy.Id>0052D000000iRpAQAU</LastModifiedBy.Id>
-                <LastModifiedBy.Name>Shubham Bhatt</LastModifiedBy.Name>
-                <LastModifiedDate>2018-08-08T14:06:53.000+0000</LastModifiedDate>
+                <Name>Cart Line Item 5 M5XiYiItLqHf</Name>
+                <CreatedBy.Id>0052D000000gsvpQAA</CreatedBy.Id>
+                <CreatedBy.Name>Jef Benigno</CreatedBy.Name>
+                <CreatedDate>2018-08-29T22:49:23.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-29T22:49:23.000+0000</LastModifiedDate>
                 <Apttus_Config2__DisplayType__c>Cart Line Item</Apttus_Config2__DisplayType__c>
-                <Apttus_Config2__FieldName__c>Apttus_Config2__Quantity__c</Apttus_Config2__FieldName__c>
+                <Apttus_Config2__FieldName__c>Actual_Base_Price__c</Apttus_Config2__FieldName__c>
                 <Apttus_Config2__Flow__c>NGDefaultChannel</Apttus_Config2__Flow__c>
                 <Apttus_Config2__Sequence__c>5</Apttus_Config2__Sequence__c>
             </sObjects>
             <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayColumns__c">
-                <Name>Cart Line Item 6 VYZpRMUMdYSR</Name>
-                <CreatedBy.Id>0052D000000iRpAQAU</CreatedBy.Id>
-                <CreatedBy.Name>Shubham Bhatt</CreatedBy.Name>
-                <CreatedDate>2018-08-08T14:06:53.000+0000</CreatedDate>
-                <LastModifiedBy.Id>0052D000000iRpAQAU</LastModifiedBy.Id>
-                <LastModifiedBy.Name>Shubham Bhatt</LastModifiedBy.Name>
-                <LastModifiedDate>2018-08-08T14:06:53.000+0000</LastModifiedDate>
+                <Name>Cart Line Item 6 OTeRZdLfU6Ou</Name>
+                <CreatedBy.Id>0052D000000gsvpQAA</CreatedBy.Id>
+                <CreatedBy.Name>Jef Benigno</CreatedBy.Name>
+                <CreatedDate>2018-08-29T22:49:23.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-29T22:49:23.000+0000</LastModifiedDate>
+                <Apttus_Config2__DisplayType__c>Cart Line Item</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__FieldName__c>Apttus_Config2__Quantity__c</Apttus_Config2__FieldName__c>
+                <Apttus_Config2__Flow__c>NGDefaultChannel</Apttus_Config2__Flow__c>
+                <Apttus_Config2__Sequence__c>6</Apttus_Config2__Sequence__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayColumns__c">
+                <Name>Cart Line Item 7 XWZgDXNCtxIJ</Name>
+                <CreatedBy.Id>0052D000000gsvpQAA</CreatedBy.Id>
+                <CreatedBy.Name>Jef Benigno</CreatedBy.Name>
+                <CreatedDate>2018-08-29T22:49:23.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-29T22:49:23.000+0000</LastModifiedDate>
                 <Apttus_Config2__DisplayType__c>Cart Line Item</Apttus_Config2__DisplayType__c>
                 <Apttus_Config2__FieldName__c>Incremental_Quantity__c</Apttus_Config2__FieldName__c>
                 <Apttus_Config2__Flow__c>NGDefaultChannel</Apttus_Config2__Flow__c>
                 <Apttus_Config2__IsEditable__c>true</Apttus_Config2__IsEditable__c>
-                <Apttus_Config2__Sequence__c>6</Apttus_Config2__Sequence__c>
-                <Apttus_Config2__StyleClass__c>aptQuantity</Apttus_Config2__StyleClass__c>
-                <Apttus_Config2__Style__c>text-align:right; width:60px;</Apttus_Config2__Style__c>
-            </sObjects>
-            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayColumns__c">
-                <Name>Cart Line Item 7 3AHqq18jHspO</Name>
-                <CreatedBy.Id>0052D000000iRpAQAU</CreatedBy.Id>
-                <CreatedBy.Name>Shubham Bhatt</CreatedBy.Name>
-                <CreatedDate>2018-08-08T14:06:53.000+0000</CreatedDate>
-                <LastModifiedBy.Id>0052D000000iRpAQAU</LastModifiedBy.Id>
-                <LastModifiedBy.Name>Shubham Bhatt</LastModifiedBy.Name>
-                <LastModifiedDate>2018-08-08T14:06:53.000+0000</LastModifiedDate>
-                <Apttus_Config2__DisplayType__c>Cart Line Item</Apttus_Config2__DisplayType__c>
-                <Apttus_Config2__FieldName__c>Apttus_Config2__SellingTerm__c</Apttus_Config2__FieldName__c>
-                <Apttus_Config2__Flow__c>NGDefaultChannel</Apttus_Config2__Flow__c>
                 <Apttus_Config2__Sequence__c>7</Apttus_Config2__Sequence__c>
                 <Apttus_Config2__StyleClass__c>aptQuantity</Apttus_Config2__StyleClass__c>
                 <Apttus_Config2__Style__c>text-align:right; width:60px;</Apttus_Config2__Style__c>
             </sObjects>
             <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayColumns__c">
-                <Name>Cart Line Item 8 xtdgc3tKIYdn</Name>
-                <CreatedBy.Id>0052D000000iRpAQAU</CreatedBy.Id>
-                <CreatedBy.Name>Shubham Bhatt</CreatedBy.Name>
-                <CreatedDate>2018-08-08T14:06:53.000+0000</CreatedDate>
-                <LastModifiedBy.Id>0052D000000iRpAQAU</LastModifiedBy.Id>
-                <LastModifiedBy.Name>Shubham Bhatt</LastModifiedBy.Name>
-                <LastModifiedDate>2018-08-08T14:06:53.000+0000</LastModifiedDate>
+                <Name>Cart Line Item 8 Cmco1zkY3glY</Name>
+                <CreatedBy.Id>0052D000000gsvpQAA</CreatedBy.Id>
+                <CreatedBy.Name>Jef Benigno</CreatedBy.Name>
+                <CreatedDate>2018-08-29T22:49:23.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-29T22:49:23.000+0000</LastModifiedDate>
+                <Apttus_Config2__DisplayType__c>Cart Line Item</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__FieldName__c>Apttus_Config2__SellingTerm__c</Apttus_Config2__FieldName__c>
+                <Apttus_Config2__Flow__c>NGDefaultChannel</Apttus_Config2__Flow__c>
+                <Apttus_Config2__Sequence__c>8</Apttus_Config2__Sequence__c>
+                <Apttus_Config2__StyleClass__c>aptQuantity</Apttus_Config2__StyleClass__c>
+                <Apttus_Config2__Style__c>text-align:right; width:60px;</Apttus_Config2__Style__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayColumns__c">
+                <Name>Cart Line Item 9 414vQdoj9tfb</Name>
+                <CreatedBy.Id>0052D000000gsvpQAA</CreatedBy.Id>
+                <CreatedBy.Name>Jef Benigno</CreatedBy.Name>
+                <CreatedDate>2018-08-29T22:49:23.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-29T22:49:23.000+0000</LastModifiedDate>
                 <Apttus_Config2__DisplayType__c>Cart Line Item</Apttus_Config2__DisplayType__c>
                 <Apttus_Config2__FieldName__c>Apttus_Config2__AdjustmentType__c</Apttus_Config2__FieldName__c>
                 <Apttus_Config2__Flow__c>NGDefaultChannel</Apttus_Config2__Flow__c>
                 <Apttus_Config2__HeaderStyle__c>width:200px;</Apttus_Config2__HeaderStyle__c>
                 <Apttus_Config2__IsEditable__c>true</Apttus_Config2__IsEditable__c>
-                <Apttus_Config2__Sequence__c>8</Apttus_Config2__Sequence__c>
+                <Apttus_Config2__Sequence__c>9</Apttus_Config2__Sequence__c>
                 <Apttus_Config2__StyleClass__c>aptAdjustmentType</Apttus_Config2__StyleClass__c>
             </sObjects>
             <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayColumns__c">
-                <Name>Cart Line Item 9 L8xW848Exdsz</Name>
-                <CreatedBy.Id>0052D000000iRpAQAU</CreatedBy.Id>
-                <CreatedBy.Name>Shubham Bhatt</CreatedBy.Name>
-                <CreatedDate>2018-08-08T14:06:53.000+0000</CreatedDate>
-                <LastModifiedBy.Id>0052D000000iRpAQAU</LastModifiedBy.Id>
-                <LastModifiedBy.Name>Shubham Bhatt</LastModifiedBy.Name>
-                <LastModifiedDate>2018-08-08T14:06:53.000+0000</LastModifiedDate>
+                <Name>Cart Line Item 10 ae9LAC2gmunj</Name>
+                <CreatedBy.Id>0052D000000gsvpQAA</CreatedBy.Id>
+                <CreatedBy.Name>Jef Benigno</CreatedBy.Name>
+                <CreatedDate>2018-08-29T22:49:23.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-29T22:49:23.000+0000</LastModifiedDate>
                 <Apttus_Config2__DisplayType__c>Cart Line Item</Apttus_Config2__DisplayType__c>
                 <Apttus_Config2__FieldName__c>Increment_Adjustment__c</Apttus_Config2__FieldName__c>
                 <Apttus_Config2__Flow__c>NGDefaultChannel</Apttus_Config2__Flow__c>
                 <Apttus_Config2__IsEditable__c>true</Apttus_Config2__IsEditable__c>
-                <Apttus_Config2__Sequence__c>9</Apttus_Config2__Sequence__c>
-            </sObjects>
-            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayColumns__c">
-                <Name>Cart Line Item 10 SjlVmJRyCvTO</Name>
-                <CreatedBy.Id>0052D000000iRpAQAU</CreatedBy.Id>
-                <CreatedBy.Name>Shubham Bhatt</CreatedBy.Name>
-                <CreatedDate>2018-08-08T14:06:53.000+0000</CreatedDate>
-                <LastModifiedBy.Id>0052D000000iRpAQAU</LastModifiedBy.Id>
-                <LastModifiedBy.Name>Shubham Bhatt</LastModifiedBy.Name>
-                <LastModifiedDate>2018-08-08T14:06:53.000+0000</LastModifiedDate>
-                <Apttus_Config2__DisplayType__c>Cart Line Item</Apttus_Config2__DisplayType__c>
-                <Apttus_Config2__FieldName__c>Blended_Unit_Price__c</Apttus_Config2__FieldName__c>
-                <Apttus_Config2__Flow__c>NGDefaultChannel</Apttus_Config2__Flow__c>
                 <Apttus_Config2__Sequence__c>10</Apttus_Config2__Sequence__c>
             </sObjects>
             <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayColumns__c">
-                <Name>Cart Line Item 11 O5Ug4NNc6pIm</Name>
-                <CreatedBy.Id>0052D000000iRpAQAU</CreatedBy.Id>
-                <CreatedBy.Name>Shubham Bhatt</CreatedBy.Name>
-                <CreatedDate>2018-08-08T14:06:53.000+0000</CreatedDate>
-                <LastModifiedBy.Id>0052D000000iRpAQAU</LastModifiedBy.Id>
-                <LastModifiedBy.Name>Shubham Bhatt</LastModifiedBy.Name>
-                <LastModifiedDate>2018-08-08T14:06:53.000+0000</LastModifiedDate>
+                <Name>Cart Line Item 11 CD33rijCzNj5</Name>
+                <CreatedBy.Id>0052D000000gsvpQAA</CreatedBy.Id>
+                <CreatedBy.Name>Jef Benigno</CreatedBy.Name>
+                <CreatedDate>2018-08-29T22:49:23.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-29T22:49:23.000+0000</LastModifiedDate>
+                <Apttus_Config2__DisplayType__c>Cart Line Item</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__FieldName__c>Blended_Unit_Price__c</Apttus_Config2__FieldName__c>
+                <Apttus_Config2__Flow__c>NGDefaultChannel</Apttus_Config2__Flow__c>
+                <Apttus_Config2__Sequence__c>11</Apttus_Config2__Sequence__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayColumns__c">
+                <Name>Cart Line Item 12 GHDobQn98vpu</Name>
+                <CreatedBy.Id>0052D000000gsvpQAA</CreatedBy.Id>
+                <CreatedBy.Name>Jef Benigno</CreatedBy.Name>
+                <CreatedDate>2018-08-29T22:49:23.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-29T22:49:23.000+0000</LastModifiedDate>
                 <Apttus_Config2__DisplayType__c>Cart Line Item</Apttus_Config2__DisplayType__c>
                 <Apttus_Config2__FieldName__c>Amount_Per_payment_Frequency__c</Apttus_Config2__FieldName__c>
                 <Apttus_Config2__Flow__c>NGDefaultChannel</Apttus_Config2__Flow__c>
                 <Apttus_Config2__HeaderStyle__c>width:250px;</Apttus_Config2__HeaderStyle__c>
-                <Apttus_Config2__Sequence__c>11</Apttus_Config2__Sequence__c>
+                <Apttus_Config2__Sequence__c>12</Apttus_Config2__Sequence__c>
             </sObjects>
             <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayColumns__c">
-                <Name>Cart Line Item 12 5wpFUDDNnQsw</Name>
-                <CreatedBy.Id>0052D000000iRpAQAU</CreatedBy.Id>
-                <CreatedBy.Name>Shubham Bhatt</CreatedBy.Name>
-                <CreatedDate>2018-08-08T14:06:53.000+0000</CreatedDate>
-                <LastModifiedBy.Id>0052D000000iRpAQAU</LastModifiedBy.Id>
-                <LastModifiedBy.Name>Shubham Bhatt</LastModifiedBy.Name>
-                <LastModifiedDate>2018-08-08T14:06:53.000+0000</LastModifiedDate>
+                <Name>Cart Line Item 13 8r558fg3S5Ug</Name>
+                <CreatedBy.Id>0052D000000gsvpQAA</CreatedBy.Id>
+                <CreatedBy.Name>Jef Benigno</CreatedBy.Name>
+                <CreatedDate>2018-08-29T22:49:23.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-29T22:49:23.000+0000</LastModifiedDate>
                 <Apttus_Config2__DisplayType__c>Cart Line Item</Apttus_Config2__DisplayType__c>
                 <Apttus_Config2__FieldName__c>Incremental_Net_Price__c</Apttus_Config2__FieldName__c>
                 <Apttus_Config2__Flow__c>NGDefaultChannel</Apttus_Config2__Flow__c>
                 <Apttus_Config2__HeaderStyle__c>width:250px;</Apttus_Config2__HeaderStyle__c>
-                <Apttus_Config2__Sequence__c>12</Apttus_Config2__Sequence__c>
+                <Apttus_Config2__Sequence__c>13</Apttus_Config2__Sequence__c>
                 <Apttus_Config2__StyleClass__c>aptCurrency</Apttus_Config2__StyleClass__c>
                 <Apttus_Config2__Style__c>text-align:right</Apttus_Config2__Style__c>
             </sObjects>
             <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayColumns__c">
-                <Name>Cart Line Item 13 Pvp6ET3mRLOc</Name>
-                <CreatedBy.Id>0052D000000iRpAQAU</CreatedBy.Id>
-                <CreatedBy.Name>Shubham Bhatt</CreatedBy.Name>
-                <CreatedDate>2018-08-08T14:06:53.000+0000</CreatedDate>
-                <LastModifiedBy.Id>0052D000000iRpAQAU</LastModifiedBy.Id>
-                <LastModifiedBy.Name>Shubham Bhatt</LastModifiedBy.Name>
-                <LastModifiedDate>2018-08-08T14:06:53.000+0000</LastModifiedDate>
+                <Name>Cart Line Item 14 T8cvFzRwpImD</Name>
+                <CreatedBy.Id>0052D000000gsvpQAA</CreatedBy.Id>
+                <CreatedBy.Name>Jef Benigno</CreatedBy.Name>
+                <CreatedDate>2018-08-29T22:49:23.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-29T22:49:23.000+0000</LastModifiedDate>
                 <Apttus_Config2__DisplayType__c>Cart Line Item</Apttus_Config2__DisplayType__c>
                 <Apttus_Config2__FieldName__c>Partner_Gross_Price__c</Apttus_Config2__FieldName__c>
                 <Apttus_Config2__Flow__c>NGDefaultChannel</Apttus_Config2__Flow__c>
                 <Apttus_Config2__HeaderStyle__c>width:250px;</Apttus_Config2__HeaderStyle__c>
                 <Apttus_Config2__IsEditable__c>true</Apttus_Config2__IsEditable__c>
-                <Apttus_Config2__Sequence__c>13</Apttus_Config2__Sequence__c>
-            </sObjects>
-            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayColumns__c">
-                <Name>Cart Line Item 14 zGkeLEjY3Jh2</Name>
-                <CreatedBy.Id>0052D000000iRpAQAU</CreatedBy.Id>
-                <CreatedBy.Name>Shubham Bhatt</CreatedBy.Name>
-                <CreatedDate>2018-08-08T14:06:53.000+0000</CreatedDate>
-                <LastModifiedBy.Id>0052D000000iRpAQAU</LastModifiedBy.Id>
-                <LastModifiedBy.Name>Shubham Bhatt</LastModifiedBy.Name>
-                <LastModifiedDate>2018-08-08T14:06:53.000+0000</LastModifiedDate>
-                <Apttus_Config2__DisplayType__c>Cart Line Item</Apttus_Config2__DisplayType__c>
-                <Apttus_Config2__FieldName__c>Delta_Gross_Price__c</Apttus_Config2__FieldName__c>
-                <Apttus_Config2__Flow__c>NGDefaultChannel</Apttus_Config2__Flow__c>
-                <Apttus_Config2__HeaderStyle__c>width:250px;</Apttus_Config2__HeaderStyle__c>
                 <Apttus_Config2__Sequence__c>14</Apttus_Config2__Sequence__c>
             </sObjects>
             <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayColumns__c">
-                <Name>Cart Line Item 15 97UbuPsVxU3R</Name>
-                <CreatedBy.Id>0052D000000iRpAQAU</CreatedBy.Id>
-                <CreatedBy.Name>Shubham Bhatt</CreatedBy.Name>
-                <CreatedDate>2018-08-08T14:06:53.000+0000</CreatedDate>
-                <LastModifiedBy.Id>0052D000000iRpAQAU</LastModifiedBy.Id>
-                <LastModifiedBy.Name>Shubham Bhatt</LastModifiedBy.Name>
-                <LastModifiedDate>2018-08-08T14:06:53.000+0000</LastModifiedDate>
+                <Name>Cart Line Item 15 R21oYbkeMqYT</Name>
+                <CreatedBy.Id>0052D000000gsvpQAA</CreatedBy.Id>
+                <CreatedBy.Name>Jef Benigno</CreatedBy.Name>
+                <CreatedDate>2018-08-29T22:49:23.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-29T22:49:23.000+0000</LastModifiedDate>
                 <Apttus_Config2__DisplayType__c>Cart Line Item</Apttus_Config2__DisplayType__c>
-                <Apttus_Config2__FieldName__c>Total_Gross_Price__c</Apttus_Config2__FieldName__c>
+                <Apttus_Config2__FieldName__c>Delta_Gross_Price__c</Apttus_Config2__FieldName__c>
                 <Apttus_Config2__Flow__c>NGDefaultChannel</Apttus_Config2__Flow__c>
                 <Apttus_Config2__HeaderStyle__c>width:250px;</Apttus_Config2__HeaderStyle__c>
                 <Apttus_Config2__Sequence__c>15</Apttus_Config2__Sequence__c>
             </sObjects>
             <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayColumns__c">
-                <Name>Cart Line Item 16 SZq9YrRqklxi</Name>
-                <CreatedBy.Id>0052D000000iRpAQAU</CreatedBy.Id>
-                <CreatedBy.Name>Shubham Bhatt</CreatedBy.Name>
-                <CreatedDate>2018-08-08T14:06:53.000+0000</CreatedDate>
-                <LastModifiedBy.Id>0052D000000iRpAQAU</LastModifiedBy.Id>
-                <LastModifiedBy.Name>Shubham Bhatt</LastModifiedBy.Name>
-                <LastModifiedDate>2018-08-08T14:06:53.000+0000</LastModifiedDate>
+                <Name>Cart Line Item 16 CL2OsABS3Sa4</Name>
+                <CreatedBy.Id>0052D000000gsvpQAA</CreatedBy.Id>
+                <CreatedBy.Name>Jef Benigno</CreatedBy.Name>
+                <CreatedDate>2018-08-29T22:49:23.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-29T22:49:23.000+0000</LastModifiedDate>
                 <Apttus_Config2__DisplayType__c>Cart Line Item</Apttus_Config2__DisplayType__c>
-                <Apttus_Config2__FieldName__c>Calculated_Estimated_Gross_Price__c</Apttus_Config2__FieldName__c>
+                <Apttus_Config2__FieldName__c>Total_Gross_Price__c</Apttus_Config2__FieldName__c>
                 <Apttus_Config2__Flow__c>NGDefaultChannel</Apttus_Config2__Flow__c>
                 <Apttus_Config2__HeaderStyle__c>width:250px;</Apttus_Config2__HeaderStyle__c>
                 <Apttus_Config2__Sequence__c>16</Apttus_Config2__Sequence__c>
             </sObjects>
             <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayColumns__c">
-                <Name>Cart Line Item 17 FJWmDeQTrCcX</Name>
-                <CreatedBy.Id>0052D000000iRpAQAU</CreatedBy.Id>
-                <CreatedBy.Name>Shubham Bhatt</CreatedBy.Name>
-                <CreatedDate>2018-08-08T14:06:53.000+0000</CreatedDate>
-                <LastModifiedBy.Id>0052D000000iRpAQAU</LastModifiedBy.Id>
-                <LastModifiedBy.Name>Shubham Bhatt</LastModifiedBy.Name>
-                <LastModifiedDate>2018-08-08T14:06:53.000+0000</LastModifiedDate>
+                <Name>Cart Line Item 17 LUVDewrCIpdo</Name>
+                <CreatedBy.Id>0052D000000gsvpQAA</CreatedBy.Id>
+                <CreatedBy.Name>Jef Benigno</CreatedBy.Name>
+                <CreatedDate>2018-08-29T22:49:23.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-29T22:49:23.000+0000</LastModifiedDate>
                 <Apttus_Config2__DisplayType__c>Cart Line Item</Apttus_Config2__DisplayType__c>
-                <Apttus_Config2__FieldName__c>Gross_ARR_NRR__c</Apttus_Config2__FieldName__c>
+                <Apttus_Config2__FieldName__c>Calculated_Estimated_Gross_Price__c</Apttus_Config2__FieldName__c>
                 <Apttus_Config2__Flow__c>NGDefaultChannel</Apttus_Config2__Flow__c>
+                <Apttus_Config2__HeaderStyle__c>width:250px;</Apttus_Config2__HeaderStyle__c>
                 <Apttus_Config2__Sequence__c>17</Apttus_Config2__Sequence__c>
             </sObjects>
             <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayColumns__c">
-                <Name>Cart Line Item 18 FKzlb5rJCNRs</Name>
-                <CreatedBy.Id>0052D000000iRpAQAU</CreatedBy.Id>
-                <CreatedBy.Name>Shubham Bhatt</CreatedBy.Name>
-                <CreatedDate>2018-08-08T14:06:53.000+0000</CreatedDate>
-                <LastModifiedBy.Id>0052D000000iRpAQAU</LastModifiedBy.Id>
-                <LastModifiedBy.Name>Shubham Bhatt</LastModifiedBy.Name>
-                <LastModifiedDate>2018-08-08T14:06:53.000+0000</LastModifiedDate>
+                <Name>Cart Line Item 18 BjN56MBzwjju</Name>
+                <CreatedBy.Id>0052D000000gsvpQAA</CreatedBy.Id>
+                <CreatedBy.Name>Jef Benigno</CreatedBy.Name>
+                <CreatedDate>2018-08-29T22:49:23.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-29T22:49:23.000+0000</LastModifiedDate>
+                <Apttus_Config2__DisplayType__c>Cart Line Item</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__FieldName__c>Gross_ARR_NRR__c</Apttus_Config2__FieldName__c>
+                <Apttus_Config2__Flow__c>NGDefaultChannel</Apttus_Config2__Flow__c>
+                <Apttus_Config2__Sequence__c>18</Apttus_Config2__Sequence__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayColumns__c">
+                <Name>Cart Line Item 19 1nge4DtAG93T</Name>
+                <CreatedBy.Id>0052D000000gsvpQAA</CreatedBy.Id>
+                <CreatedBy.Name>Jef Benigno</CreatedBy.Name>
+                <CreatedDate>2018-08-29T22:49:23.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D000000gsvpQAA</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Jef Benigno</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-29T22:49:23.000+0000</LastModifiedDate>
                 <Apttus_Config2__DisplayType__c>Cart Line Item</Apttus_Config2__DisplayType__c>
                 <Apttus_Config2__FieldName__c>Incremental_ARR_NRR__c</Apttus_Config2__FieldName__c>
                 <Apttus_Config2__Flow__c>NGDefaultChannel</Apttus_Config2__Flow__c>
-                <Apttus_Config2__Sequence__c>18</Apttus_Config2__Sequence__c>
+                <Apttus_Config2__Sequence__c>19</Apttus_Config2__Sequence__c>
             </sObjects>
             <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayColumns__c">
                 <Name>Related Price 3 R1uk5nUy9D9w</Name>
@@ -11962,76 +12084,6 @@
                 <Apttus_Config2__Sequence__c>8</Apttus_Config2__Sequence__c>
             </sObjects>
             <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayColumns__c">
-                <Name>Tiered Price 1 cOuWVn6FZm9W</Name>
-                <CreatedBy.Id>0052D000000i0phQAA</CreatedBy.Id>
-                <CreatedBy.Name>Mitul Patel</CreatedBy.Name>
-                <CreatedDate>2018-06-23T10:30:07.000+0000</CreatedDate>
-                <LastModifiedBy.Id>0052D000000i0phQAA</LastModifiedBy.Id>
-                <LastModifiedBy.Name>Mitul Patel</LastModifiedBy.Name>
-                <LastModifiedDate>2018-06-23T10:30:07.000+0000</LastModifiedDate>
-                <Apttus_Config2__DisplayType__c>Tiered Price</Apttus_Config2__DisplayType__c>
-                <Apttus_Config2__FieldName__c>Apttus_Config2__Sequence__c</Apttus_Config2__FieldName__c>
-                <Apttus_Config2__Flow__c>NGDefaultChannel</Apttus_Config2__Flow__c>
-                <Apttus_Config2__IsEditable__c>true</Apttus_Config2__IsEditable__c>
-                <Apttus_Config2__Sequence__c>1</Apttus_Config2__Sequence__c>
-            </sObjects>
-            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayColumns__c">
-                <Name>Tiered Price 2 g3LqVa8YUamU</Name>
-                <CreatedBy.Id>0052D000000i0phQAA</CreatedBy.Id>
-                <CreatedBy.Name>Mitul Patel</CreatedBy.Name>
-                <CreatedDate>2018-06-23T10:30:07.000+0000</CreatedDate>
-                <LastModifiedBy.Id>0052D000000i0phQAA</LastModifiedBy.Id>
-                <LastModifiedBy.Name>Mitul Patel</LastModifiedBy.Name>
-                <LastModifiedDate>2018-06-23T10:30:07.000+0000</LastModifiedDate>
-                <Apttus_Config2__DisplayType__c>Tiered Price</Apttus_Config2__DisplayType__c>
-                <Apttus_Config2__FieldName__c>Apttus_Config2__BreakupType__c</Apttus_Config2__FieldName__c>
-                <Apttus_Config2__Flow__c>NGDefaultChannel</Apttus_Config2__Flow__c>
-                <Apttus_Config2__IsEditable__c>true</Apttus_Config2__IsEditable__c>
-                <Apttus_Config2__Sequence__c>2</Apttus_Config2__Sequence__c>
-            </sObjects>
-            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayColumns__c">
-                <Name>Tiered Price 3 SZfGZZjNc3mn</Name>
-                <CreatedBy.Id>0052D000000i0phQAA</CreatedBy.Id>
-                <CreatedBy.Name>Mitul Patel</CreatedBy.Name>
-                <CreatedDate>2018-06-23T10:30:07.000+0000</CreatedDate>
-                <LastModifiedBy.Id>0052D000000i0phQAA</LastModifiedBy.Id>
-                <LastModifiedBy.Name>Mitul Patel</LastModifiedBy.Name>
-                <LastModifiedDate>2018-06-23T10:30:07.000+0000</LastModifiedDate>
-                <Apttus_Config2__DisplayType__c>Tiered Price</Apttus_Config2__DisplayType__c>
-                <Apttus_Config2__FieldName__c>Apttus_Config2__TierStartValue__c</Apttus_Config2__FieldName__c>
-                <Apttus_Config2__Flow__c>NGDefaultChannel</Apttus_Config2__Flow__c>
-                <Apttus_Config2__IsEditable__c>true</Apttus_Config2__IsEditable__c>
-                <Apttus_Config2__Sequence__c>3</Apttus_Config2__Sequence__c>
-            </sObjects>
-            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayColumns__c">
-                <Name>Tiered Price 4 3ugX7P2WqNtw</Name>
-                <CreatedBy.Id>0052D000000i0phQAA</CreatedBy.Id>
-                <CreatedBy.Name>Mitul Patel</CreatedBy.Name>
-                <CreatedDate>2018-06-23T10:30:07.000+0000</CreatedDate>
-                <LastModifiedBy.Id>0052D000000i0phQAA</LastModifiedBy.Id>
-                <LastModifiedBy.Name>Mitul Patel</LastModifiedBy.Name>
-                <LastModifiedDate>2018-06-23T10:30:07.000+0000</LastModifiedDate>
-                <Apttus_Config2__DisplayType__c>Tiered Price</Apttus_Config2__DisplayType__c>
-                <Apttus_Config2__FieldName__c>Apttus_Config2__TierEndValue__c</Apttus_Config2__FieldName__c>
-                <Apttus_Config2__Flow__c>NGDefaultChannel</Apttus_Config2__Flow__c>
-                <Apttus_Config2__IsEditable__c>true</Apttus_Config2__IsEditable__c>
-                <Apttus_Config2__Sequence__c>4</Apttus_Config2__Sequence__c>
-            </sObjects>
-            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayColumns__c">
-                <Name>Tiered Price 5 t5B8wxaSBhFh</Name>
-                <CreatedBy.Id>0052D000000i0phQAA</CreatedBy.Id>
-                <CreatedBy.Name>Mitul Patel</CreatedBy.Name>
-                <CreatedDate>2018-06-23T10:30:07.000+0000</CreatedDate>
-                <LastModifiedBy.Id>0052D000000i0phQAA</LastModifiedBy.Id>
-                <LastModifiedBy.Name>Mitul Patel</LastModifiedBy.Name>
-                <LastModifiedDate>2018-06-23T10:30:07.000+0000</LastModifiedDate>
-                <Apttus_Config2__DisplayType__c>Tiered Price</Apttus_Config2__DisplayType__c>
-                <Apttus_Config2__FieldName__c>Apttus_Config2__TierQuantity__c</Apttus_Config2__FieldName__c>
-                <Apttus_Config2__Flow__c>NGDefaultChannel</Apttus_Config2__Flow__c>
-                <Apttus_Config2__IsEditable__c>true</Apttus_Config2__IsEditable__c>
-                <Apttus_Config2__Sequence__c>5</Apttus_Config2__Sequence__c>
-            </sObjects>
-            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayColumns__c">
                 <Name>Price Ramp 6 uHxcs5mWsLxi</Name>
                 <CreatedBy.Id>0052D000000i0phQAA</CreatedBy.Id>
                 <CreatedBy.Name>Mitul Patel</CreatedBy.Name>
@@ -12055,34 +12107,6 @@
                 <LastModifiedDate>2018-06-23T10:30:07.000+0000</LastModifiedDate>
                 <Apttus_Config2__DisplayType__c>Price Ramp</Apttus_Config2__DisplayType__c>
                 <Apttus_Config2__FieldName__c>Apttus_Config2__StartDate__c</Apttus_Config2__FieldName__c>
-                <Apttus_Config2__Flow__c>NGDefaultChannel</Apttus_Config2__Flow__c>
-                <Apttus_Config2__IsEditable__c>true</Apttus_Config2__IsEditable__c>
-                <Apttus_Config2__Sequence__c>7</Apttus_Config2__Sequence__c>
-            </sObjects>
-            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayColumns__c">
-                <Name>Tiered Price 6 IPioOzA5bBxI</Name>
-                <CreatedBy.Id>0052D000000i0phQAA</CreatedBy.Id>
-                <CreatedBy.Name>Mitul Patel</CreatedBy.Name>
-                <CreatedDate>2018-06-23T10:30:07.000+0000</CreatedDate>
-                <LastModifiedBy.Id>0052D000000i0phQAA</LastModifiedBy.Id>
-                <LastModifiedBy.Name>Mitul Patel</LastModifiedBy.Name>
-                <LastModifiedDate>2018-06-23T10:30:07.000+0000</LastModifiedDate>
-                <Apttus_Config2__DisplayType__c>Tiered Price</Apttus_Config2__DisplayType__c>
-                <Apttus_Config2__FieldName__c>Apttus_Config2__TierFlatPrice__c</Apttus_Config2__FieldName__c>
-                <Apttus_Config2__Flow__c>NGDefaultChannel</Apttus_Config2__Flow__c>
-                <Apttus_Config2__IsEditable__c>true</Apttus_Config2__IsEditable__c>
-                <Apttus_Config2__Sequence__c>6</Apttus_Config2__Sequence__c>
-            </sObjects>
-            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayColumns__c">
-                <Name>Tiered Price 7 a56hkgioDbN7</Name>
-                <CreatedBy.Id>0052D000000i0phQAA</CreatedBy.Id>
-                <CreatedBy.Name>Mitul Patel</CreatedBy.Name>
-                <CreatedDate>2018-06-23T10:30:07.000+0000</CreatedDate>
-                <LastModifiedBy.Id>0052D000000i0phQAA</LastModifiedBy.Id>
-                <LastModifiedBy.Name>Mitul Patel</LastModifiedBy.Name>
-                <LastModifiedDate>2018-06-23T10:30:07.000+0000</LastModifiedDate>
-                <Apttus_Config2__DisplayType__c>Tiered Price</Apttus_Config2__DisplayType__c>
-                <Apttus_Config2__FieldName__c>Apttus_Config2__TierExtendedPrice__c</Apttus_Config2__FieldName__c>
                 <Apttus_Config2__Flow__c>NGDefaultChannel</Apttus_Config2__Flow__c>
                 <Apttus_Config2__IsEditable__c>true</Apttus_Config2__IsEditable__c>
                 <Apttus_Config2__Sequence__c>7</Apttus_Config2__Sequence__c>
