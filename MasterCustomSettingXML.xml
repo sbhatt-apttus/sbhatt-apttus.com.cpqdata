@@ -3403,423 +3403,6 @@
                 <Apttus_Config2__Sequence__c>4</Apttus_Config2__Sequence__c>
             </sObjects>
             <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayActions__c">
-                <Name>Cart Line Item 1 Z8ER4fV91Z3imEx</Name>
-                <CreatedBy.Id>0052D0000017FoUQAU</CreatedBy.Id>
-                <CreatedBy.Name>Sreenivasulu Nellore</CreatedBy.Name>
-                <CreatedDate>2018-08-30T01:14:38.000+0000</CreatedDate>
-                <LastModifiedBy.Id>0052D0000017FoUQAU</LastModifiedBy.Id>
-                <LastModifiedBy.Name>Sreenivasulu Nellore</LastModifiedBy.Name>
-                <LastModifiedDate>2018-08-30T01:14:38.000+0000</LastModifiedDate>
-                <Apttus_Config2__ActionArea__c>Left</Apttus_Config2__ActionArea__c>
-                <Apttus_Config2__ActionLabelName__c>AddMoreProducts</Apttus_Config2__ActionLabelName__c>
-                <Apttus_Config2__ActionName__c>AddMoreProducts</Apttus_Config2__ActionName__c>
-                <Apttus_Config2__AlwaysDisplay__c>true</Apttus_Config2__AlwaysDisplay__c>
-                <Apttus_Config2__DisplayAs__c>Task</Apttus_Config2__DisplayAs__c>
-                <Apttus_Config2__DisplayType__c>Cart Line Item</Apttus_Config2__DisplayType__c>
-                <Apttus_Config2__Flow__c>NGDefaultChannel</Apttus_Config2__Flow__c>
-                <Apttus_Config2__IsEnabled__c>true</Apttus_Config2__IsEnabled__c>
-                <Apttus_Config2__Sequence__c>1</Apttus_Config2__Sequence__c>
-            </sObjects>
-            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayActions__c">
-                <Name>Cart Line Item 2 j58o2k8XvGT3G9A</Name>
-                <CreatedBy.Id>0052D0000017FoUQAU</CreatedBy.Id>
-                <CreatedBy.Name>Sreenivasulu Nellore</CreatedBy.Name>
-                <CreatedDate>2018-08-30T01:14:38.000+0000</CreatedDate>
-                <LastModifiedBy.Id>0052D0000017FoUQAU</LastModifiedBy.Id>
-                <LastModifiedBy.Name>Sreenivasulu Nellore</LastModifiedBy.Name>
-                <LastModifiedDate>2018-08-30T01:14:38.000+0000</LastModifiedDate>
-                <Apttus_Config2__ActionArea__c>Left</Apttus_Config2__ActionArea__c>
-                <Apttus_Config2__ActionLabelName__c>InstalledProducts</Apttus_Config2__ActionLabelName__c>
-                <Apttus_Config2__ActionName__c>InstalledProducts</Apttus_Config2__ActionName__c>
-                <Apttus_Config2__DisplayAs__c>Task</Apttus_Config2__DisplayAs__c>
-                <Apttus_Config2__DisplayType__c>Cart Line Item</Apttus_Config2__DisplayType__c>
-                <Apttus_Config2__Flow__c>NGDefaultChannel</Apttus_Config2__Flow__c>
-                <Apttus_Config2__Sequence__c>2</Apttus_Config2__Sequence__c>
-            </sObjects>
-            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayActions__c">
-                <Name>Cart Line Item 3 uHeI9pGqLGYKUbW</Name>
-                <CreatedBy.Id>0052D0000017FoUQAU</CreatedBy.Id>
-                <CreatedBy.Name>Sreenivasulu Nellore</CreatedBy.Name>
-                <CreatedDate>2018-08-30T01:14:38.000+0000</CreatedDate>
-                <LastModifiedBy.Id>0052D0000017FoUQAU</LastModifiedBy.Id>
-                <LastModifiedBy.Name>Sreenivasulu Nellore</LastModifiedBy.Name>
-                <LastModifiedDate>2018-08-30T01:14:38.000+0000</LastModifiedDate>
-                <Apttus_Config2__ActionArea__c>Center</Apttus_Config2__ActionArea__c>
-                <Apttus_Config2__ActionLabelName__c>AddMiscellaneousItem</Apttus_Config2__ActionLabelName__c>
-                <Apttus_Config2__ActionName__c>AddMiscellaneousItem</Apttus_Config2__ActionName__c>
-                <Apttus_Config2__DisplayAs__c>Action</Apttus_Config2__DisplayAs__c>
-                <Apttus_Config2__DisplayType__c>Cart Line Item</Apttus_Config2__DisplayType__c>
-                <Apttus_Config2__Flow__c>NGDefaultChannel</Apttus_Config2__Flow__c>
-                <Apttus_Config2__Sequence__c>3</Apttus_Config2__Sequence__c>
-            </sObjects>
-            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayActions__c">
-                <Name>Cart Line Item 13 Y6w4nQ5irEIE2TC</Name>
-                <CreatedBy.Id>0052D0000017FoUQAU</CreatedBy.Id>
-                <CreatedBy.Name>Sreenivasulu Nellore</CreatedBy.Name>
-                <CreatedDate>2018-08-30T01:14:38.000+0000</CreatedDate>
-                <LastModifiedBy.Id>0052D0000017FoUQAU</LastModifiedBy.Id>
-                <LastModifiedBy.Name>Sreenivasulu Nellore</LastModifiedBy.Name>
-                <LastModifiedDate>2018-08-30T01:14:38.000+0000</LastModifiedDate>
-                <Apttus_Config2__ActionArea__c>Center</Apttus_Config2__ActionArea__c>
-                <Apttus_Config2__ActionLabelName__c>AnalyzeDeal</Apttus_Config2__ActionLabelName__c>
-                <Apttus_Config2__ActionName__c>AnalyzeDeal</Apttus_Config2__ActionName__c>
-                <Apttus_Config2__DisplayAs__c>Action</Apttus_Config2__DisplayAs__c>
-                <Apttus_Config2__DisplayType__c>Cart Line Item</Apttus_Config2__DisplayType__c>
-                <Apttus_Config2__Flow__c>NGDefaultChannel</Apttus_Config2__Flow__c>
-                <Apttus_Config2__Sequence__c>13</Apttus_Config2__Sequence__c>
-            </sObjects>
-            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayActions__c">
-                <Name>Cart Line Item 10 AJPx6zKA4lm77rX</Name>
-                <CreatedBy.Id>0052D0000017FoUQAU</CreatedBy.Id>
-                <CreatedBy.Name>Sreenivasulu Nellore</CreatedBy.Name>
-                <CreatedDate>2018-08-30T01:14:38.000+0000</CreatedDate>
-                <LastModifiedBy.Id>0052D0000017FoUQAU</LastModifiedBy.Id>
-                <LastModifiedBy.Name>Sreenivasulu Nellore</LastModifiedBy.Name>
-                <LastModifiedDate>2018-08-30T01:14:38.000+0000</LastModifiedDate>
-                <Apttus_Config2__ActionArea__c>Right</Apttus_Config2__ActionArea__c>
-                <Apttus_Config2__ActionLabelName__c>SubmitForApproval</Apttus_Config2__ActionLabelName__c>
-                <Apttus_Config2__ActionName__c>SubmitForApproval</Apttus_Config2__ActionName__c>
-                <Apttus_Config2__DisplayAs__c>Action</Apttus_Config2__DisplayAs__c>
-                <Apttus_Config2__DisplayType__c>Cart Line Item</Apttus_Config2__DisplayType__c>
-                <Apttus_Config2__Flow__c>NGDefaultChannel</Apttus_Config2__Flow__c>
-                <Apttus_Config2__Sequence__c>10</Apttus_Config2__Sequence__c>
-            </sObjects>
-            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayActions__c">
-                <Name>Cart Line Item 11 DoI2azbkCWyIZas</Name>
-                <CreatedBy.Id>0052D0000017FoUQAU</CreatedBy.Id>
-                <CreatedBy.Name>Sreenivasulu Nellore</CreatedBy.Name>
-                <CreatedDate>2018-08-30T01:14:38.000+0000</CreatedDate>
-                <LastModifiedBy.Id>0052D0000017FoUQAU</LastModifiedBy.Id>
-                <LastModifiedBy.Name>Sreenivasulu Nellore</LastModifiedBy.Name>
-                <LastModifiedDate>2018-08-30T01:14:38.000+0000</LastModifiedDate>
-                <Apttus_Config2__ActionArea__c>Center</Apttus_Config2__ActionArea__c>
-                <Apttus_Config2__ActionLabelName__c>GenerateDocument</Apttus_Config2__ActionLabelName__c>
-                <Apttus_Config2__ActionName__c>GenerateDocument</Apttus_Config2__ActionName__c>
-                <Apttus_Config2__DisplayAs__c>Action</Apttus_Config2__DisplayAs__c>
-                <Apttus_Config2__DisplayType__c>Cart Line Item</Apttus_Config2__DisplayType__c>
-                <Apttus_Config2__Flow__c>NGDefaultChannel</Apttus_Config2__Flow__c>
-                <Apttus_Config2__Sequence__c>11</Apttus_Config2__Sequence__c>
-            </sObjects>
-            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayActions__c">
-                <Name>Cart Line Item 4 2u2RsbAQG48yLzF</Name>
-                <CreatedBy.Id>0052D0000017FoUQAU</CreatedBy.Id>
-                <CreatedBy.Name>Sreenivasulu Nellore</CreatedBy.Name>
-                <CreatedDate>2018-08-30T01:14:38.000+0000</CreatedDate>
-                <LastModifiedBy.Id>0052D0000017FoUQAU</LastModifiedBy.Id>
-                <LastModifiedBy.Name>Sreenivasulu Nellore</LastModifiedBy.Name>
-                <LastModifiedDate>2018-08-30T01:14:38.000+0000</LastModifiedDate>
-                <Apttus_Config2__ActionArea__c>Center</Apttus_Config2__ActionArea__c>
-                <Apttus_Config2__ActionLabelName__c>BackToPricing</Apttus_Config2__ActionLabelName__c>
-                <Apttus_Config2__ActionName__c>BackToPricing</Apttus_Config2__ActionName__c>
-                <Apttus_Config2__DisplayAs__c>Action</Apttus_Config2__DisplayAs__c>
-                <Apttus_Config2__DisplayType__c>Cart Line Item</Apttus_Config2__DisplayType__c>
-                <Apttus_Config2__Flow__c>NGDefaultChannel</Apttus_Config2__Flow__c>
-                <Apttus_Config2__Sequence__c>4</Apttus_Config2__Sequence__c>
-            </sObjects>
-            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayActions__c">
-                <Name>Cart Line Item 5 uDfZdyQNCxvFkFS</Name>
-                <CreatedBy.Id>0052D0000017FoUQAU</CreatedBy.Id>
-                <CreatedBy.Name>Sreenivasulu Nellore</CreatedBy.Name>
-                <CreatedDate>2018-08-30T01:14:38.000+0000</CreatedDate>
-                <LastModifiedBy.Id>0052D0000017FoUQAU</LastModifiedBy.Id>
-                <LastModifiedBy.Name>Sreenivasulu Nellore</LastModifiedBy.Name>
-                <LastModifiedDate>2018-08-30T01:14:38.000+0000</LastModifiedDate>
-                <Apttus_Config2__ActionArea__c>Center</Apttus_Config2__ActionArea__c>
-                <Apttus_Config2__ActionLabelName__c>Reprice</Apttus_Config2__ActionLabelName__c>
-                <Apttus_Config2__ActionName__c>Reprice</Apttus_Config2__ActionName__c>
-                <Apttus_Config2__AlwaysDisplay__c>true</Apttus_Config2__AlwaysDisplay__c>
-                <Apttus_Config2__DisplayAs__c>Action</Apttus_Config2__DisplayAs__c>
-                <Apttus_Config2__DisplayType__c>Cart Line Item</Apttus_Config2__DisplayType__c>
-                <Apttus_Config2__Flow__c>NGDefaultChannel</Apttus_Config2__Flow__c>
-                <Apttus_Config2__IsEnabled__c>true</Apttus_Config2__IsEnabled__c>
-                <Apttus_Config2__Sequence__c>5</Apttus_Config2__Sequence__c>
-            </sObjects>
-            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayActions__c">
-                <Name>Cart Line Item 6 CmFqJXMpGYrX7ls</Name>
-                <CreatedBy.Id>0052D0000017FoUQAU</CreatedBy.Id>
-                <CreatedBy.Name>Sreenivasulu Nellore</CreatedBy.Name>
-                <CreatedDate>2018-08-30T01:14:38.000+0000</CreatedDate>
-                <LastModifiedBy.Id>0052D0000017FoUQAU</LastModifiedBy.Id>
-                <LastModifiedBy.Name>Sreenivasulu Nellore</LastModifiedBy.Name>
-                <LastModifiedDate>2018-08-30T01:14:38.000+0000</LastModifiedDate>
-                <Apttus_Config2__ActionArea__c>Center</Apttus_Config2__ActionArea__c>
-                <Apttus_Config2__ActionLabelName__c>Save</Apttus_Config2__ActionLabelName__c>
-                <Apttus_Config2__ActionName__c>Save</Apttus_Config2__ActionName__c>
-                <Apttus_Config2__DisplayAs__c>Action</Apttus_Config2__DisplayAs__c>
-                <Apttus_Config2__DisplayType__c>Cart Line Item</Apttus_Config2__DisplayType__c>
-                <Apttus_Config2__Flow__c>NGDefaultChannel</Apttus_Config2__Flow__c>
-                <Apttus_Config2__Sequence__c>6</Apttus_Config2__Sequence__c>
-            </sObjects>
-            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayActions__c">
-                <Name>Cart Line Item 7 xkwLGSuoyD6VYJA</Name>
-                <CreatedBy.Id>0052D0000017FoUQAU</CreatedBy.Id>
-                <CreatedBy.Name>Sreenivasulu Nellore</CreatedBy.Name>
-                <CreatedDate>2018-08-30T01:14:38.000+0000</CreatedDate>
-                <LastModifiedBy.Id>0052D0000017FoUQAU</LastModifiedBy.Id>
-                <LastModifiedBy.Name>Sreenivasulu Nellore</LastModifiedBy.Name>
-                <LastModifiedDate>2018-08-30T01:14:38.000+0000</LastModifiedDate>
-                <Apttus_Config2__ActionArea__c>Center</Apttus_Config2__ActionArea__c>
-                <Apttus_Config2__ActionLabelName__c>QuickSave</Apttus_Config2__ActionLabelName__c>
-                <Apttus_Config2__ActionName__c>QuickSave</Apttus_Config2__ActionName__c>
-                <Apttus_Config2__DisplayAs__c>Action</Apttus_Config2__DisplayAs__c>
-                <Apttus_Config2__DisplayType__c>Cart Line Item</Apttus_Config2__DisplayType__c>
-                <Apttus_Config2__Flow__c>NGDefaultChannel</Apttus_Config2__Flow__c>
-                <Apttus_Config2__Sequence__c>7</Apttus_Config2__Sequence__c>
-            </sObjects>
-            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayActions__c">
-                <Name>Cart Line Item 12 RWx8ChvoVpy5Klb</Name>
-                <CreatedBy.Id>0052D0000017FoUQAU</CreatedBy.Id>
-                <CreatedBy.Name>Sreenivasulu Nellore</CreatedBy.Name>
-                <CreatedDate>2018-08-30T01:14:38.000+0000</CreatedDate>
-                <LastModifiedBy.Id>0052D0000017FoUQAU</LastModifiedBy.Id>
-                <LastModifiedBy.Name>Sreenivasulu Nellore</LastModifiedBy.Name>
-                <LastModifiedDate>2018-08-30T01:14:38.000+0000</LastModifiedDate>
-                <Apttus_Config2__ActionArea__c>Center</Apttus_Config2__ActionArea__c>
-                <Apttus_Config2__ActionLabelName__c>EditPriceAgreement</Apttus_Config2__ActionLabelName__c>
-                <Apttus_Config2__ActionName__c>EditPriceAgreement</Apttus_Config2__ActionName__c>
-                <Apttus_Config2__DisplayAs__c>Action</Apttus_Config2__DisplayAs__c>
-                <Apttus_Config2__DisplayType__c>Cart Line Item</Apttus_Config2__DisplayType__c>
-                <Apttus_Config2__Flow__c>NGDefaultChannel</Apttus_Config2__Flow__c>
-                <Apttus_Config2__Sequence__c>12</Apttus_Config2__Sequence__c>
-            </sObjects>
-            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayActions__c">
-                <Name>Cart Line Item 8 4XWSL1uDe8ryTxO</Name>
-                <CreatedBy.Id>0052D0000017FoUQAU</CreatedBy.Id>
-                <CreatedBy.Name>Sreenivasulu Nellore</CreatedBy.Name>
-                <CreatedDate>2018-08-30T01:14:38.000+0000</CreatedDate>
-                <LastModifiedBy.Id>0052D0000017FoUQAU</LastModifiedBy.Id>
-                <LastModifiedBy.Name>Sreenivasulu Nellore</LastModifiedBy.Name>
-                <LastModifiedDate>2018-08-30T01:14:38.000+0000</LastModifiedDate>
-                <Apttus_Config2__ActionArea__c>Center</Apttus_Config2__ActionArea__c>
-                <Apttus_Config2__ActionLabelName__c>SaveAndReload</Apttus_Config2__ActionLabelName__c>
-                <Apttus_Config2__ActionName__c>SaveAndReload</Apttus_Config2__ActionName__c>
-                <Apttus_Config2__DisplayAs__c>Action</Apttus_Config2__DisplayAs__c>
-                <Apttus_Config2__DisplayType__c>Cart Line Item</Apttus_Config2__DisplayType__c>
-                <Apttus_Config2__Flow__c>NGDefaultChannel</Apttus_Config2__Flow__c>
-                <Apttus_Config2__Sequence__c>8</Apttus_Config2__Sequence__c>
-            </sObjects>
-            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayActions__c">
-                <Name>Cart Line Item 9 tNjWkq64XBTTDCt</Name>
-                <CreatedBy.Id>0052D0000017FoUQAU</CreatedBy.Id>
-                <CreatedBy.Name>Sreenivasulu Nellore</CreatedBy.Name>
-                <CreatedDate>2018-08-30T01:14:38.000+0000</CreatedDate>
-                <LastModifiedBy.Id>0052D0000017FoUQAU</LastModifiedBy.Id>
-                <LastModifiedBy.Name>Sreenivasulu Nellore</LastModifiedBy.Name>
-                <LastModifiedDate>2018-08-30T01:14:38.000+0000</LastModifiedDate>
-                <Apttus_Config2__ActionArea__c>Left</Apttus_Config2__ActionArea__c>
-                <Apttus_Config2__ActionLabelName__c>CPQ_Save</Apttus_Config2__ActionLabelName__c>
-                <Apttus_Config2__ActionName__c>CustomAction9</Apttus_Config2__ActionName__c>
-                <Apttus_Config2__ActionPage__c>CPQ_Save</Apttus_Config2__ActionPage__c>
-                <Apttus_Config2__ActionStyleClass__c>CPQ_Save</Apttus_Config2__ActionStyleClass__c>
-                <Apttus_Config2__Behavior__c>Self</Apttus_Config2__Behavior__c>
-                <Apttus_Config2__DisplayAs__c>Task</Apttus_Config2__DisplayAs__c>
-                <Apttus_Config2__DisplayType__c>Cart Line Item</Apttus_Config2__DisplayType__c>
-                <Apttus_Config2__Flow__c>NGDefaultChannel</Apttus_Config2__Flow__c>
-                <Apttus_Config2__Sequence__c>9</Apttus_Config2__Sequence__c>
-            </sObjects>
-            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayActions__c">
-                <Name>Cart Line Item 21 4Qzd33yr1yLlEXZ</Name>
-                <CreatedBy.Id>0052D0000017FoUQAU</CreatedBy.Id>
-                <CreatedBy.Name>Sreenivasulu Nellore</CreatedBy.Name>
-                <CreatedDate>2018-08-30T01:14:38.000+0000</CreatedDate>
-                <LastModifiedBy.Id>0052D0000017FoUQAU</LastModifiedBy.Id>
-                <LastModifiedBy.Name>Sreenivasulu Nellore</LastModifiedBy.Name>
-                <LastModifiedDate>2018-08-30T01:14:38.000+0000</LastModifiedDate>
-                <Apttus_Config2__ActionArea__c>Center</Apttus_Config2__ActionArea__c>
-                <Apttus_Config2__ActionLabelName__c>AnalyzeQuote</Apttus_Config2__ActionLabelName__c>
-                <Apttus_Config2__ActionName__c>AnalyzeQuote</Apttus_Config2__ActionName__c>
-                <Apttus_Config2__DisplayAs__c>Action</Apttus_Config2__DisplayAs__c>
-                <Apttus_Config2__DisplayType__c>Cart Line Item</Apttus_Config2__DisplayType__c>
-                <Apttus_Config2__Flow__c>NGDefaultChannel</Apttus_Config2__Flow__c>
-                <Apttus_Config2__Sequence__c>21</Apttus_Config2__Sequence__c>
-            </sObjects>
-            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayActions__c">
-                <Name>Cart Line Item 22 i7dXcAhDNhJqF3c</Name>
-                <CreatedBy.Id>0052D0000017FoUQAU</CreatedBy.Id>
-                <CreatedBy.Name>Sreenivasulu Nellore</CreatedBy.Name>
-                <CreatedDate>2018-08-30T01:14:38.000+0000</CreatedDate>
-                <LastModifiedBy.Id>0052D0000017FoUQAU</LastModifiedBy.Id>
-                <LastModifiedBy.Name>Sreenivasulu Nellore</LastModifiedBy.Name>
-                <LastModifiedDate>2018-08-30T01:14:38.000+0000</LastModifiedDate>
-                <Apttus_Config2__ActionArea__c>Center</Apttus_Config2__ActionArea__c>
-                <Apttus_Config2__ActionLabelName__c>Revalidate</Apttus_Config2__ActionLabelName__c>
-                <Apttus_Config2__ActionName__c>Revalidate</Apttus_Config2__ActionName__c>
-                <Apttus_Config2__DisplayAs__c>Action</Apttus_Config2__DisplayAs__c>
-                <Apttus_Config2__DisplayType__c>Cart Line Item</Apttus_Config2__DisplayType__c>
-                <Apttus_Config2__Flow__c>NGDefaultChannel</Apttus_Config2__Flow__c>
-                <Apttus_Config2__Sequence__c>22</Apttus_Config2__Sequence__c>
-            </sObjects>
-            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayActions__c">
-                <Name>Cart Line Item 23 M3q58r4zBd1HMeS</Name>
-                <CreatedBy.Id>0052D0000017FoUQAU</CreatedBy.Id>
-                <CreatedBy.Name>Sreenivasulu Nellore</CreatedBy.Name>
-                <CreatedDate>2018-08-30T01:14:38.000+0000</CreatedDate>
-                <LastModifiedBy.Id>0052D0000017FoUQAU</LastModifiedBy.Id>
-                <LastModifiedBy.Name>Sreenivasulu Nellore</LastModifiedBy.Name>
-                <LastModifiedDate>2018-08-30T01:14:38.000+0000</LastModifiedDate>
-                <Apttus_Config2__ActionArea__c>Center</Apttus_Config2__ActionArea__c>
-                <Apttus_Config2__ActionLabelName__c>RequestEditAccess</Apttus_Config2__ActionLabelName__c>
-                <Apttus_Config2__ActionName__c>RequestEditAccess</Apttus_Config2__ActionName__c>
-                <Apttus_Config2__DisplayAs__c>Action</Apttus_Config2__DisplayAs__c>
-                <Apttus_Config2__DisplayType__c>Cart Line Item</Apttus_Config2__DisplayType__c>
-                <Apttus_Config2__Flow__c>NGDefaultChannel</Apttus_Config2__Flow__c>
-                <Apttus_Config2__Sequence__c>23</Apttus_Config2__Sequence__c>
-            </sObjects>
-            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayActions__c">
-                <Name>Cart Line Item 24 GGD2SOHrcSHotIg</Name>
-                <CreatedBy.Id>0052D0000017FoUQAU</CreatedBy.Id>
-                <CreatedBy.Name>Sreenivasulu Nellore</CreatedBy.Name>
-                <CreatedDate>2018-08-30T01:14:38.000+0000</CreatedDate>
-                <LastModifiedBy.Id>0052D0000017FoUQAU</LastModifiedBy.Id>
-                <LastModifiedBy.Name>Sreenivasulu Nellore</LastModifiedBy.Name>
-                <LastModifiedDate>2018-08-30T01:14:38.000+0000</LastModifiedDate>
-                <Apttus_Config2__ActionArea__c>Center</Apttus_Config2__ActionArea__c>
-                <Apttus_Config2__ActionLabelName__c>ClaimEditAccess</Apttus_Config2__ActionLabelName__c>
-                <Apttus_Config2__ActionName__c>ClaimEditAccess</Apttus_Config2__ActionName__c>
-                <Apttus_Config2__DisplayAs__c>Action</Apttus_Config2__DisplayAs__c>
-                <Apttus_Config2__DisplayType__c>Cart Line Item</Apttus_Config2__DisplayType__c>
-                <Apttus_Config2__Flow__c>NGDefaultChannel</Apttus_Config2__Flow__c>
-                <Apttus_Config2__Sequence__c>24</Apttus_Config2__Sequence__c>
-            </sObjects>
-            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayActions__c">
-                <Name>Cart Line Item 25 ROibKtRVA6Yl4HM</Name>
-                <CreatedBy.Id>0052D0000017FoUQAU</CreatedBy.Id>
-                <CreatedBy.Name>Sreenivasulu Nellore</CreatedBy.Name>
-                <CreatedDate>2018-08-30T01:14:38.000+0000</CreatedDate>
-                <LastModifiedBy.Id>0052D0000017FoUQAU</LastModifiedBy.Id>
-                <LastModifiedBy.Name>Sreenivasulu Nellore</LastModifiedBy.Name>
-                <LastModifiedDate>2018-08-30T01:14:38.000+0000</LastModifiedDate>
-                <Apttus_Config2__ActionArea__c>Center</Apttus_Config2__ActionArea__c>
-                <Apttus_Config2__ActionLabelName__c>CPQ_CustomRepriceNew</Apttus_Config2__ActionLabelName__c>
-                <Apttus_Config2__ActionName__c>CustomAction25</Apttus_Config2__ActionName__c>
-                <Apttus_Config2__ActionPage__c>CPQ_QuickReprice</Apttus_Config2__ActionPage__c>
-                <Apttus_Config2__ActionType__c>Save</Apttus_Config2__ActionType__c>
-                <Apttus_Config2__AlwaysDisplay__c>true</Apttus_Config2__AlwaysDisplay__c>
-                <Apttus_Config2__Behavior__c>Self</Apttus_Config2__Behavior__c>
-                <Apttus_Config2__DisplayAs__c>Task</Apttus_Config2__DisplayAs__c>
-                <Apttus_Config2__DisplayType__c>Cart Line Item</Apttus_Config2__DisplayType__c>
-                <Apttus_Config2__Flow__c>NGDefaultChannel</Apttus_Config2__Flow__c>
-                <Apttus_Config2__IsEnabled__c>true</Apttus_Config2__IsEnabled__c>
-                <Apttus_Config2__Sequence__c>25</Apttus_Config2__Sequence__c>
-            </sObjects>
-            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayActions__c">
-                <Name>Cart Line Item 14 EL9cmv3hoTb8Y2q</Name>
-                <CreatedBy.Id>0052D0000017FoUQAU</CreatedBy.Id>
-                <CreatedBy.Name>Sreenivasulu Nellore</CreatedBy.Name>
-                <CreatedDate>2018-08-30T01:14:38.000+0000</CreatedDate>
-                <LastModifiedBy.Id>0052D0000017FoUQAU</LastModifiedBy.Id>
-                <LastModifiedBy.Name>Sreenivasulu Nellore</LastModifiedBy.Name>
-                <LastModifiedDate>2018-08-30T01:14:38.000+0000</LastModifiedDate>
-                <Apttus_Config2__ActionArea__c>Center</Apttus_Config2__ActionArea__c>
-                <Apttus_Config2__ActionLabelName__c>ReviewAndFinalize</Apttus_Config2__ActionLabelName__c>
-                <Apttus_Config2__ActionName__c>ReviewAndFinalize</Apttus_Config2__ActionName__c>
-                <Apttus_Config2__DisplayAs__c>Action</Apttus_Config2__DisplayAs__c>
-                <Apttus_Config2__DisplayType__c>Cart Line Item</Apttus_Config2__DisplayType__c>
-                <Apttus_Config2__Flow__c>NGDefaultChannel</Apttus_Config2__Flow__c>
-                <Apttus_Config2__Sequence__c>14</Apttus_Config2__Sequence__c>
-            </sObjects>
-            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayActions__c">
-                <Name>Cart Line Item 15 wepiPpjNQbbneWt</Name>
-                <CreatedBy.Id>0052D0000017FoUQAU</CreatedBy.Id>
-                <CreatedBy.Name>Sreenivasulu Nellore</CreatedBy.Name>
-                <CreatedDate>2018-08-30T01:14:38.000+0000</CreatedDate>
-                <LastModifiedBy.Id>0052D0000017FoUQAU</LastModifiedBy.Id>
-                <LastModifiedBy.Name>Sreenivasulu Nellore</LastModifiedBy.Name>
-                <LastModifiedDate>2018-08-30T01:14:38.000+0000</LastModifiedDate>
-                <Apttus_Config2__ActionArea__c>Center</Apttus_Config2__ActionArea__c>
-                <Apttus_Config2__ActionLabelName__c>More</Apttus_Config2__ActionLabelName__c>
-                <Apttus_Config2__ActionName__c>More</Apttus_Config2__ActionName__c>
-                <Apttus_Config2__DisplayAs__c>Action</Apttus_Config2__DisplayAs__c>
-                <Apttus_Config2__DisplayType__c>Cart Line Item</Apttus_Config2__DisplayType__c>
-                <Apttus_Config2__Flow__c>NGDefaultChannel</Apttus_Config2__Flow__c>
-                <Apttus_Config2__Sequence__c>15</Apttus_Config2__Sequence__c>
-            </sObjects>
-            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayActions__c">
-                <Name>Cart Line Item 18 o8dKlmuYj3BuBzm</Name>
-                <CreatedBy.Id>0052D0000017FoUQAU</CreatedBy.Id>
-                <CreatedBy.Name>Sreenivasulu Nellore</CreatedBy.Name>
-                <CreatedDate>2018-08-30T01:14:38.000+0000</CreatedDate>
-                <LastModifiedBy.Id>0052D0000017FoUQAU</LastModifiedBy.Id>
-                <LastModifiedBy.Name>Sreenivasulu Nellore</LastModifiedBy.Name>
-                <LastModifiedDate>2018-08-30T01:14:38.000+0000</LastModifiedDate>
-                <Apttus_Config2__ActionArea__c>Center</Apttus_Config2__ActionArea__c>
-                <Apttus_Config2__ActionLabelName__c>Abandon</Apttus_Config2__ActionLabelName__c>
-                <Apttus_Config2__ActionName__c>Abandon</Apttus_Config2__ActionName__c>
-                <Apttus_Config2__DisplayAs__c>Action</Apttus_Config2__DisplayAs__c>
-                <Apttus_Config2__DisplayType__c>Cart Line Item</Apttus_Config2__DisplayType__c>
-                <Apttus_Config2__Flow__c>NGDefaultChannel</Apttus_Config2__Flow__c>
-                <Apttus_Config2__Sequence__c>18</Apttus_Config2__Sequence__c>
-            </sObjects>
-            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayActions__c">
-                <Name>Cart Line Item 19 Xbdke1OCidSclbB</Name>
-                <CreatedBy.Id>0052D0000017FoUQAU</CreatedBy.Id>
-                <CreatedBy.Name>Sreenivasulu Nellore</CreatedBy.Name>
-                <CreatedDate>2018-08-30T01:14:38.000+0000</CreatedDate>
-                <LastModifiedBy.Id>0052D0000017FoUQAU</LastModifiedBy.Id>
-                <LastModifiedBy.Name>Sreenivasulu Nellore</LastModifiedBy.Name>
-                <LastModifiedDate>2018-08-30T01:14:38.000+0000</LastModifiedDate>
-                <Apttus_Config2__ActionArea__c>Center</Apttus_Config2__ActionArea__c>
-                <Apttus_Config2__ActionLabelName__c>SubmitForMerge</Apttus_Config2__ActionLabelName__c>
-                <Apttus_Config2__ActionName__c>SubmitForMerge</Apttus_Config2__ActionName__c>
-                <Apttus_Config2__DisplayAs__c>Action</Apttus_Config2__DisplayAs__c>
-                <Apttus_Config2__DisplayType__c>Cart Line Item</Apttus_Config2__DisplayType__c>
-                <Apttus_Config2__Flow__c>NGDefaultChannel</Apttus_Config2__Flow__c>
-                <Apttus_Config2__Sequence__c>19</Apttus_Config2__Sequence__c>
-            </sObjects>
-            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayActions__c">
-                <Name>Cart Line Item 16 GluXQNKcZAtgZqQ</Name>
-                <CreatedBy.Id>0052D0000017FoUQAU</CreatedBy.Id>
-                <CreatedBy.Name>Sreenivasulu Nellore</CreatedBy.Name>
-                <CreatedDate>2018-08-30T01:14:38.000+0000</CreatedDate>
-                <LastModifiedBy.Id>0052D0000017FoUQAU</LastModifiedBy.Id>
-                <LastModifiedBy.Name>Sreenivasulu Nellore</LastModifiedBy.Name>
-                <LastModifiedDate>2018-08-30T01:14:38.000+0000</LastModifiedDate>
-                <Apttus_Config2__ActionArea__c>Center</Apttus_Config2__ActionArea__c>
-                <Apttus_Config2__ActionLabelName__c>Finalize</Apttus_Config2__ActionLabelName__c>
-                <Apttus_Config2__ActionName__c>Finalize</Apttus_Config2__ActionName__c>
-                <Apttus_Config2__AlwaysDisplay__c>true</Apttus_Config2__AlwaysDisplay__c>
-                <Apttus_Config2__DisplayAs__c>Action</Apttus_Config2__DisplayAs__c>
-                <Apttus_Config2__DisplayType__c>Cart Line Item</Apttus_Config2__DisplayType__c>
-                <Apttus_Config2__Flow__c>NGDefaultChannel</Apttus_Config2__Flow__c>
-                <Apttus_Config2__IsEnabled__c>true</Apttus_Config2__IsEnabled__c>
-                <Apttus_Config2__Sequence__c>16</Apttus_Config2__Sequence__c>
-            </sObjects>
-            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayActions__c">
-                <Name>Cart Line Item 17 lxVNCKtqVl6PwhU</Name>
-                <CreatedBy.Id>0052D0000017FoUQAU</CreatedBy.Id>
-                <CreatedBy.Name>Sreenivasulu Nellore</CreatedBy.Name>
-                <CreatedDate>2018-08-30T01:14:38.000+0000</CreatedDate>
-                <LastModifiedBy.Id>0052D0000017FoUQAU</LastModifiedBy.Id>
-                <LastModifiedBy.Name>Sreenivasulu Nellore</LastModifiedBy.Name>
-                <LastModifiedDate>2018-08-30T01:14:38.000+0000</LastModifiedDate>
-                <Apttus_Config2__ActionArea__c>Center</Apttus_Config2__ActionArea__c>
-                <Apttus_Config2__ActionLabelName__c>CloseCart</Apttus_Config2__ActionLabelName__c>
-                <Apttus_Config2__ActionName__c>CloseCart</Apttus_Config2__ActionName__c>
-                <Apttus_Config2__DisplayAs__c>Action</Apttus_Config2__DisplayAs__c>
-                <Apttus_Config2__DisplayType__c>Cart Line Item</Apttus_Config2__DisplayType__c>
-                <Apttus_Config2__Flow__c>NGDefaultChannel</Apttus_Config2__Flow__c>
-                <Apttus_Config2__Sequence__c>17</Apttus_Config2__Sequence__c>
-            </sObjects>
-            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayActions__c">
-                <Name>Cart Line Item 20 VMZCKBqthz6PD6t</Name>
-                <CreatedBy.Id>0052D0000017FoUQAU</CreatedBy.Id>
-                <CreatedBy.Name>Sreenivasulu Nellore</CreatedBy.Name>
-                <CreatedDate>2018-08-30T01:14:38.000+0000</CreatedDate>
-                <LastModifiedBy.Id>0052D0000017FoUQAU</LastModifiedBy.Id>
-                <LastModifiedBy.Name>Sreenivasulu Nellore</LastModifiedBy.Name>
-                <LastModifiedDate>2018-08-30T01:14:38.000+0000</LastModifiedDate>
-                <Apttus_Config2__ActionArea__c>Left</Apttus_Config2__ActionArea__c>
-                <Apttus_Config2__ActionLabelName__c>SendProposal</Apttus_Config2__ActionLabelName__c>
-                <Apttus_Config2__ActionName__c>CustomAction20</Apttus_Config2__ActionName__c>
-                <Apttus_Config2__ActionPage__c>Apttus_Proposal__DocGen</Apttus_Config2__ActionPage__c>
-                <Apttus_Config2__ActionParams__c>context=cart</Apttus_Config2__ActionParams__c>
-                <Apttus_Config2__Behavior__c>Self</Apttus_Config2__Behavior__c>
-                <Apttus_Config2__DisplayAs__c>Action</Apttus_Config2__DisplayAs__c>
-                <Apttus_Config2__DisplayType__c>Cart Line Item</Apttus_Config2__DisplayType__c>
-                <Apttus_Config2__Flow__c>NGDefaultChannel</Apttus_Config2__Flow__c>
-                <Apttus_Config2__Sequence__c>20</Apttus_Config2__Sequence__c>
-            </sObjects>
-            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayActions__c">
                 <Name>Cart Line Item 1 2FmODVAHFzinuSB</Name>
                 <CreatedBy.Id>0052D0000017FoUQAU</CreatedBy.Id>
                 <CreatedBy.Name>Sreenivasulu Nellore</CreatedBy.Name>
@@ -3851,6 +3434,442 @@
                 <Apttus_Config2__DisplayAs__c>Task</Apttus_Config2__DisplayAs__c>
                 <Apttus_Config2__DisplayType__c>Cart Line Item</Apttus_Config2__DisplayType__c>
                 <Apttus_Config2__Flow__c>NGDefault</Apttus_Config2__Flow__c>
+                <Apttus_Config2__Sequence__c>2</Apttus_Config2__Sequence__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayActions__c">
+                <Name>Cart Line Item 3 ZPGlMdbzcdhVyRU</Name>
+                <CreatedBy.Id>0052D0000017FoUQAU</CreatedBy.Id>
+                <CreatedBy.Name>Sreenivasulu Nellore</CreatedBy.Name>
+                <CreatedDate>2018-08-30T14:03:23.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D0000017FoUQAU</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Sreenivasulu Nellore</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T14:03:23.000+0000</LastModifiedDate>
+                <Apttus_Config2__ActionArea__c>Center</Apttus_Config2__ActionArea__c>
+                <Apttus_Config2__ActionLabelName__c>AddMiscellaneousItem</Apttus_Config2__ActionLabelName__c>
+                <Apttus_Config2__ActionName__c>AddMiscellaneousItem</Apttus_Config2__ActionName__c>
+                <Apttus_Config2__DisplayAs__c>Action</Apttus_Config2__DisplayAs__c>
+                <Apttus_Config2__DisplayType__c>Cart Line Item</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__Flow__c>NGDefaultChannel</Apttus_Config2__Flow__c>
+                <Apttus_Config2__Sequence__c>3</Apttus_Config2__Sequence__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayActions__c">
+                <Name>Cart Line Item 4 d2BxPocTFg1wkee</Name>
+                <CreatedBy.Id>0052D0000017FoUQAU</CreatedBy.Id>
+                <CreatedBy.Name>Sreenivasulu Nellore</CreatedBy.Name>
+                <CreatedDate>2018-08-30T14:03:23.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D0000017FoUQAU</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Sreenivasulu Nellore</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T14:03:23.000+0000</LastModifiedDate>
+                <Apttus_Config2__ActionArea__c>Center</Apttus_Config2__ActionArea__c>
+                <Apttus_Config2__ActionLabelName__c>BackToPricing</Apttus_Config2__ActionLabelName__c>
+                <Apttus_Config2__ActionName__c>BackToPricing</Apttus_Config2__ActionName__c>
+                <Apttus_Config2__DisplayAs__c>Action</Apttus_Config2__DisplayAs__c>
+                <Apttus_Config2__DisplayType__c>Cart Line Item</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__Flow__c>NGDefaultChannel</Apttus_Config2__Flow__c>
+                <Apttus_Config2__Sequence__c>4</Apttus_Config2__Sequence__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayActions__c">
+                <Name>Cart Line Item 5 zeUH5frQCYzHf32</Name>
+                <CreatedBy.Id>0052D0000017FoUQAU</CreatedBy.Id>
+                <CreatedBy.Name>Sreenivasulu Nellore</CreatedBy.Name>
+                <CreatedDate>2018-08-30T14:03:23.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D0000017FoUQAU</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Sreenivasulu Nellore</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T14:03:23.000+0000</LastModifiedDate>
+                <Apttus_Config2__ActionArea__c>Center</Apttus_Config2__ActionArea__c>
+                <Apttus_Config2__ActionLabelName__c>Reprice</Apttus_Config2__ActionLabelName__c>
+                <Apttus_Config2__ActionName__c>Reprice</Apttus_Config2__ActionName__c>
+                <Apttus_Config2__AlwaysDisplay__c>true</Apttus_Config2__AlwaysDisplay__c>
+                <Apttus_Config2__DisplayAs__c>Action</Apttus_Config2__DisplayAs__c>
+                <Apttus_Config2__DisplayType__c>Cart Line Item</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__Flow__c>NGDefaultChannel</Apttus_Config2__Flow__c>
+                <Apttus_Config2__IsEnabled__c>true</Apttus_Config2__IsEnabled__c>
+                <Apttus_Config2__Sequence__c>5</Apttus_Config2__Sequence__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayActions__c">
+                <Name>Cart Line Item 6 l48LkGK6INuh9Zn</Name>
+                <CreatedBy.Id>0052D0000017FoUQAU</CreatedBy.Id>
+                <CreatedBy.Name>Sreenivasulu Nellore</CreatedBy.Name>
+                <CreatedDate>2018-08-30T14:03:23.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D0000017FoUQAU</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Sreenivasulu Nellore</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T14:03:23.000+0000</LastModifiedDate>
+                <Apttus_Config2__ActionArea__c>Center</Apttus_Config2__ActionArea__c>
+                <Apttus_Config2__ActionLabelName__c>Save</Apttus_Config2__ActionLabelName__c>
+                <Apttus_Config2__ActionName__c>Save</Apttus_Config2__ActionName__c>
+                <Apttus_Config2__DisplayAs__c>Action</Apttus_Config2__DisplayAs__c>
+                <Apttus_Config2__DisplayType__c>Cart Line Item</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__Flow__c>NGDefaultChannel</Apttus_Config2__Flow__c>
+                <Apttus_Config2__Sequence__c>6</Apttus_Config2__Sequence__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayActions__c">
+                <Name>Cart Line Item 7 1PiVUU5Dj3y3GCF</Name>
+                <CreatedBy.Id>0052D0000017FoUQAU</CreatedBy.Id>
+                <CreatedBy.Name>Sreenivasulu Nellore</CreatedBy.Name>
+                <CreatedDate>2018-08-30T14:03:23.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D0000017FoUQAU</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Sreenivasulu Nellore</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T14:03:23.000+0000</LastModifiedDate>
+                <Apttus_Config2__ActionArea__c>Center</Apttus_Config2__ActionArea__c>
+                <Apttus_Config2__ActionLabelName__c>QuickSave</Apttus_Config2__ActionLabelName__c>
+                <Apttus_Config2__ActionName__c>QuickSave</Apttus_Config2__ActionName__c>
+                <Apttus_Config2__DisplayAs__c>Action</Apttus_Config2__DisplayAs__c>
+                <Apttus_Config2__DisplayType__c>Cart Line Item</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__Flow__c>NGDefaultChannel</Apttus_Config2__Flow__c>
+                <Apttus_Config2__Sequence__c>7</Apttus_Config2__Sequence__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayActions__c">
+                <Name>Cart Line Item 8 kqkbplgypS6vUim</Name>
+                <CreatedBy.Id>0052D0000017FoUQAU</CreatedBy.Id>
+                <CreatedBy.Name>Sreenivasulu Nellore</CreatedBy.Name>
+                <CreatedDate>2018-08-30T14:03:23.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D0000017FoUQAU</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Sreenivasulu Nellore</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T14:03:23.000+0000</LastModifiedDate>
+                <Apttus_Config2__ActionArea__c>Center</Apttus_Config2__ActionArea__c>
+                <Apttus_Config2__ActionLabelName__c>SaveAndReload</Apttus_Config2__ActionLabelName__c>
+                <Apttus_Config2__ActionName__c>SaveAndReload</Apttus_Config2__ActionName__c>
+                <Apttus_Config2__DisplayAs__c>Action</Apttus_Config2__DisplayAs__c>
+                <Apttus_Config2__DisplayType__c>Cart Line Item</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__Flow__c>NGDefaultChannel</Apttus_Config2__Flow__c>
+                <Apttus_Config2__Sequence__c>8</Apttus_Config2__Sequence__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayActions__c">
+                <Name>Cart Line Item 9 6KqOmIAELm7Q4mj</Name>
+                <CreatedBy.Id>0052D0000017FoUQAU</CreatedBy.Id>
+                <CreatedBy.Name>Sreenivasulu Nellore</CreatedBy.Name>
+                <CreatedDate>2018-08-30T14:03:23.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D0000017FoUQAU</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Sreenivasulu Nellore</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T14:03:23.000+0000</LastModifiedDate>
+                <Apttus_Config2__ActionArea__c>Left</Apttus_Config2__ActionArea__c>
+                <Apttus_Config2__ActionLabelName__c>CPQ_Save</Apttus_Config2__ActionLabelName__c>
+                <Apttus_Config2__ActionName__c>CustomAction9</Apttus_Config2__ActionName__c>
+                <Apttus_Config2__ActionPage__c>CPQ_Save</Apttus_Config2__ActionPage__c>
+                <Apttus_Config2__ActionStyleClass__c>CPQ_Save</Apttus_Config2__ActionStyleClass__c>
+                <Apttus_Config2__Behavior__c>Self</Apttus_Config2__Behavior__c>
+                <Apttus_Config2__DisplayAs__c>Task</Apttus_Config2__DisplayAs__c>
+                <Apttus_Config2__DisplayType__c>Cart Line Item</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__Flow__c>NGDefaultChannel</Apttus_Config2__Flow__c>
+                <Apttus_Config2__Sequence__c>9</Apttus_Config2__Sequence__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayActions__c">
+                <Name>Cart Line Item 10 sjEzUvruF7QOxqo</Name>
+                <CreatedBy.Id>0052D0000017FoUQAU</CreatedBy.Id>
+                <CreatedBy.Name>Sreenivasulu Nellore</CreatedBy.Name>
+                <CreatedDate>2018-08-30T14:03:23.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D0000017FoUQAU</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Sreenivasulu Nellore</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T14:03:23.000+0000</LastModifiedDate>
+                <Apttus_Config2__ActionArea__c>Right</Apttus_Config2__ActionArea__c>
+                <Apttus_Config2__ActionLabelName__c>SubmitForApproval</Apttus_Config2__ActionLabelName__c>
+                <Apttus_Config2__ActionName__c>SubmitForApproval</Apttus_Config2__ActionName__c>
+                <Apttus_Config2__DisplayAs__c>Action</Apttus_Config2__DisplayAs__c>
+                <Apttus_Config2__DisplayType__c>Cart Line Item</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__Flow__c>NGDefaultChannel</Apttus_Config2__Flow__c>
+                <Apttus_Config2__Sequence__c>10</Apttus_Config2__Sequence__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayActions__c">
+                <Name>Cart Line Item 11 9W4TARdqUPjUXkJ</Name>
+                <CreatedBy.Id>0052D0000017FoUQAU</CreatedBy.Id>
+                <CreatedBy.Name>Sreenivasulu Nellore</CreatedBy.Name>
+                <CreatedDate>2018-08-30T14:03:23.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D0000017FoUQAU</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Sreenivasulu Nellore</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T14:03:23.000+0000</LastModifiedDate>
+                <Apttus_Config2__ActionArea__c>Center</Apttus_Config2__ActionArea__c>
+                <Apttus_Config2__ActionLabelName__c>GenerateDocument</Apttus_Config2__ActionLabelName__c>
+                <Apttus_Config2__ActionName__c>GenerateDocument</Apttus_Config2__ActionName__c>
+                <Apttus_Config2__DisplayAs__c>Action</Apttus_Config2__DisplayAs__c>
+                <Apttus_Config2__DisplayType__c>Cart Line Item</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__Flow__c>NGDefaultChannel</Apttus_Config2__Flow__c>
+                <Apttus_Config2__Sequence__c>11</Apttus_Config2__Sequence__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayActions__c">
+                <Name>Cart Line Item 12 SE74X6kEPOXgwzX</Name>
+                <CreatedBy.Id>0052D0000017FoUQAU</CreatedBy.Id>
+                <CreatedBy.Name>Sreenivasulu Nellore</CreatedBy.Name>
+                <CreatedDate>2018-08-30T14:03:23.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D0000017FoUQAU</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Sreenivasulu Nellore</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T14:03:23.000+0000</LastModifiedDate>
+                <Apttus_Config2__ActionArea__c>Center</Apttus_Config2__ActionArea__c>
+                <Apttus_Config2__ActionLabelName__c>EditPriceAgreement</Apttus_Config2__ActionLabelName__c>
+                <Apttus_Config2__ActionName__c>EditPriceAgreement</Apttus_Config2__ActionName__c>
+                <Apttus_Config2__DisplayAs__c>Action</Apttus_Config2__DisplayAs__c>
+                <Apttus_Config2__DisplayType__c>Cart Line Item</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__Flow__c>NGDefaultChannel</Apttus_Config2__Flow__c>
+                <Apttus_Config2__Sequence__c>12</Apttus_Config2__Sequence__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayActions__c">
+                <Name>Cart Line Item 13 tHKOF45Uaqit8dy</Name>
+                <CreatedBy.Id>0052D0000017FoUQAU</CreatedBy.Id>
+                <CreatedBy.Name>Sreenivasulu Nellore</CreatedBy.Name>
+                <CreatedDate>2018-08-30T14:03:23.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D0000017FoUQAU</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Sreenivasulu Nellore</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T14:03:23.000+0000</LastModifiedDate>
+                <Apttus_Config2__ActionArea__c>Center</Apttus_Config2__ActionArea__c>
+                <Apttus_Config2__ActionLabelName__c>AnalyzeDeal</Apttus_Config2__ActionLabelName__c>
+                <Apttus_Config2__ActionName__c>AnalyzeDeal</Apttus_Config2__ActionName__c>
+                <Apttus_Config2__DisplayAs__c>Action</Apttus_Config2__DisplayAs__c>
+                <Apttus_Config2__DisplayType__c>Cart Line Item</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__Flow__c>NGDefaultChannel</Apttus_Config2__Flow__c>
+                <Apttus_Config2__Sequence__c>13</Apttus_Config2__Sequence__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayActions__c">
+                <Name>Cart Line Item 14 JRYSFdeRtdCmpII</Name>
+                <CreatedBy.Id>0052D0000017FoUQAU</CreatedBy.Id>
+                <CreatedBy.Name>Sreenivasulu Nellore</CreatedBy.Name>
+                <CreatedDate>2018-08-30T14:03:23.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D0000017FoUQAU</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Sreenivasulu Nellore</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T14:03:23.000+0000</LastModifiedDate>
+                <Apttus_Config2__ActionArea__c>Center</Apttus_Config2__ActionArea__c>
+                <Apttus_Config2__ActionLabelName__c>ReviewAndFinalize</Apttus_Config2__ActionLabelName__c>
+                <Apttus_Config2__ActionName__c>ReviewAndFinalize</Apttus_Config2__ActionName__c>
+                <Apttus_Config2__DisplayAs__c>Action</Apttus_Config2__DisplayAs__c>
+                <Apttus_Config2__DisplayType__c>Cart Line Item</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__Flow__c>NGDefaultChannel</Apttus_Config2__Flow__c>
+                <Apttus_Config2__Sequence__c>14</Apttus_Config2__Sequence__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayActions__c">
+                <Name>Cart Line Item 15 D26O3CfAZccLK4y</Name>
+                <CreatedBy.Id>0052D0000017FoUQAU</CreatedBy.Id>
+                <CreatedBy.Name>Sreenivasulu Nellore</CreatedBy.Name>
+                <CreatedDate>2018-08-30T14:03:23.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D0000017FoUQAU</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Sreenivasulu Nellore</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T14:03:23.000+0000</LastModifiedDate>
+                <Apttus_Config2__ActionArea__c>Center</Apttus_Config2__ActionArea__c>
+                <Apttus_Config2__ActionLabelName__c>More</Apttus_Config2__ActionLabelName__c>
+                <Apttus_Config2__ActionName__c>More</Apttus_Config2__ActionName__c>
+                <Apttus_Config2__DisplayAs__c>Action</Apttus_Config2__DisplayAs__c>
+                <Apttus_Config2__DisplayType__c>Cart Line Item</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__Flow__c>NGDefaultChannel</Apttus_Config2__Flow__c>
+                <Apttus_Config2__Sequence__c>15</Apttus_Config2__Sequence__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayActions__c">
+                <Name>Cart Line Item 16 JFVO5hlPBv1DNoH</Name>
+                <CreatedBy.Id>0052D0000017FoUQAU</CreatedBy.Id>
+                <CreatedBy.Name>Sreenivasulu Nellore</CreatedBy.Name>
+                <CreatedDate>2018-08-30T14:03:23.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D0000017FoUQAU</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Sreenivasulu Nellore</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T14:03:23.000+0000</LastModifiedDate>
+                <Apttus_Config2__ActionArea__c>Center</Apttus_Config2__ActionArea__c>
+                <Apttus_Config2__ActionLabelName__c>Finalize</Apttus_Config2__ActionLabelName__c>
+                <Apttus_Config2__ActionName__c>Finalize</Apttus_Config2__ActionName__c>
+                <Apttus_Config2__AlwaysDisplay__c>true</Apttus_Config2__AlwaysDisplay__c>
+                <Apttus_Config2__DisplayAs__c>Action</Apttus_Config2__DisplayAs__c>
+                <Apttus_Config2__DisplayType__c>Cart Line Item</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__Flow__c>NGDefaultChannel</Apttus_Config2__Flow__c>
+                <Apttus_Config2__IsEnabled__c>true</Apttus_Config2__IsEnabled__c>
+                <Apttus_Config2__Sequence__c>16</Apttus_Config2__Sequence__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayActions__c">
+                <Name>Cart Line Item 17 jyGPBdENpwVEOjO</Name>
+                <CreatedBy.Id>0052D0000017FoUQAU</CreatedBy.Id>
+                <CreatedBy.Name>Sreenivasulu Nellore</CreatedBy.Name>
+                <CreatedDate>2018-08-30T14:03:23.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D0000017FoUQAU</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Sreenivasulu Nellore</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T14:03:23.000+0000</LastModifiedDate>
+                <Apttus_Config2__ActionArea__c>Center</Apttus_Config2__ActionArea__c>
+                <Apttus_Config2__ActionLabelName__c>CloseCart</Apttus_Config2__ActionLabelName__c>
+                <Apttus_Config2__ActionName__c>CloseCart</Apttus_Config2__ActionName__c>
+                <Apttus_Config2__DisplayAs__c>Action</Apttus_Config2__DisplayAs__c>
+                <Apttus_Config2__DisplayType__c>Cart Line Item</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__Flow__c>NGDefaultChannel</Apttus_Config2__Flow__c>
+                <Apttus_Config2__Sequence__c>17</Apttus_Config2__Sequence__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayActions__c">
+                <Name>Cart Line Item 18 YCLPGrVYELOEE3P</Name>
+                <CreatedBy.Id>0052D0000017FoUQAU</CreatedBy.Id>
+                <CreatedBy.Name>Sreenivasulu Nellore</CreatedBy.Name>
+                <CreatedDate>2018-08-30T14:03:23.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D0000017FoUQAU</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Sreenivasulu Nellore</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T14:03:23.000+0000</LastModifiedDate>
+                <Apttus_Config2__ActionArea__c>Center</Apttus_Config2__ActionArea__c>
+                <Apttus_Config2__ActionLabelName__c>Abandon</Apttus_Config2__ActionLabelName__c>
+                <Apttus_Config2__ActionName__c>Abandon</Apttus_Config2__ActionName__c>
+                <Apttus_Config2__DisplayAs__c>Action</Apttus_Config2__DisplayAs__c>
+                <Apttus_Config2__DisplayType__c>Cart Line Item</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__Flow__c>NGDefaultChannel</Apttus_Config2__Flow__c>
+                <Apttus_Config2__Sequence__c>18</Apttus_Config2__Sequence__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayActions__c">
+                <Name>Cart Line Item 19 no1QOpLWwoJlsaW</Name>
+                <CreatedBy.Id>0052D0000017FoUQAU</CreatedBy.Id>
+                <CreatedBy.Name>Sreenivasulu Nellore</CreatedBy.Name>
+                <CreatedDate>2018-08-30T14:03:23.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D0000017FoUQAU</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Sreenivasulu Nellore</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T14:03:23.000+0000</LastModifiedDate>
+                <Apttus_Config2__ActionArea__c>Center</Apttus_Config2__ActionArea__c>
+                <Apttus_Config2__ActionLabelName__c>SubmitForMerge</Apttus_Config2__ActionLabelName__c>
+                <Apttus_Config2__ActionName__c>SubmitForMerge</Apttus_Config2__ActionName__c>
+                <Apttus_Config2__DisplayAs__c>Action</Apttus_Config2__DisplayAs__c>
+                <Apttus_Config2__DisplayType__c>Cart Line Item</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__Flow__c>NGDefaultChannel</Apttus_Config2__Flow__c>
+                <Apttus_Config2__Sequence__c>19</Apttus_Config2__Sequence__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayActions__c">
+                <Name>Cart Line Item 20 t6K8QpQGw7FyL3M</Name>
+                <CreatedBy.Id>0052D0000017FoUQAU</CreatedBy.Id>
+                <CreatedBy.Name>Sreenivasulu Nellore</CreatedBy.Name>
+                <CreatedDate>2018-08-30T14:03:23.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D0000017FoUQAU</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Sreenivasulu Nellore</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T14:03:23.000+0000</LastModifiedDate>
+                <Apttus_Config2__ActionArea__c>Left</Apttus_Config2__ActionArea__c>
+                <Apttus_Config2__ActionLabelName__c>SendProposal</Apttus_Config2__ActionLabelName__c>
+                <Apttus_Config2__ActionName__c>CustomAction20</Apttus_Config2__ActionName__c>
+                <Apttus_Config2__ActionPage__c>Apttus_Proposal__DocGen</Apttus_Config2__ActionPage__c>
+                <Apttus_Config2__ActionParams__c>context=cart</Apttus_Config2__ActionParams__c>
+                <Apttus_Config2__Behavior__c>Self</Apttus_Config2__Behavior__c>
+                <Apttus_Config2__DisplayAs__c>Action</Apttus_Config2__DisplayAs__c>
+                <Apttus_Config2__DisplayType__c>Cart Line Item</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__Flow__c>NGDefaultChannel</Apttus_Config2__Flow__c>
+                <Apttus_Config2__Sequence__c>20</Apttus_Config2__Sequence__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayActions__c">
+                <Name>Cart Line Item 21 hNFDS1lO9sdCKaN</Name>
+                <CreatedBy.Id>0052D0000017FoUQAU</CreatedBy.Id>
+                <CreatedBy.Name>Sreenivasulu Nellore</CreatedBy.Name>
+                <CreatedDate>2018-08-30T14:03:23.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D0000017FoUQAU</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Sreenivasulu Nellore</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T14:03:23.000+0000</LastModifiedDate>
+                <Apttus_Config2__ActionArea__c>Center</Apttus_Config2__ActionArea__c>
+                <Apttus_Config2__ActionLabelName__c>AnalyzeQuote</Apttus_Config2__ActionLabelName__c>
+                <Apttus_Config2__ActionName__c>AnalyzeQuote</Apttus_Config2__ActionName__c>
+                <Apttus_Config2__DisplayAs__c>Action</Apttus_Config2__DisplayAs__c>
+                <Apttus_Config2__DisplayType__c>Cart Line Item</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__Flow__c>NGDefaultChannel</Apttus_Config2__Flow__c>
+                <Apttus_Config2__Sequence__c>21</Apttus_Config2__Sequence__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayActions__c">
+                <Name>Cart Line Item 22 YAWXtwb4jecJqJU</Name>
+                <CreatedBy.Id>0052D0000017FoUQAU</CreatedBy.Id>
+                <CreatedBy.Name>Sreenivasulu Nellore</CreatedBy.Name>
+                <CreatedDate>2018-08-30T14:03:23.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D0000017FoUQAU</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Sreenivasulu Nellore</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T14:03:23.000+0000</LastModifiedDate>
+                <Apttus_Config2__ActionArea__c>Center</Apttus_Config2__ActionArea__c>
+                <Apttus_Config2__ActionLabelName__c>Revalidate</Apttus_Config2__ActionLabelName__c>
+                <Apttus_Config2__ActionName__c>Revalidate</Apttus_Config2__ActionName__c>
+                <Apttus_Config2__DisplayAs__c>Action</Apttus_Config2__DisplayAs__c>
+                <Apttus_Config2__DisplayType__c>Cart Line Item</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__Flow__c>NGDefaultChannel</Apttus_Config2__Flow__c>
+                <Apttus_Config2__Sequence__c>22</Apttus_Config2__Sequence__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayActions__c">
+                <Name>Cart Line Item 23 vmpVqcBoivnUfLw</Name>
+                <CreatedBy.Id>0052D0000017FoUQAU</CreatedBy.Id>
+                <CreatedBy.Name>Sreenivasulu Nellore</CreatedBy.Name>
+                <CreatedDate>2018-08-30T14:03:23.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D0000017FoUQAU</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Sreenivasulu Nellore</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T14:03:23.000+0000</LastModifiedDate>
+                <Apttus_Config2__ActionArea__c>Center</Apttus_Config2__ActionArea__c>
+                <Apttus_Config2__ActionLabelName__c>RequestEditAccess</Apttus_Config2__ActionLabelName__c>
+                <Apttus_Config2__ActionName__c>RequestEditAccess</Apttus_Config2__ActionName__c>
+                <Apttus_Config2__DisplayAs__c>Action</Apttus_Config2__DisplayAs__c>
+                <Apttus_Config2__DisplayType__c>Cart Line Item</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__Flow__c>NGDefaultChannel</Apttus_Config2__Flow__c>
+                <Apttus_Config2__Sequence__c>23</Apttus_Config2__Sequence__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayActions__c">
+                <Name>Cart Line Item 24 S4XimmtAtHjHXY9</Name>
+                <CreatedBy.Id>0052D0000017FoUQAU</CreatedBy.Id>
+                <CreatedBy.Name>Sreenivasulu Nellore</CreatedBy.Name>
+                <CreatedDate>2018-08-30T14:03:23.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D0000017FoUQAU</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Sreenivasulu Nellore</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T14:03:23.000+0000</LastModifiedDate>
+                <Apttus_Config2__ActionArea__c>Center</Apttus_Config2__ActionArea__c>
+                <Apttus_Config2__ActionLabelName__c>ClaimEditAccess</Apttus_Config2__ActionLabelName__c>
+                <Apttus_Config2__ActionName__c>ClaimEditAccess</Apttus_Config2__ActionName__c>
+                <Apttus_Config2__DisplayAs__c>Action</Apttus_Config2__DisplayAs__c>
+                <Apttus_Config2__DisplayType__c>Cart Line Item</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__Flow__c>NGDefaultChannel</Apttus_Config2__Flow__c>
+                <Apttus_Config2__Sequence__c>24</Apttus_Config2__Sequence__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayActions__c">
+                <Name>Cart Line Item 25 xH3X8td6nHAJeou</Name>
+                <CreatedBy.Id>0052D0000017FoUQAU</CreatedBy.Id>
+                <CreatedBy.Name>Sreenivasulu Nellore</CreatedBy.Name>
+                <CreatedDate>2018-08-30T14:03:23.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D0000017FoUQAU</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Sreenivasulu Nellore</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T14:03:23.000+0000</LastModifiedDate>
+                <Apttus_Config2__ActionArea__c>Center</Apttus_Config2__ActionArea__c>
+                <Apttus_Config2__ActionLabelName__c>CPQ_Quick_Reprice</Apttus_Config2__ActionLabelName__c>
+                <Apttus_Config2__ActionName__c>CustomAction25</Apttus_Config2__ActionName__c>
+                <Apttus_Config2__ActionPage__c>CPQ_QuickReprice</Apttus_Config2__ActionPage__c>
+                <Apttus_Config2__ActionType__c>Save</Apttus_Config2__ActionType__c>
+                <Apttus_Config2__AlwaysDisplay__c>true</Apttus_Config2__AlwaysDisplay__c>
+                <Apttus_Config2__Behavior__c>Self</Apttus_Config2__Behavior__c>
+                <Apttus_Config2__DisplayAs__c>Task</Apttus_Config2__DisplayAs__c>
+                <Apttus_Config2__DisplayType__c>Cart Line Item</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__Flow__c>NGDefaultChannel</Apttus_Config2__Flow__c>
+                <Apttus_Config2__IsEnabled__c>true</Apttus_Config2__IsEnabled__c>
+                <Apttus_Config2__Sequence__c>25</Apttus_Config2__Sequence__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayActions__c">
+                <Name>Cart Line Item 26 2CWUnvCAoSBrDxQ</Name>
+                <CreatedBy.Id>0052D0000017FoUQAU</CreatedBy.Id>
+                <CreatedBy.Name>Sreenivasulu Nellore</CreatedBy.Name>
+                <CreatedDate>2018-08-30T14:03:23.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D0000017FoUQAU</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Sreenivasulu Nellore</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T14:03:23.000+0000</LastModifiedDate>
+                <Apttus_Config2__ActionArea__c>Center</Apttus_Config2__ActionArea__c>
+                <Apttus_Config2__ActionLabelName__c>CPQ_CustomReprice</Apttus_Config2__ActionLabelName__c>
+                <Apttus_Config2__ActionName__c>CustomAction26</Apttus_Config2__ActionName__c>
+                <Apttus_Config2__ActionPage__c>CPQ_CustomReprice</Apttus_Config2__ActionPage__c>
+                <Apttus_Config2__ActionType__c>Save</Apttus_Config2__ActionType__c>
+                <Apttus_Config2__Behavior__c>Self</Apttus_Config2__Behavior__c>
+                <Apttus_Config2__DisplayAs__c>Task</Apttus_Config2__DisplayAs__c>
+                <Apttus_Config2__DisplayType__c>Cart Line Item</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__Flow__c>NGDefaultChannel</Apttus_Config2__Flow__c>
+                <Apttus_Config2__Sequence__c>26</Apttus_Config2__Sequence__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayActions__c">
+                <Name>Cart Line Item 1 9faW3FJtykoox6f</Name>
+                <CreatedBy.Id>0052D0000017FoUQAU</CreatedBy.Id>
+                <CreatedBy.Name>Sreenivasulu Nellore</CreatedBy.Name>
+                <CreatedDate>2018-08-30T14:03:23.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D0000017FoUQAU</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Sreenivasulu Nellore</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T14:03:23.000+0000</LastModifiedDate>
+                <Apttus_Config2__ActionArea__c>Left</Apttus_Config2__ActionArea__c>
+                <Apttus_Config2__ActionLabelName__c>AddMoreProducts</Apttus_Config2__ActionLabelName__c>
+                <Apttus_Config2__ActionName__c>AddMoreProducts</Apttus_Config2__ActionName__c>
+                <Apttus_Config2__AlwaysDisplay__c>true</Apttus_Config2__AlwaysDisplay__c>
+                <Apttus_Config2__DisplayAs__c>Task</Apttus_Config2__DisplayAs__c>
+                <Apttus_Config2__DisplayType__c>Cart Line Item</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__Flow__c>NGDefaultChannel</Apttus_Config2__Flow__c>
+                <Apttus_Config2__IsEnabled__c>true</Apttus_Config2__IsEnabled__c>
+                <Apttus_Config2__Sequence__c>1</Apttus_Config2__Sequence__c>
+            </sObjects>
+            <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayActions__c">
+                <Name>Cart Line Item 2 L4kp4WszwCJJeXK</Name>
+                <CreatedBy.Id>0052D0000017FoUQAU</CreatedBy.Id>
+                <CreatedBy.Name>Sreenivasulu Nellore</CreatedBy.Name>
+                <CreatedDate>2018-08-30T14:03:23.000+0000</CreatedDate>
+                <LastModifiedBy.Id>0052D0000017FoUQAU</LastModifiedBy.Id>
+                <LastModifiedBy.Name>Sreenivasulu Nellore</LastModifiedBy.Name>
+                <LastModifiedDate>2018-08-30T14:03:23.000+0000</LastModifiedDate>
+                <Apttus_Config2__ActionArea__c>Left</Apttus_Config2__ActionArea__c>
+                <Apttus_Config2__ActionLabelName__c>InstalledProducts</Apttus_Config2__ActionLabelName__c>
+                <Apttus_Config2__ActionName__c>InstalledProducts</Apttus_Config2__ActionName__c>
+                <Apttus_Config2__DisplayAs__c>Task</Apttus_Config2__DisplayAs__c>
+                <Apttus_Config2__DisplayType__c>Cart Line Item</Apttus_Config2__DisplayType__c>
+                <Apttus_Config2__Flow__c>NGDefaultChannel</Apttus_Config2__Flow__c>
                 <Apttus_Config2__Sequence__c>2</Apttus_Config2__Sequence__c>
             </sObjects>
             <sObjects xsi:type="Apttus_Config2__ConfigCustomDisplayActions__c">
